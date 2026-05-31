@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-31T04:55:27.239Z",
+  "collections": {
+    "prompts": [
+      {
+        "name": "狸花猫的日常",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-260128",
+        "description": "狸花猫的幸福生活",
+        "promptText": "狸花猫在打盹",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "动物 "
+        ],
+        "updatedAt": "2026-05-31T02:47:23.533Z",
+        "createdAt": "2026-05-31T02:47:23.533Z",
+        "id": 1
+      }
+    ],
+    "scripts": [],
+    "workflows": [],
+    "videos": []
+  }
+}
