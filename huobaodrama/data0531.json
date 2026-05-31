@@ -1,7 +1,7 @@
 {
   "protocol": "huobao-drama-sync",
   "version": "1.0.0",
-  "syncedAt": "2026-05-31T08:53:33.632Z",
+  "syncedAt": "2026-05-31T13:21:35.048Z",
   "dramaId": 1,
   "drama": {
     "id": 1,
@@ -16,7 +16,7 @@
     "tags": null,
     "metadata": null,
     "created_at": "2026-05-24T05:18:00.671Z",
-    "updated_at": "2026-05-24T05:18:00.671Z",
+    "updated_at": "2026-05-31T13:21:03.376Z",
     "deleted_at": null
   },
   "episodes": [
@@ -36,7 +36,26 @@
       "video_config_id": null,
       "audio_config_id": null,
       "created_at": "2026-05-24T05:18:00.671Z",
-      "updated_at": "2026-05-24T08:51:36.111Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "drama_id": 1,
+      "episode_number": 2,
+      "title": "夫妻炒焖面",
+      "content": null,
+      "script_content": null,
+      "description": null,
+      "duration": 0,
+      "status": "draft",
+      "video_url": null,
+      "thumbnail": null,
+      "image_config_id": 5,
+      "video_config_id": 7,
+      "audio_config_id": 1,
+      "created_at": "2026-05-31T13:21:30.209Z",
+      "updated_at": "2026-05-31T13:21:30.209Z",
       "deleted_at": null
     }
   ],
@@ -58,7 +77,7 @@
       "voice_sample_url": null,
       "voice_provider": "minimax",
       "created_at": "2026-05-24T08:50:41.869Z",
-      "updated_at": "2026-05-31T07:57:50.000Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     }
   ],
@@ -75,7 +94,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-05-24T08:50:41.875Z",
-      "updated_at": "2026-05-31T07:58:07.316Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     }
   ],
@@ -105,13 +124,13 @@
       "first_frame_image": "static/images/8d42b756-c05c-472c-9c06-5e9da4f63e11.jpeg",
       "last_frame_image": null,
       "reference_images": null,
-      "video_url": null,
+      "video_url": "static/videos/a3113b2f-5307-4f17-9c9d-4e0a91551f6e.mp4",
       "tts_audio_url": null,
       "subtitle_url": null,
-      "composed_video_url": null,
+      "composed_video_url": "static/composed/fb44f98c-3fee-4739-bb1a-58ae9bbddaae.mp4",
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-05-31T07:59:10.840Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     },
     {
@@ -139,13 +158,13 @@
       "first_frame_image": "static/images/6785b866-5581-4c20-a595-9fc65bdc6e1b.jpeg",
       "last_frame_image": null,
       "reference_images": null,
-      "video_url": null,
+      "video_url": "static/videos/9b8d417f-482e-4371-b42b-d217045bb658.mp4",
       "tts_audio_url": "static/audio/77992e58-0419-493e-92c7-dc664e2bd7ef.mp3",
       "subtitle_url": null,
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-05-31T07:59:37.244Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     },
     {
@@ -173,13 +192,13 @@
       "first_frame_image": "static/images/59b2b66a-f2eb-4ede-85ce-5bcfa01fe131.jpeg",
       "last_frame_image": null,
       "reference_images": null,
-      "video_url": null,
+      "video_url": "static/videos/69fd0953-c023-4df9-b4df-4bcc1501f8b9.mp4",
       "tts_audio_url": "static/audio/208ddffa-a4c1-4f1b-913f-70270b7b6c24.mp3",
       "subtitle_url": null,
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-05-31T07:59:59.147Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     },
     {
@@ -207,13 +226,13 @@
       "first_frame_image": "static/images/8faca531-1c3b-4d46-96ee-bf46c724de56.jpeg",
       "last_frame_image": null,
       "reference_images": null,
-      "video_url": null,
+      "video_url": "static/videos/2ae1477b-0e95-4482-b79f-c04d6318cdb5.mp4",
       "tts_audio_url": "static/audio/4f7f56ff-8570-461f-bdfe-bc00bf9749c2.mp3",
       "subtitle_url": null,
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-05-31T08:00:07.702Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     },
     {
@@ -241,13 +260,13 @@
       "first_frame_image": "static/images/7508f394-31f1-43ed-a248-fa52333feb38.jpeg",
       "last_frame_image": null,
       "reference_images": null,
-      "video_url": null,
-      "tts_audio_url": null,
+      "video_url": "static/videos/b10b4790-a133-4b90-9a8a-238415cd4f2d.mp4",
+      "tts_audio_url": "static/audio/791c2a31-b25c-47e9-b528-8687d149e4ed.mp3",
       "subtitle_url": null,
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-05-31T08:00:17.731Z",
+      "updated_at": "2026-05-31T13:21:03.376Z",
       "deleted_at": null
     }
   ],
