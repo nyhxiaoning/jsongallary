@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-31T04:36:36.591Z",
+  "collections": {
+    "prompts": [
+      {
+        "name": "快乐小猫做饭",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-260128",
+        "description": "两只可爱的拟人化猫咪厨师在山西面馆制作炒焖面，一只奶牛猫、一只狸花猫。奶牛猫负责翻炒面条，狸花猫负责添加配菜和调料。大铁锅里金黄色炒焖面热气腾腾，豆角、五花肉、胡萝卜丝色彩丰富。两只猫咪表情认真又可爱，厨房温馨明亮，充满中国传统面馆氛围。暖黄色灯光，治愈系插画风格，宫崎骏动画质感，超高细节，精致毛发，可爱表情，童话般场景。",
+        "promptText": "两只可爱的拟人化猫咪厨师在山西面馆制作炒焖面，一只奶牛猫、一只狸花猫。奶牛猫负责翻炒面条，狸花猫负责添加配菜和调料。大铁锅里金黄色炒焖面热气腾腾，豆角、五花肉、胡萝卜丝色彩丰富。两只猫咪表情认真又可爱，厨房温馨明亮，充满中国传统面馆氛围。暖黄色灯光，治愈系插画风格，宫崎骏动画质感，超高细节，精致毛发，可爱表情，童话般场景。",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [
+          "https://raw.githubusercontent.com/nyhxiaoning/gallary_d/main/ai/putao.jpg",
+          "https://raw.githubusercontent.com/nyhxiaoning/gallary_d/main/ai/xiaoroumao5.jpg"
+        ],
+        "tags": [
+          "做饭"
+        ],
+        "updatedAt": "2026-05-31T01:44:17.277Z",
+        "createdAt": "2026-05-31T01:44:17.277Z",
+        "id": 1
+      }
+    ],
+    "scripts": [],
+    "workflows": [],
+    "videos": []
+  }
+}
