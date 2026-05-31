@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T04:55:27.239Z",
+  "updatedAt": "2026-05-31T13:27:33.815Z",
   "collections": {
     "prompts": [
       {
@@ -24,6 +24,28 @@
         "updatedAt": "2026-05-31T02:47:23.533Z",
         "createdAt": "2026-05-31T02:47:23.533Z",
         "id": 1
+      },
+      {
+        "name": "猫咪炒焖面",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "猫咪炒焖面",
+        "promptText": "全景：温馨简约农家小厨房，木质灶台，摆放面条、青菜、酱料、食用油；\n近景 1：圆滚滚的狸花猫直立站在灶台前，小爪子握着铁锅铲，认真翻炒焖面，面条香气袅袅；\n近景 2：黑白奶牛猫蹲在一旁，帮忙递蔬菜、整理碗筷，时不时探头偷吃，动作调皮呆萌；\n整体风格：真人写实画风，自然光暖光，画面清晰流畅，动作自然连贯，搞笑治愈居家日常，短视频节奏，细节丰富",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "生活"
+        ],
+        "updatedAt": "2026-05-31T13:27:31.445Z",
+        "createdAt": "2026-05-31T13:27:31.445Z",
+        "id": 2
       }
     ],
     "scripts": [],
