@@ -1,7 +1,7 @@
 {
   "protocol": "huobao-drama-sync",
   "version": "1.0.0",
-  "syncedAt": "2026-06-01T13:35:32.874Z",
+  "syncedAt": "2026-06-01T14:31:21.604Z",
   "dramaId": 1,
   "drama": {
     "id": 1,
@@ -16,7 +16,7 @@
     "tags": null,
     "metadata": null,
     "created_at": "2026-05-24T05:18:00.671Z",
-    "updated_at": "2026-06-01T13:35:29.966Z",
+    "updated_at": "2026-06-01T14:31:13.203Z",
     "deleted_at": null
   },
   "episodes": [
@@ -36,7 +36,7 @@
       "video_config_id": null,
       "audio_config_id": null,
       "created_at": "2026-05-24T05:18:00.671Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -55,7 +55,26 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-05-31T13:21:30.209Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "drama_id": 1,
+      "episode_number": 3,
+      "title": "做三明治",
+      "content": "温馨居家厨房场景，自然光柔和暖光，两只拟人化猫咪合作制作三明治。一只狸花猫直立站在木质料理台前，肉爪握着餐刀认真切吐司面包、摆放生菜番茄；一只黑白奶牛猫蹲在旁边，帮忙递火腿片、挤沙拉酱，尾巴轻轻晃动，表情呆萌俏皮。猫咪体态圆润可爱，动作流畅自然，桌面摆放新鲜食材、餐盘、刀具，整体画面充满烟火气，写实人像风格，高清细节，8K 画质，动态流畅，治愈温馨日常短片，构图饱满，色彩柔和。",
+      "script_content": "温馨居家厨房场景，自然光柔和暖光，两只拟人化猫咪合作制作三明治。一只狸花猫直立站在木质料理台前，肉爪握着餐刀认真切吐司面包、摆放生菜番茄；一只黑白奶牛猫蹲在旁边，帮忙递火腿片、挤沙拉酱，尾巴轻轻晃动，表情呆萌俏皮。猫咪体态圆润可爱，动作流畅自然，桌面摆放新鲜食材、餐盘、刀具，整体画面充满烟火气，写实人像风格，高清细节，8K 画质，动态流畅，治愈温馨日常短片，构图饱满，色彩柔和。",
+      "description": null,
+      "duration": 1,
+      "status": "draft",
+      "video_url": null,
+      "thumbnail": null,
+      "image_config_id": 11,
+      "video_config_id": 7,
+      "audio_config_id": 1,
+      "created_at": "2026-06-01T13:35:50.758Z",
+      "updated_at": "2026-06-01T13:37:33.184Z",
       "deleted_at": null
     }
   ],
@@ -77,7 +96,7 @@
       "voice_sample_url": null,
       "voice_provider": "edge-tts",
       "created_at": "2026-05-24T08:50:41.869Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -97,7 +116,7 @@
       "voice_sample_url": "static/audio/515ac03b-aab6-4eb6-9977-d1da1abeb530.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -117,7 +136,7 @@
       "voice_sample_url": "static/audio/790de4fd-7bc1-4c3a-b4f7-c728b6a44e0d.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     }
   ],
@@ -134,7 +153,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-05-24T08:50:41.875Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -149,7 +168,22 @@
       "status": "processing",
       "local_path": null,
       "created_at": "2026-05-31T13:24:23.410Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "drama_id": 1,
+      "episode_id": null,
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "prompt": "A cozy home kitchen, warm natural sunlight streaming in, two anthropomorphic cats standing at a wooden counter making sandwiches, fresh ingredients on the countertop - bread, lettuce, tomatoes, ham slices, salad dressing, plates and knives neatly arranged, warm amber lighting, steam rising gently, homely and heartwarming atmosphere, realistic portrait style, high detail, 8k quality, smooth motion, healing daily life short film, full composition, soft colors, cinematic lighting",
+      "storyboard_count": 1,
+      "image_url": "static/images/05a49a4b-4257-4bba-bdc0-109440a873e0.png",
+      "status": "completed",
+      "local_path": null,
+      "created_at": "2026-06-01T13:36:39.684Z",
+      "updated_at": "2026-06-01T13:38:12.969Z",
       "deleted_at": null
     }
   ],
@@ -185,7 +219,7 @@
       "composed_video_url": "static/composed/fb44f98c-3fee-4739-bb1a-58ae9bbddaae.mp4",
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -219,7 +253,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -253,7 +287,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -287,7 +321,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -321,7 +355,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -355,7 +389,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -389,7 +423,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -423,7 +457,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -457,7 +491,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -491,7 +525,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -525,7 +559,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -559,7 +593,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -593,7 +627,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -627,7 +661,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -661,7 +695,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -695,7 +729,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -729,7 +763,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -763,7 +797,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:54.035Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
       "deleted_at": null
     },
     {
@@ -797,7 +831,177 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:57.163Z",
-      "updated_at": "2026-06-01T13:35:29.966Z",
+      "updated_at": "2026-06-01T14:31:13.203Z",
+      "deleted_at": null
+    },
+    {
+      "id": 20,
+      "episode_id": 3,
+      "scene_id": 3,
+      "storyboard_number": 1,
+      "title": "厨房准备",
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "shot_type": "全景",
+      "angle": "平视",
+      "movement": "固定",
+      "action": "狸花猫围着围裙站在木质料理台前，将吐司面包、生菜、番茄片等食材整齐摆好；奶牛猫蹲在旁边，好奇地探头看，尾巴轻轻晃动。",
+      "result": "食材全部就位，两只猫准备开始制作三明治。",
+      "atmosphere": "温馨、治愈、暖色调，柔和的自然光从窗户洒入，厨房充满烟火气。",
+      "image_prompt": "温馨居家厨房，全景，木质料理台，狸花猫系围裙直立，肉爪摆放吐司面包和生菜番茄，奶牛猫蹲在旁边，自然光柔和，暖色调，写实风格，8K，高清细节。",
+      "video_prompt": "0-3秒：<location>温馨居家厨房</location>，全景固定镜头，柔和的自然光从窗户照入，狸花猫系着小围裙站在木质料理台前，把吐司面包一片片摆好。<n>3-6秒：<location>温馨居家厨房</location>，中景，狸花猫的肉爪小心地拿起生菜叶铺在盘子里，动作认真，尾巴得意地微微翘起。<n>6-9秒：<location>温馨居家厨房</location>，镜头缓缓右移，展示餐台上整齐摆放的番茄片、火腿片和沙拉酱瓶，食材新鲜丰富。<n>9-12秒：<location>温馨居家厨房</location>，全景，奶牛猫从旁边探头凑近食材，好奇地嗅了嗅，尾巴轻轻晃动，狸花猫侧头看了它一眼，嘴角带着宠溺的微笑。",
+      "bgm_prompt": "轻快治愈的木吉他伴奏，温暖悠闲的日常曲风，节奏舒缓中带着欢快。",
+      "sound_effect": "刀具轻碰砧板的清脆声、食材摆放的轻微摩擦声、窗外隐约的鸟鸣",
+      "dialogue": "旁白：阳光正好的午后，两只小猫决定做一顿美味的下午茶。",
+      "description": "镜头以固定全景呈现温馨厨房全貌，狸花猫系着围裙在料理台前整理食材，奶牛猫蹲在一旁好奇张望，桌面摆满新鲜食材，自然光柔和洒入。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": "static/videos/dc4131ac-9f4a-4f53-b667-beed6ded4356.mp4",
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-01T13:39:56.354Z",
+      "deleted_at": null
+    },
+    {
+      "id": 21,
+      "episode_id": 3,
+      "scene_id": 3,
+      "storyboard_number": 2,
+      "title": "认真切面包",
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "shot_type": "近景",
+      "angle": "侧拍",
+      "movement": "推镜",
+      "action": "狸花猫站直身体，肉爪稳稳握住餐刀，专注地将吐司面包斜切成三角形，切面整齐均匀，刀法娴熟。",
+      "result": "吐司面包被干净利落地切成两半，切面平整金黄。",
+      "atmosphere": "专注、细腻，光线聚焦在面包和刀面上，暖光强化食物的诱人质感。",
+      "image_prompt": "近景侧拍，狸花猫的肉爪握着餐刀切吐司面包，面包切面金黄酥脆，刀口干净利落，暖光聚焦在食材上，猫咪表情专注，写实风格，8K，高清微距质感。",
+      "video_prompt": "0-3秒：<location>温馨居家厨房</location>，近景侧拍，镜头缓缓向前推，狸花猫的肉爪握住银色的餐刀，刀面反射温暖的光。<n>3-6秒：<role>狸花猫</role>轻轻将刀按在吐司面包上，动作稳而轻柔，开始缓慢下刀切割。<n>6-9秒：刀锋划过面包表皮发出酥脆声响，面包被均匀切开，内部绵密的纹理清晰可见。<n>9-12秒：切完后，<role>狸花猫</role>满意地抬起肉爪，低头看了看平整的切面，睫毛微垂，嘴角轻轻上扬。",
+      "bgm_prompt": "轻柔的钢琴单音伴随刀切声的节奏，温馨治愈的日系生活配乐。",
+      "sound_effect": "餐刀划过面包皮的酥脆声、面包屑落下的细微沙沙声、猫咪轻轻的呼噜声",
+      "dialogue": "",
+      "description": "侧拍近景推镜，聚焦狸花猫切面包的肉爪和餐刀，刀口划过面包的细节清晰可见，猫咪表情专注认真，展现出熟练的厨艺。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": "static/videos/377dd19c-b66d-4d2d-af51-172620d3bb9e.mp4",
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-01T13:46:27.957Z",
+      "deleted_at": null
+    },
+    {
+      "id": 22,
+      "episode_id": 3,
+      "scene_id": 3,
+      "storyboard_number": 3,
+      "title": "合作组装",
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "shot_type": "中景",
+      "angle": "平视",
+      "movement": "摇镜",
+      "action": "狸花猫把生菜和番茄片铺在面包上；奶牛猫蹲在旁边，用肉爪笨拙地捧起一片火腿递过去，挤沙拉酱时不小心挤多了一点，呆萌地歪头看了看。",
+      "result": "三明治初步组合完成，沙拉酱稍微多了些但整体完整，奶牛猫一脸无辜。",
+      "atmosphere": "俏皮、温馨、欢乐，光线明亮柔和，充满生活趣味和温暖互动。",
+      "image_prompt": "中景平视，木质料理台上三明治正在组装，狸花猫摆放生菜番茄，奶牛猫双手捧着火腿片递过来，沙拉酱瓶在旁边，桌上食材丰富，暖光柔和，写实风格，猫咪表情生动，8K。",
+      "video_prompt": "0-3秒：<location>温馨居家厨房</location>，中景镜头从左向右平稳摇移，<role>狸花猫</role>用肉爪细心地将生菜叶铺在面包上，压平边角。<n>3-6秒：<role>奶牛猫</role>双手笨拙地捧起一片粉色的火腿片，小心翼翼地递向三明治，尾巴因紧张而微微僵直。<n>6-9秒：<role>奶牛猫</role>拿起沙拉酱瓶用力一挤，结果挤出了一大坨，它呆呆地低头看着那坨酱，歪了歪头。<n>9-12秒：<role>狸花猫</role>回头看到这情景，无奈地轻轻摇头，但眼里满是宠溺，奶牛猫抬头看狸花猫，眨了眨大眼睛装无辜。",
+      "bgm_prompt": "活泼轻快的尤克里里搭配手鼓节奏，俏皮可爱，充满互动欢乐感。",
+      "sound_effect": "生菜被压平的脆响、火腿片轻放的声音、沙拉酱挤出的噗嗤声、猫咪轻喵一声",
+      "dialogue": "奶牛猫：喵？（歪头看挤多的沙拉酱，露出无辜表情）",
+      "description": "中景摇镜展现两只猫合作组装三明治的画面，狸花猫负责结构摆放，奶牛猫笨拙但努力地递火腿和挤酱，互动充满治愈感。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": "static/videos/04e677e9-bbe3-41e0-91f6-d1d6190d799e.mp4",
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-01T13:47:46.318Z",
+      "deleted_at": null
+    },
+    {
+      "id": 23,
+      "episode_id": 3,
+      "scene_id": 3,
+      "storyboard_number": 4,
+      "title": "偷偷尝一口",
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "shot_type": "特写",
+      "angle": "俯拍",
+      "movement": "固定",
+      "action": "趁狸花猫转身去拿盘子，奶牛猫飞快地伸出小爪从三明治边缘勾出一小片生菜塞进嘴里，腮帮子鼓鼓地嚼着，眼神偷瞄狸花猫有没有发现。",
+      "result": "奶牛猫偷吃成功，嘴边还露着半片生菜叶，狸花猫尚未察觉。",
+      "atmosphere": "俏皮、小淘气、轻松幽默，光线聚焦在奶牛猫的脸和爪子上，营造偷偷摸摸的趣味感。",
+      "image_prompt": "俯拍特写，木质料理台上三明治的一角，黑白奶牛猫的肉爪悄悄勾出一片生菜塞进嘴里，腮帮子鼓起，眼睛睁得圆圆的偷瞄旁边，表情呆萌心虚，暖光照射，8K，高清细节。",
+      "video_prompt": "0-3秒：<location>温馨居家厨房</location>，俯拍特写固定镜头，<role>狸花猫</role>转身走向橱柜拿盘子，背影入画后离开。<n>3-6秒：<role>奶牛猫</role>见狸花猫走开，立刻眼睛一亮，小肉爪悄咪咪地伸向三明治边缘。<n>6-9秒：爪子勾出一片翠绿的生菜叶，飞快塞进嘴里，腮帮子立刻鼓起来，嘴角还露出一小截菜叶。<n>9-12秒：<role>奶牛猫</role>一边嚼一边心虚地转动眼珠，偷瞄狸花猫的方向，尾巴尖不自在地轻轻勾了一下，随即若无其事地舔舔嘴。",
+      "bgm_prompt": "轻快俏皮的小提琴拨弦配合木琴，带有一点偷吃时的紧张感和喜剧效果。",
+      "sound_effect": "生菜被咬断的清脆咔嚓声、猫咪吧唧嘴的声音、狸花猫走远的脚步声",
+      "dialogue": "旁白：不过嘛…这位小帮厨也有自己的小心思。",
+      "description": "俯拍特写镜头，捕捉奶牛猫趁狸花猫不注意偷吃生菜的瞬间，腮帮子鼓鼓囊囊，眼神还心虚地飘向旁边，呆萌又可爱。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": "static/videos/10f3f444-41a9-486a-80e3-d72834c0912f.mp4",
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-01T13:52:03.838Z",
+      "deleted_at": null
+    },
+    {
+      "id": 24,
+      "episode_id": 3,
+      "scene_id": 3,
+      "storyboard_number": 5,
+      "title": "成品温馨收尾",
+      "location": "温馨居家厨房",
+      "time": "白天·自然光",
+      "shot_type": "全景",
+      "angle": "平视",
+      "movement": "拉镜",
+      "action": "狸花猫端着做好的完整三明治放在餐桌中间，奶牛猫乖巧地蹲在桌边，两只猫并排坐着看向镜头，三明治层次分明、卖相诱人，阳光洒满画面。",
+      "result": "三明治完美完成，两只猫温馨并坐，故事在暖阳中圆满收尾。",
+      "atmosphere": "幸福、圆满、温暖治愈，金黄色的自然光铺满整个厨房和餐桌，画面色彩饱和温暖。",
+      "image_prompt": "全景平视，温馨厨房餐桌前，狸花猫和奶牛猫并排坐着，中间摆着一个分层精致的三明治，阳光从窗户洒入，暖色调，画面温暖治愈，两只猫咪表情满足，写实风格，8K，高清细节，电影感构图。",
+      "video_prompt": "0-3秒：<location>温馨居家厨房</location>，全景镜头缓缓向后拉远，<role>狸花猫</role>双手端着盛有三明治的白色餐盘，轻轻放到木桌上。<n>3-6秒：<role>奶牛猫</role>蹦跶着跳上椅子，乖巧地蹲坐在桌边，两只前爪搭在桌沿，期待地看着三明治。<n>6-9秒：镜头继续拉远至全景，三明治层次分明——金黄的吐司、翠绿的生菜、红润的番茄、粉色的火腿和奶白的沙拉酱完美叠放。<n>9-12秒：<role>狸花猫</role>和<role>奶牛猫</role>并排坐好，柔和的金色阳光洒在它们身上和餐桌上，画面温暖宁静，两只猫同时微微歪头，露出满足温柔的神情，故事在暖阳中落幕。",
+      "bgm_prompt": "温暖的弦乐与钢琴协奏，舒缓悠扬，充满幸福感和治愈力的片尾音乐。",
+      "sound_effect": "餐盘轻放木桌的温和碰撞声、猫咪满足的呼噜声、窗外微风拂过的轻柔声",
+      "dialogue": "旁白：虽然过程有些小插曲，但美食嘛……和喜欢的人一起分享才最美味。",
+      "description": "全景拉镜收尾，两只猫咪并排坐在餐桌前，中间放着做好的精致三明治，阳光柔和洒落，整体画面温暖治愈，充满幸福感。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": null,
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-01T13:37:33.184Z",
       "deleted_at": null
     }
   ],
@@ -819,6 +1023,18 @@
       "episode_id": 2,
       "character_id": 3,
       "created_at": "2026-05-31T13:24:23.409Z"
+    },
+    {
+      "id": 4,
+      "episode_id": 3,
+      "character_id": 2,
+      "created_at": "2026-06-01T13:36:36.472Z"
+    },
+    {
+      "id": 5,
+      "episode_id": 3,
+      "character_id": 3,
+      "created_at": "2026-06-01T13:36:36.473Z"
     }
   ],
   "episodeScenes": [
@@ -833,6 +1049,12 @@
       "episode_id": 2,
       "scene_id": 2,
       "created_at": "2026-05-31T13:24:23.412Z"
+    },
+    {
+      "id": 3,
+      "episode_id": 3,
+      "scene_id": 3,
+      "created_at": "2026-06-01T13:36:39.686Z"
     }
   ],
   "storyboardCharacters": [
@@ -910,6 +1132,38 @@
     },
     {
       "storyboard_id": 17,
+      "character_id": 3
+    },
+    {
+      "storyboard_id": 20,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 20,
+      "character_id": 3
+    },
+    {
+      "storyboard_id": 21,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 22,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 22,
+      "character_id": 3
+    },
+    {
+      "storyboard_id": 23,
+      "character_id": 3
+    },
+    {
+      "storyboard_id": 24,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 24,
       "character_id": 3
     }
   ]
