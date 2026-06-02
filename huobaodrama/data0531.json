@@ -1,7 +1,7 @@
 {
   "protocol": "huobao-drama-sync",
   "version": "1.0.0",
-  "syncedAt": "2026-06-01T14:31:21.604Z",
+  "syncedAt": "2026-06-02T13:45:33.925Z",
   "dramaId": 1,
   "drama": {
     "id": 1,
@@ -16,7 +16,7 @@
     "tags": null,
     "metadata": null,
     "created_at": "2026-05-24T05:18:00.671Z",
-    "updated_at": "2026-06-01T14:31:13.203Z",
+    "updated_at": "2026-06-02T13:45:30.357Z",
     "deleted_at": null
   },
   "episodes": [
@@ -36,7 +36,7 @@
       "video_config_id": null,
       "audio_config_id": null,
       "created_at": "2026-05-24T05:18:00.671Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -55,7 +55,7 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-05-31T13:21:30.209Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -74,7 +74,45 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-06-01T13:35:50.758Z",
-      "updated_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "drama_id": 1,
+      "episode_number": 4,
+      "title": "炒河粉",
+      "content": null,
+      "script_content": null,
+      "description": null,
+      "duration": 0,
+      "status": "draft",
+      "video_url": null,
+      "thumbnail": null,
+      "image_config_id": 11,
+      "video_config_id": 7,
+      "audio_config_id": 1,
+      "created_at": "2026-06-01T14:31:31.202Z",
+      "updated_at": "2026-06-01T14:31:31.202Z",
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "drama_id": 1,
+      "episode_number": 5,
+      "title": "牛肉丸子面",
+      "content": "温馨家常中式小厨房，暖黄色自然光，写实美食纪录片画风，一只圆滚滚胖乎乎短毛狸花猫直立拟人操作厨具，体型敦实脸蛋圆润，全程亲手制作正宗临汾牛肉丸子面。\n备菜细节：狸花猫肉爪择青菜、手搓紧实牛肉丸子、切卤牛肉片、备好红油辣椒、蒜苗、香菜；起锅烧水，下入手工丸子煮熟，另起铁锅炼香辣红油，兑秘制老卤汤底，煮熟粗圆鲜面条，捞面入白瓷大碗，铺满牛肉片、牛肉丸子、烫青菜，浇满红亮卤汤，撒蒜苗香菜。\n收尾剧情：狸花猫捧着热气腾腾红油丸子面，小心翼翼端给蹲在桌边眼巴巴等候的黑白奶牛猫，奶牛猫开心抬头，厨房飘热气、烟火缭绕，食物色泽油亮红润，画面细腻高清 8K，动态流畅自然，生活化治愈短片，镜头顺滑，美食质感真实",
+      "script_content": "## S01 | 内景 · 中式小厨房 | 午后\n\n暖黄色的自然光洒进整洁的小厨房，灶台上锅碗瓢盆摆放齐整。一只圆滚滚的狸花猫系着围裙，踮着肉爪站在案板前，认真撸起袖子。\n\n狸花猫：（哼着小调）唔...今天要做点好的。\n\n它从竹篮里取出几株翠绿青菜，肉爪笨拙又仔细地择去老叶，一片一片洗净，甩了甩水珠。\n\n---\n\n## S02 | 内景 · 中式小厨房 | 午后\n\n狸花猫将一大碗牛肉馅倒进盆里，撒入调料，两只肉爪使劲揉搓。\n\n狸花猫：（嘴里嘟囔）使劲儿揉，肉才紧实。\n\n它抓一把肉馅在掌心里来回滚圆，一颗颗乒乓球大小的牛肉丸子整齐排放在盘中，圆润饱满。接着又拿出一块卤牛肉，小心翼翼地切成薄片，刀工虽慢但认真到位。\n\n---\n\n## S03 | 内景 · 中式小厨房 | 午后\n\n灶台点火，蓝色火苗舔着锅底。狸花猫踮脚往锅里倒了清水，盖上锅盖等水烧开。\n\n趁着等水的功夫，它转身拿出一个小碗，依次放入红亮的辣椒面、蒜末和香料。另起一口小铁锅，倒入菜油烧热，\"滋啦\"一声泼进辣椒碗里，红油翻滚冒泡，香气四溢。\n\n狸花猫：（凑近闻了闻，眯起眼）香！\n\n---\n\n## S04 | 内景 · 中式小厨房 | 午后\n\n大锅水开，狸花猫将手工牛肉丸子一个个滑入沸水中。丸子沉底后又慢慢浮起，在滚水里翻腾。\n\n它捞出煮熟的丸子放在一旁，又往锅里舀了几勺老卤汤底，倒入刚炼好的红油，汤汁瞬间变得红亮诱人。狸花猫搅了搅汤勺，尝了尝味道，满意地点点头。\n\n---\n\n## S05 | 内景 · 中式小厨房 | 午后\n\n狸花猫将一把粗圆鲜面条抖散下锅，用长筷轻轻拨开。面条在沸水中翻滚，渐渐变得柔韧透亮。\n\n它捞出面条，沥干水分，利落地放进一只白瓷大碗里。碗底铺好面条后，它一颗颗码上牛肉丸子，再铺上一层卤牛肉薄片，旁边摆上烫好的翠绿青菜。\n\n---\n\n## S06 | 内景 · 中式小厨房 | 午后\n\n狸花猫端起红亮的卤汤锅，小心翼翼地将滚烫的汤汁浇进碗里——汤汁漫过面条，浸润每一颗丸子和牛肉片，油光红润。\n\n它又抓了一把蒜苗碎和香菜撒在表面，热气升腾中，整碗面油亮红润，香气扑鼻。\n\n狸花猫：（擦了擦额头的汗，笑眯眯）好啦！\n\n---\n\n## S07 | 内景 · 餐厅角落 | 午后\n\n狸花猫两只肉爪捧着那碗热气腾腾的红油丸子面，小心翼翼地走向餐桌。桌角边，一只黑白奶牛猫已经蹲在那里，眼巴巴地望着它，尾巴轻轻摇晃。\n\n狸花猫将面碗稳稳放在奶牛猫面前。\n\n奶牛猫：（仰起头，眼睛亮晶晶）喵！\n\n狸花猫：（蹲下身，温柔地）慢点吃，烫。\n\n厨房里热气氤氲，烟火缭绕，红油面的光泽在暖光下格外诱人。奶牛猫埋头吃面，狸花猫在一旁静静看着，嘴角带着笑。",
+      "description": null,
+      "duration": 1,
+      "status": "draft",
+      "video_url": null,
+      "thumbnail": null,
+      "image_config_id": 11,
+      "video_config_id": 7,
+      "audio_config_id": 1,
+      "created_at": "2026-06-02T12:19:32.712Z",
+      "updated_at": "2026-06-02T13:20:09.796Z",
       "deleted_at": null
     }
   ],
@@ -96,7 +134,7 @@
       "voice_sample_url": null,
       "voice_provider": "edge-tts",
       "created_at": "2026-05-24T08:50:41.869Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -108,7 +146,7 @@
       "appearance": "圆滚滚的身材，典型的狸花猫纹路（棕色虎斑条纹），系着一条小围裙。后腿能直立站在灶台前，小爪子握铁锅铲。尾巴灵活，得意时翘得高高的，开心时发出呼噜声。毛茸茸的体型，充满治愈感。",
       "personality": "温和稳重、细心体贴、略带傲娇、有耐心、会照顾人",
       "voice_style": "zh-CN-YunyangNeural",
-      "image_url": "static/images/817c9697-1d7d-4688-b293-00300fb96e23.png",
+      "image_url": "static/images/a73b68c0-fb35-475a-a08f-d07a2665f125.png",
       "reference_images": null,
       "seed_value": null,
       "sort_order": null,
@@ -116,7 +154,7 @@
       "voice_sample_url": "static/audio/515ac03b-aab6-4eb6-9977-d1da1abeb530.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -128,7 +166,7 @@
       "appearance": "黑白相间的奶牛猫（黑白花斑），身材正常偏瘦。蹲在案板上时前爪捧着菜叶认真可爱。眼睛大而圆，偷吃时腮帮子鼓鼓的，嘴角容易挂面条。尾巴尖轻轻摇晃，卖萌时会歪头眨眼。",
       "personality": "贪吃调皮、机灵可爱、会卖萌撒娇、有点小坏心眼但惹人喜爱",
       "voice_style": "zh-CN-liaoning-XiaobeiNeural",
-      "image_url": "static/images/302b7120-e7f2-455e-8cda-094b9f02bf25.png",
+      "image_url": "static/images/11145be6-459f-4971-9513-33bf50b32a43.png",
       "reference_images": null,
       "seed_value": null,
       "sort_order": null,
@@ -136,7 +174,7 @@
       "voice_sample_url": "static/audio/790de4fd-7bc1-4c3a-b4f7-c728b6a44e0d.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     }
   ],
@@ -153,7 +191,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-05-24T08:50:41.875Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -168,7 +206,7 @@
       "status": "processing",
       "local_path": null,
       "created_at": "2026-05-31T13:24:23.410Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -183,7 +221,37 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-06-01T13:36:39.684Z",
-      "updated_at": "2026-06-01T13:38:12.969Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "drama_id": 1,
+      "episode_id": null,
+      "location": "中式小厨房",
+      "time": "午后",
+      "prompt": "A cozy Chinese-style small kitchen, warm afternoon sunlight streaming through a wooden window, a clean countertop with neatly arranged pots and pans, a bamboo basket with fresh green vegetables, a chopping board with beef and seasonings, a stove with blue flames licking the bottom of a wok, bowls of chili oil and spices, warm amber lighting, steam rising, homely and heartwarming atmosphere, cinematic composition, photorealistic style, 8k resolution",
+      "storyboard_count": 1,
+      "image_url": "static/images/1d80846b-f1fe-44e7-b184-9e40318c8ffe.png",
+      "status": "completed",
+      "local_path": null,
+      "created_at": "2026-06-02T12:21:39.308Z",
+      "updated_at": "2026-06-02T12:22:58.367Z",
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "drama_id": 1,
+      "episode_id": null,
+      "location": "餐厅角落",
+      "time": "午后",
+      "prompt": "A cozy dining corner of a home, afternoon sunlight casting warm glow, a wooden table with a rustic tablecloth, a chair nearby, bowl of red-braised beef noodle soup on the table with steam rising, warm amber lighting, homely atmosphere, soft focus background, cinematic composition, photorealistic style, 8k resolution",
+      "storyboard_count": 1,
+      "image_url": "static/images/86f6b1d2-a64e-4ca5-882f-297c54d1b888.png",
+      "status": "completed",
+      "local_path": null,
+      "created_at": "2026-06-02T12:21:39.308Z",
+      "updated_at": "2026-06-02T12:23:01.649Z",
       "deleted_at": null
     }
   ],
@@ -219,7 +287,7 @@
       "composed_video_url": "static/composed/fb44f98c-3fee-4739-bb1a-58ae9bbddaae.mp4",
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -253,7 +321,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -287,7 +355,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -321,7 +389,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -355,7 +423,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -389,7 +457,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -423,7 +491,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -457,7 +525,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -491,7 +559,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -525,7 +593,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -559,7 +627,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -593,7 +661,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -627,7 +695,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -661,7 +729,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -695,7 +763,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -729,7 +797,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -763,7 +831,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -797,7 +865,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:54.035Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -831,7 +899,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:57.163Z",
-      "updated_at": "2026-06-01T14:31:13.203Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -865,7 +933,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-01T13:39:56.354Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -899,7 +967,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-01T13:46:27.957Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -933,7 +1001,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-01T13:47:46.318Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -967,7 +1035,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-01T13:52:03.838Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
       "deleted_at": null
     },
     {
@@ -1001,7 +1069,109 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-01T13:37:33.184Z",
+      "updated_at": "2026-06-02T13:45:30.357Z",
+      "deleted_at": null
+    },
+    {
+      "id": 32,
+      "episode_id": 5,
+      "scene_id": 4,
+      "storyboard_number": 1,
+      "title": "备菜炼红油",
+      "location": "中式小厨房",
+      "time": "午后",
+      "shot_type": "中景",
+      "angle": "平视",
+      "movement": "固定",
+      "action": "狸花猫系着围裙站在案板前，先用肉爪笨拙地搓揉牛肉馅，搓成一颗颗圆润的牛肉丸子整齐码好；接着往小碗里放辣椒面和蒜末，另起小锅烧热菜油，'滋啦'一声泼进辣椒碗中，红油翻滚冒泡，香气四溢。狸花猫凑近闻了闻，眯起眼睛露出满意的表情。",
+      "result": "一盘圆润的牛肉丸子和一碗香气四溢的红油准备就绪，厨房里弥漫着辣椒和香料的味道。",
+      "atmosphere": "暖黄日光，烟火气十足，温馨治愈，香气四溢，暖调光线。",
+      "image_prompt": "中式小厨房，暖黄色午后阳光洒入，狸花猫系围裙站案板前，肉爪搓揉牛肉馅，旁边摆着圆润牛肉丸子，另一侧小碗中红油翻滚冒泡，热气升腾，暖色调，治愈温馨，电影感构图。",
+      "video_prompt": "0-3秒：<location>中式小厨房</location>，中景，暖黄阳光洒入，<role>狸花猫</role>系围裙站在案板前，两只肉爪使劲揉搓碗里的牛肉馅。<n>3-6秒：<location>中式小厨房</location>，特写转中景，肉爪将肉馅搓成一颗颗圆润丸子，整齐码放在白盘中。<n>6-9秒：<location>中式小厨房</location>，中景，小铁锅热油'滋啦'一声泼入辣椒碗，红油翻滚冒泡，热气腾腾。<n>9-12秒：<location>中式小厨房</location>，近景，<role>狸花猫</role>凑近红油碗眯眼闻香，尾巴满足地翘起。",
+      "bgm_prompt": "轻松欢快的厨房小调，木琴与轻拨弦乐，治愈温馨的BGM。",
+      "sound_effect": "肉馅揉搓声，油泼辣椒的滋啦声，红油翻滚冒泡声，狸花猫满足的呼噜声。",
+      "dialogue": "狸花猫：（哼着小调）唔...今天要做点好的。滋啦——香！",
+      "description": "午后暖阳洒进中式小厨房，狸花猫系围裙站在案板前，先用肉爪使劲揉搓牛肉馅，搓出一颗颗圆润的牛肉丸子整齐码盘。随后准备红油——往小碗里放辣椒面和蒜末，烧热菜油泼入碗中，红油翻滚冒泡，狸花猫凑近闻香，眯眼露出满足神情。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": null,
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-02T13:12:18.885Z",
+      "updated_at": "2026-06-02T13:12:18.885Z",
+      "deleted_at": null
+    },
+    {
+      "id": 33,
+      "episode_id": 5,
+      "scene_id": 4,
+      "storyboard_number": 2,
+      "title": "煮面码料浇汤",
+      "location": "中式小厨房",
+      "time": "午后",
+      "shot_type": "中景转特写",
+      "angle": "平视",
+      "movement": "推镜",
+      "action": "狸花猫将牛肉丸子滑入沸水锅中，丸子沉底后又慢慢浮起翻腾；捞出丸子后往汤里舀老卤汤底和红油，汤汁红亮诱人。接着将一把粗面条抖散下锅，用长筷轻轻拨开，面条在沸水中翻滚变得柔韧透亮。捞出沥干放入白瓷大碗，码上丸子、卤牛肉片和烫好的青菜，最后端起红亮的卤汤锅将滚烫汤汁浇入碗中，撒上蒜苗碎和香菜。",
+      "result": "一碗完整的红油牛肉丸子面做好，汤色红亮，丸子饱满，菜肉铺面，热气升腾，香味扑鼻。",
+      "atmosphere": "灶台蓝色火焰、沸腾水汽、红亮汤汁、热气氤氲，暖色调烟火气十足。",
+      "image_prompt": "中式小厨房灶台前，蓝色火苗舔着锅底，沸水翻腾，狸花猫用长筷捞起柔韧面条，白瓷大碗里码好牛肉丸子、卤牛肉片和青菜，红亮汤汁浇入碗中热气升腾，暖黄光线，蒸汽弥漫，治愈美食画面。",
+      "video_prompt": "0-3秒：<location>中式小厨房</location>，中景，<role>狸花猫</role>用肉爪将牛肉丸子一颗颗滑入沸水锅中，丸子沉入水中。<n>3-6秒：<location>中式小厨房</location>，特写，丸子在沸水中翻腾浮起，<role>狸花猫</role>用漏勺捞出。<n>6-9秒：<location>中式小厨房</location>，中景，粗面条下锅，长筷轻轻拨开，面条在沸水中翻滚变得柔韧透亮。<n>9-12秒：<location>中式小厨房</location>，特写推镜，红亮汤汁浇入码好料的白瓷大碗中，汤汁漫过面条浸润丸子和肉片，热气升腾，<role>狸花猫</role>撒上蒜苗碎和香菜。",
+      "bgm_prompt": "温暖舒缓的日常配乐，钢琴与轻弦乐，带有满足感的旋律。",
+      "sound_effect": "沸水咕噜声，面条入水的哗啦声，漏勺沥水声，汤汁浇入碗中的声音，香菜撒落的细微声。",
+      "dialogue": "狸花猫：（擦了擦额头的汗，笑眯眯）好啦！",
+      "description": "狸花猫在灶台前利落地操作——牛肉丸子入沸水沉浮翻腾，捞出后调制红亮卤汤底；粗面条下锅煮至柔韧透亮后捞出放入白瓷大碗，依次码上牛肉丸子、卤牛肉薄片和烫青菜，最后浇入滚烫红亮汤汁，撒上蒜苗碎和香菜，一碗红油丸子面热气腾腾地完成。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": null,
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-02T13:12:18.885Z",
+      "updated_at": "2026-06-02T13:12:18.885Z",
+      "deleted_at": null
+    },
+    {
+      "id": 34,
+      "episode_id": 5,
+      "scene_id": 5,
+      "storyboard_number": 3,
+      "title": "端面共食暖",
+      "location": "餐厅角落",
+      "time": "午后",
+      "shot_type": "全景",
+      "angle": "平视",
+      "movement": "跟拍转固定",
+      "action": "狸花猫两只肉爪捧着热气腾腾的红油丸子面碗，小心翼翼地从厨房走向餐桌，稳稳放在桌角。一只黑白奶牛猫已经蹲在桌边，眼巴巴望着面碗，尾巴轻轻摇晃。狸花猫蹲下身温柔地看着奶牛猫，奶牛猫埋头吃面，狸花猫嘴角带着微笑静静注视。",
+      "result": "奶牛猫开心地吃面，狸花猫在一旁温柔注视，两猫共享温馨午后时光，暖光下的红油面碗热气升腾。",
+      "atmosphere": "午后的暖光从窗外洒入，餐厅一角温馨静谧，热气氤氲缭绕，充满治愈的烟火气。",
+      "image_prompt": "餐厅角落，午后暖光从窗外洒入，木桌上摆放一碗红油牛肉丸子面热气升腾，狸花猫蹲在桌旁微笑注视，黑白奶牛猫埋头吃面尾巴轻晃，桌布上的暖光斑驳，温馨治愈氛围，电影感构图。",
+      "video_prompt": "0-3秒：<location>中式小厨房</location>，中景跟拍，<role>狸花猫</role>两只肉爪捧着热气腾腾的红油面碗，小心翼翼走向餐厅。<n>3-6秒：<location>餐厅角落</location>，全景，<role>狸花猫</role>将面碗稳稳放在木桌上，桌边<role>奶牛猫</role>蹲坐着眼巴巴望着碗，尾巴轻摇。<n>6-9秒：<location>餐厅角落</location>，近景，<role>奶牛猫</role>仰头看狸花猫，眼睛亮晶晶叫了一声，埋头开始吃面。<n>9-12秒：<location>餐厅角落</location>，全景，暖阳洒落，<role>狸花猫</role>蹲在一旁静静微笑注视<role>奶牛猫</role>吃面，碗中热气袅袅升腾。",
+      "bgm_prompt": "温柔舒缓的钢琴曲，带点温暖叙事感，像午后阳光般柔和。",
+      "sound_effect": "脚步声，面碗轻放木桌声，猫咪吃面声，狸花猫温柔的呼噜声。",
+      "dialogue": "奶牛猫：（仰起头，眼睛亮晶晶）喵！\n狸花猫：（蹲下身，温柔地）慢点吃，烫。",
+      "description": "狸花猫捧着做好的红油丸子面从厨房走进餐厅角落，将面碗稳稳放在餐桌前。桌边一只黑白奶牛猫早已眼巴巴等着，尾巴轻摇。狸花猫温柔叮嘱\"慢点吃，烫\"，奶牛猫埋头开心吃面，狸花猫蹲在一旁静静微笑注视，厨房热气氤氲，画面温馨治愈。",
+      "duration": 12,
+      "composed_image": null,
+      "first_frame_image": null,
+      "last_frame_image": null,
+      "reference_images": null,
+      "video_url": null,
+      "tts_audio_url": null,
+      "subtitle_url": null,
+      "composed_video_url": null,
+      "status": "pending",
+      "created_at": "2026-06-02T13:12:18.885Z",
+      "updated_at": "2026-06-02T13:12:18.885Z",
       "deleted_at": null
     }
   ],
@@ -1035,6 +1205,18 @@
       "episode_id": 3,
       "character_id": 3,
       "created_at": "2026-06-01T13:36:36.473Z"
+    },
+    {
+      "id": 6,
+      "episode_id": 5,
+      "character_id": 2,
+      "created_at": "2026-06-02T12:21:35.113Z"
+    },
+    {
+      "id": 7,
+      "episode_id": 5,
+      "character_id": 3,
+      "created_at": "2026-06-02T12:21:35.116Z"
     }
   ],
   "episodeScenes": [
@@ -1055,6 +1237,18 @@
       "episode_id": 3,
       "scene_id": 3,
       "created_at": "2026-06-01T13:36:39.686Z"
+    },
+    {
+      "id": 4,
+      "episode_id": 5,
+      "scene_id": 4,
+      "created_at": "2026-06-02T12:21:39.312Z"
+    },
+    {
+      "id": 5,
+      "episode_id": 5,
+      "scene_id": 5,
+      "created_at": "2026-06-02T12:21:39.313Z"
     }
   ],
   "storyboardCharacters": [
@@ -1164,6 +1358,22 @@
     },
     {
       "storyboard_id": 24,
+      "character_id": 3
+    },
+    {
+      "storyboard_id": 32,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 33,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 34,
+      "character_id": 2
+    },
+    {
+      "storyboard_id": 34,
       "character_id": 3
     }
   ]
