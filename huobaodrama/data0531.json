@@ -1,7 +1,7 @@
 {
   "protocol": "huobao-drama-sync",
   "version": "1.0.0",
-  "syncedAt": "2026-06-06T01:17:17.805Z",
+  "syncedAt": "2026-06-06T08:35:15.317Z",
   "dramaId": 1,
   "drama": {
     "id": 1,
@@ -16,7 +16,7 @@
     "tags": null,
     "metadata": null,
     "created_at": "2026-05-24T05:18:00.671Z",
-    "updated_at": "2026-06-06T01:17:08.342Z",
+    "updated_at": "2026-06-06T08:35:04.779Z",
     "deleted_at": null
   },
   "episodes": [
@@ -36,7 +36,7 @@
       "video_config_id": null,
       "audio_config_id": null,
       "created_at": "2026-05-24T05:18:00.671Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -55,7 +55,7 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-05-31T13:21:30.209Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -74,7 +74,7 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-06-01T13:35:50.758Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -93,7 +93,7 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-06-01T14:31:31.202Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -112,7 +112,7 @@
       "video_config_id": 7,
       "audio_config_id": 1,
       "created_at": "2026-06-02T12:19:32.712Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -131,7 +131,7 @@
       "video_config_id": 14,
       "audio_config_id": 1,
       "created_at": "2026-06-02T14:04:18.199Z",
-      "updated_at": "2026-06-02T14:49:06.947Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -150,7 +150,7 @@
       "video_config_id": 15,
       "audio_config_id": 1,
       "created_at": "2026-06-04T13:57:42.137Z",
-      "updated_at": "2026-06-05T12:45:31.680Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -169,7 +169,7 @@
       "video_config_id": 15,
       "audio_config_id": 1,
       "created_at": "2026-06-05T14:37:35.666Z",
-      "updated_at": "2026-06-06T00:01:53.017Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     }
   ],
@@ -191,7 +191,7 @@
       "voice_sample_url": null,
       "voice_provider": "edge-tts",
       "created_at": "2026-05-24T08:50:41.869Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -211,7 +211,7 @@
       "voice_sample_url": "static/audio/515ac03b-aab6-4eb6-9977-d1da1abeb530.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -231,7 +231,7 @@
       "voice_sample_url": "static/audio/790de4fd-7bc1-4c3a-b4f7-c728b6a44e0d.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-05-31T13:24:23.404Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -251,7 +251,7 @@
       "voice_sample_url": null,
       "voice_provider": null,
       "created_at": "2026-06-02T14:49:15.722Z",
-      "updated_at": "2026-06-02T14:50:13.328Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -271,7 +271,7 @@
       "voice_sample_url": "static/audio/e13376a1-39aa-4b87-815c-143f12f01f3f.mp3",
       "voice_provider": "edge-tts",
       "created_at": "2026-06-04T14:00:03.627Z",
-      "updated_at": "2026-06-04T14:01:17.170Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     }
   ],
@@ -288,7 +288,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-05-24T08:50:41.875Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -303,7 +303,7 @@
       "status": "processing",
       "local_path": null,
       "created_at": "2026-05-31T13:24:23.410Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -318,7 +318,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-06-01T13:36:39.684Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -333,7 +333,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-06-02T12:21:39.308Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-06-02T12:21:39.308Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -363,7 +363,7 @@
       "status": "completed",
       "local_path": null,
       "created_at": "2026-06-02T14:49:18.277Z",
-      "updated_at": "2026-06-02T14:50:00.453Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -371,14 +371,14 @@
       "drama_id": 1,
       "episode_id": null,
       "location": "家庭厨房",
-      "time": "清晨",
-      "prompt": "A cozy home kitchen in the early morning, warm golden morning sunlight streaming through a window, neatly arranged pots and pans, a steamer on the stove with steam rising, a wooden countertop with flour scattered on it, dough being kneaded, a flat-bottom pan heating on the stove, golden flatbreads cooking with sizzling sounds, white ceramic plates with Chinese-style braised pork filling, warm amber and golden lighting, soft dust motes floating in sunbeams, homely and heartwarming atmosphere, cinematic composition, photorealistic style, 8k resolution",
+      "time": "黄昏",
+      "prompt": "A cozy home kitchen at dusk, warm golden-yellow twilight sunlight slanting through a window, wooden countertop with various cooking utensils neatly arranged, white ceramic tiles on the wall reflecting warm light, a pan on the stove with sizzling braised pork, aroma of braised meat filling the air, an oven with freshly baked crispy baijimo flatbreads, a wooden cutting board with chopped cilantro and green peppers, warm amber indoor lighting contrasting with the darkening evening sky outside, homely and heartwarming atmosphere, cinematic composition, photorealistic style, 8k resolution",
       "storyboard_count": 1,
       "image_url": null,
-      "status": "pending",
+      "status": "completed",
       "local_path": null,
       "created_at": "2026-06-04T14:00:03.631Z",
-      "updated_at": "2026-06-04T14:00:03.631Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -429,7 +429,7 @@
       "composed_video_url": "static/composed/fb44f98c-3fee-4739-bb1a-58ae9bbddaae.mp4",
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -463,7 +463,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -497,7 +497,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -531,7 +531,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -565,7 +565,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-24T08:51:36.111Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -599,7 +599,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -633,7 +633,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -667,7 +667,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -701,7 +701,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -735,7 +735,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -769,7 +769,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -803,7 +803,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -837,7 +837,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -871,7 +871,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -905,7 +905,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -939,7 +939,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -973,7 +973,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:27:38.963Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1007,7 +1007,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:54.035Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1041,7 +1041,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-05-31T13:40:57.163Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1075,7 +1075,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1109,7 +1109,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1143,7 +1143,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1177,7 +1177,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1211,7 +1211,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-01T13:37:33.184Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1245,7 +1245,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T13:12:18.885Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1279,7 +1279,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T13:12:18.885Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1313,7 +1313,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T13:12:18.885Z",
-      "updated_at": "2026-06-06T01:17:08.342Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1347,7 +1347,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T14:06:14.727Z",
-      "updated_at": "2026-06-02T23:22:50.112Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1381,7 +1381,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T14:06:14.727Z",
-      "updated_at": "2026-06-02T14:51:29.807Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1415,7 +1415,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-02T14:06:14.727Z",
-      "updated_at": "2026-06-02T23:09:03.623Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1449,7 +1449,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-04T14:01:58.608Z",
-      "updated_at": "2026-06-04T14:08:19.387Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1483,7 +1483,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-04T14:01:58.608Z",
-      "updated_at": "2026-06-04T14:03:02.948Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1517,7 +1517,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-04T14:01:58.608Z",
-      "updated_at": "2026-06-04T14:05:46.033Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1551,7 +1551,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-04T14:01:58.608Z",
-      "updated_at": "2026-06-04T14:05:47.362Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1585,7 +1585,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T13:06:21.260Z",
-      "updated_at": "2026-06-05T13:06:21.260Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1619,7 +1619,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T13:06:22.450Z",
-      "updated_at": "2026-06-05T13:06:22.450Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1653,7 +1653,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T13:06:23.271Z",
-      "updated_at": "2026-06-05T13:06:23.271Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
@@ -1687,13 +1687,13 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T13:09:26.549Z",
-      "updated_at": "2026-06-05T13:09:26.549Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
       "id": 51,
       "episode_id": 8,
-      "scene_id": 8,
+      "scene_id": 7,
       "storyboard_number": 1,
       "title": "专注烹饪",
       "location": "家庭厨房",
@@ -1721,13 +1721,13 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T14:40:19.152Z",
-      "updated_at": "2026-06-05T14:46:28.970Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
       "id": 52,
       "episode_id": 8,
-      "scene_id": 8,
+      "scene_id": 7,
       "storyboard_number": 2,
       "title": "帮手入厨",
       "location": "家庭厨房",
@@ -1755,13 +1755,13 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T14:40:19.152Z",
-      "updated_at": "2026-06-05T14:46:22.680Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
       "id": 53,
       "episode_id": 8,
-      "scene_id": 8,
+      "scene_id": 7,
       "storyboard_number": 3,
       "title": "双刀剁肉",
       "location": "家庭厨房",
@@ -1789,13 +1789,13 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T14:40:19.152Z",
-      "updated_at": "2026-06-05T15:06:49.046Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     },
     {
       "id": 54,
       "episode_id": 8,
-      "scene_id": 8,
+      "scene_id": 7,
       "storyboard_number": 4,
       "title": "共享美味",
       "location": "家庭厨房",
@@ -1823,7 +1823,7 @@
       "composed_video_url": null,
       "status": "pending",
       "created_at": "2026-06-05T14:40:19.152Z",
-      "updated_at": "2026-06-05T14:47:56.440Z",
+      "updated_at": "2026-06-06T08:35:04.779Z",
       "deleted_at": null
     }
   ],
