@@ -1,0 +1,32 @@
+{
+  "version": 4,
+  "updatedAt": "2026-06-09T23:20:32.556Z",
+  "collections": {
+    "aiTools": [
+      {
+        "name": "claudecode最佳实践",
+        "url": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBcacb4670e53f34d969018b9525e6e876/?search=claude",
+        "category": "编程",
+        "description": "有道云整理",
+        "createdAt": "2026-06-09T23:19:34.800Z",
+        "updatedAt": "2026-06-09T23:19:34.800Z",
+        "id": 1
+      },
+      {
+        "name": "codex最佳实践",
+        "url": "https://note.youdao.com/web/#/file/WEB9089c622250e84f32f13e546005a4290/markdown/WEB8d915d7975ffa2359cb4518b9f2f5aee/",
+        "category": "编程",
+        "description": "有道云",
+        "createdAt": "2026-06-09T23:20:31.004Z",
+        "updatedAt": "2026-06-09T23:20:31.004Z",
+        "id": 2
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "textSnippets": []
+  }
+}
