@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-06-09T23:21:10.936Z",
+  "updatedAt": "2026-06-09T23:32:52.489Z",
   "collections": {
     "aiTools": [
       {
@@ -20,6 +20,24 @@
         "createdAt": "2026-06-09T23:20:31.004Z",
         "updatedAt": "2026-06-09T23:20:31.004Z",
         "id": 2
+      },
+      {
+        "name": "待整理的prompt和skills汇总",
+        "url": "https://my.feishu.cn/docx/SpoSdojProhNJ6x4DGacBajCnde?from=from_copylink",
+        "category": "编程",
+        "description": "飞书待整理内容",
+        "createdAt": "2026-06-09T23:31:19.135Z",
+        "updatedAt": "2026-06-09T23:31:19.135Z",
+        "id": 3
+      },
+      {
+        "name": "AI时代最好的monorepo架构分层",
+        "url": "https://my.feishu.cn/docx/SpoSdojProhNJ6x4DGacBajCnde#N9jcdNwFDothQQxlJ14cmYRtnzc",
+        "category": "编程",
+        "description": "飞书",
+        "createdAt": "2026-06-09T23:32:50.055Z",
+        "updatedAt": "2026-06-09T23:32:50.055Z",
+        "id": 4
       }
     ],
     "prompts": [],
