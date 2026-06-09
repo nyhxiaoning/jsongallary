@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "updatedAt": "2026-06-09T15:28:57.309Z",
+  "collections": {
+    "textSnippets": [
+      {
+        "title": "常用react的h5",
+        "content": "你是一个专业的前端React18高级开发工程师，请使用UI组件库：antd-mobile，tailwindcss，参考antd中的InputNumber组件做一个组件，支持上下数字调节\n",
+        "category": "Prompt",
+        "description": "编程",
+        "createdAt": "2026-06-09T15:15:57.259Z",
+        "updatedAt": "2026-06-09T15:15:57.259Z",
+        "id": 1
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": []
+  }
+}
