@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-06-09T23:32:52.489Z",
+  "updatedAt": "2026-06-09T23:40:33.843Z",
   "collections": {
     "aiTools": [
       {
@@ -38,6 +38,24 @@
         "createdAt": "2026-06-09T23:32:50.055Z",
         "updatedAt": "2026-06-09T23:32:50.055Z",
         "id": 4
+      },
+      {
+        "name": "汇总整理所有的skills集合",
+        "url": "https://my.feishu.cn/wiki/PZjOwtJXVi9LgLkMUJycS5DknAc?table=tblhbPJarAC2zvAr&view=vewWQ2veme",
+        "category": "其他",
+        "description": "飞书整理汇总所有的skills集合",
+        "createdAt": "2026-06-09T23:34:47.590Z",
+        "updatedAt": "2026-06-09T23:34:47.590Z",
+        "id": 5
+      },
+      {
+        "name": "牛人编程的skills沉淀个人学习版本",
+        "url": "https://note.youdao.com/web/#/file/WEB9089c622250e84f32f13e546005a4290/markdown/WEB6f32c9df3b7a8adf12fafb6803e888b7/",
+        "category": "编程",
+        "description": "编程的技术法则沉淀\n",
+        "createdAt": "2026-06-09T23:40:32.874Z",
+        "updatedAt": "2026-06-09T23:40:32.874Z",
+        "id": 6
       }
     ],
     "prompts": [],
