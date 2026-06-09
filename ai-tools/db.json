@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "updatedAt": "2026-06-09T15:27:15.581Z",
+  "collections": {
+    "aiTools": [
+      {
+        "name": "test",
+        "url": "https://baidu.com",
+        "category": "视频",
+        "description": "",
+        "createdAt": "2026-06-09T15:18:50.285Z",
+        "updatedAt": "2026-06-09T15:18:50.285Z",
+        "id": 2
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "textSnippets": []
+  }
+}
