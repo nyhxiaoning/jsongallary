@@ -1,0 +1,25 @@
+{
+  "version": 5,
+  "updatedAt": "2026-06-10T03:12:24.221Z",
+  "collections": {
+    "urls": [
+      {
+        "name": "test",
+        "url": "https://baidu.com",
+        "snippetContent": "urls/db.json",
+        "category": "其他",
+        "description": "urls/db.json",
+        "createdAt": "2026-06-10T03:12:08.027Z",
+        "updatedAt": "2026-06-10T03:12:08.027Z",
+        "id": 1
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": [],
+    "textSnippets": []
+  }
+}
