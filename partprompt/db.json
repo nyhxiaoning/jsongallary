@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-06-09T23:21:18.383Z",
+  "updatedAt": "2026-06-10T00:00:47.038Z",
   "collections": {
     "textSnippets": [
       {
@@ -20,6 +20,24 @@
         "createdAt": "2026-06-09T15:35:28.516Z",
         "updatedAt": "2026-06-09T15:35:28.516Z",
         "id": 2
+      },
+      {
+        "title": "Claude.md和Agents.md 最值得增加的内容",
+        "content": "# Agent Instructions\n\nBefore creating a new file:\n\n1. Search for existing implementation.\n2. Search for reusable components.\n3. Search for reusable composables.\n4. Search for reusable API wrappers.\n\nBefore introducing dependencies:\n\n1. Verify existing dependency can solve the problem.\n2. Explain why a new dependency is required.\n\nBefore modifying architecture:\n\n1. Explain impact.\n2. Keep backward compatibility.\n3. Minimize file changes.",
+        "category": "代码",
+        "description": "claude.md和AGENTS.md 只保留 Agent 真正需要知道的长期规则，不要写成技术规范书。",
+        "createdAt": "2026-06-09T23:44:56.234Z",
+        "updatedAt": "2026-06-09T23:47:10.398Z",
+        "id": 3
+      },
+      {
+        "title": "000用好工具的关键claude和codex",
+        "content": "### 控制自动注入的上下文\n### 缩小任务搜索范围\n### 及时压缩会话\n### 把高噪音工作隔离出去\n### 避免不必要的工具链负担",
+        "category": "代码",
+        "description": "编程",
+        "createdAt": "2026-06-10T00:00:35.326Z",
+        "updatedAt": "2026-06-10T00:00:35.326Z",
+        "id": 4
       }
     ],
     "prompts": [],
