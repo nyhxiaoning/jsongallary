@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-10T00:00:47.038Z",
+  "version": 5,
+  "updatedAt": "2026-06-10T08:21:20.946Z",
   "collections": {
     "textSnippets": [
       {
@@ -38,6 +38,15 @@
         "createdAt": "2026-06-10T00:00:35.326Z",
         "updatedAt": "2026-06-10T00:00:35.326Z",
         "id": 4
+      },
+      {
+        "title": "不理解新项目ai的第一段话",
+        "content": "请先阅读当前项目结构，不要修改任何代码。\n 告诉我： \n1. 这个项目是做什么的 \n2. 使用了哪些技术栈 \n3. 入口文件在哪里 \n4. 启动、构建和测试命令是什么 \n5. 如果我要新增一个功能，应该从哪里开始",
+        "category": "代码",
+        "description": "ai",
+        "createdAt": "2026-06-10T08:21:16.264Z",
+        "updatedAt": "2026-06-10T08:21:16.264Z",
+        "id": 5
       }
     ],
     "prompts": [],
@@ -45,6 +54,7 @@
     "workflows": [],
     "videos": [],
     "ambientSounds": [],
-    "aiTools": []
+    "aiTools": [],
+    "urls": []
   }
 }
