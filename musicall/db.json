@@ -1,0 +1,32 @@
+{
+  "version": 5,
+  "updatedAt": "2026-06-10T05:26:29.443Z",
+  "collections": {
+    "ambientSounds": [
+      {
+        "name": "测试",
+        "category": "乐器",
+        "description": "",
+        "tags": [
+          "music"
+        ],
+        "audioUrl": "https://raw.githubusercontent.com/nyhxiaoning/jsongallary/main/ambient-sounds/测试_1781069180932.mp3",
+        "filePath": "ambient-sounds/测试_1781069180932.mp3",
+        "fileName": "测试_1781069180932.mp3",
+        "fileSize": 744610,
+        "duration": 31,
+        "sha": "754053dd7fc4a9c48783db0450d7e45336285e01",
+        "createdAt": "2026-06-10T05:26:25.741Z",
+        "updatedAt": "2026-06-10T05:26:25.741Z",
+        "id": 1
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "aiTools": [],
+    "textSnippets": [],
+    "urls": []
+  }
+}
