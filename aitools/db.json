@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-09T23:40:33.843Z",
+  "version": 5,
+  "updatedAt": "2026-06-11T02:22:14.509Z",
   "collections": {
     "aiTools": [
       {
@@ -63,6 +63,7 @@
     "workflows": [],
     "videos": [],
     "ambientSounds": [],
-    "textSnippets": []
+    "textSnippets": [],
+    "urls": []
   }
 }
