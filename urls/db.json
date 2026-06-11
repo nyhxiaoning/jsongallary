@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-10T03:12:24.221Z",
+  "updatedAt": "2026-06-11T01:49:32.483Z",
   "collections": {
     "urls": [
       {
@@ -12,6 +12,36 @@
         "createdAt": "2026-06-10T03:12:08.027Z",
         "updatedAt": "2026-06-10T03:12:08.027Z",
         "id": 1
+      },
+      {
+        "name": "国内市场化的skills广场1红狐",
+        "url": "https://redfox.hk/skills",
+        "snippetContent": "很多商业化使用的skills",
+        "category": "其他",
+        "description": "",
+        "createdAt": "2026-06-11T01:46:04.821Z",
+        "updatedAt": "2026-06-11T01:46:04.821Z",
+        "id": 2
+      },
+      {
+        "name": "国外skills合集搜索",
+        "url": "https://skills.sh/",
+        "snippetContent": "国外的skills源码网站\n",
+        "category": "开发",
+        "description": "",
+        "createdAt": "2026-06-11T01:46:34.761Z",
+        "updatedAt": "2026-06-11T01:46:34.761Z",
+        "id": 3
+      },
+      {
+        "name": "公开 AI 工具核心配置agent和skills合集国外",
+        "url": "https://codeguilds.dev/packages",
+        "snippetContent": "收录公开 AI 工具核心配置：汇总网站\n很多各种厂商skills和agent",
+        "category": "工具",
+        "description": "",
+        "createdAt": "2026-06-11T01:47:40.966Z",
+        "updatedAt": "2026-06-11T01:47:40.966Z",
+        "id": 4
       }
     ],
     "prompts": [],
