@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-10T08:21:20.946Z",
+  "updatedAt": "2026-06-11T01:49:22.715Z",
   "collections": {
     "textSnippets": [
       {
@@ -47,6 +47,15 @@
         "createdAt": "2026-06-10T08:21:16.264Z",
         "updatedAt": "2026-06-10T08:21:16.264Z",
         "id": 5
+      },
+      {
+        "title": "mcp和skills和prompt",
+        "content": "- Prompt = 临时指令（说一次算一次）\n- Skills = 能力固化（专业、稳定、可复用）\n- MCP = 连接通道（打通外部世界，让你做的功能更加系统化，连接万物）\n\nskills是可复用的专业能力包\nmcp是大模型连接外部世界的标准协议 /，负责连接",
+        "category": "代码",
+        "description": "理解三个：mcp- 大模型连接外部世界的标准协议 / 接口。 - 核心：负责连接、不负责思考。",
+        "createdAt": "2026-06-11T01:49:18.729Z",
+        "updatedAt": "2026-06-11T01:49:18.729Z",
+        "id": 6
       }
     ],
     "prompts": [],
