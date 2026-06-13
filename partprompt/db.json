@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-13T05:49:54.887Z",
+  "updatedAt": "2026-06-13T05:50:54.058Z",
   "collections": {
     "prompts": [
       {
@@ -70,6 +70,28 @@
         "updatedAt": "2026-06-13T05:49:52.706Z",
         "createdAt": "2026-06-13T05:49:52.706Z",
         "id": 5
+      },
+      {
+        "name": "齐白石昆虫（蝉、蜻蜓、蚂蚱，齐派特色工虫）",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "promptText": "齐白石工笔昆虫搭配写意花草，小虫刻画精细逼真，花草以大写意挥洒，一工一写对比鲜明，墨色层次丰富，留白巧妙，传统国画，毛笔手绘，古朴雅致",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "齐白石",
+          "绘画"
+        ],
+        "updatedAt": "2026-06-13T05:50:50.895Z",
+        "createdAt": "2026-06-13T05:50:50.895Z",
+        "id": 6
       }
     ],
     "scripts": [],
