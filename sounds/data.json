@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "updatedAt": "2026-06-13T06:23:45.829Z",
+  "collections": {
+    "ambientSounds": [
+      {
+        "name": "test",
+        "category": "自然",
+        "description": "",
+        "tags": [
+          "音乐"
+        ],
+        "audioUrl": "https://raw.githubusercontent.com/nyhxiaoning/jsongallary/main/ambient-sounds/test_1781331810717.mp3",
+        "filePath": "ambient-sounds/test_1781331810717.mp3",
+        "fileName": "test_1781331810717.mp3",
+        "fileSize": 744610,
+        "duration": 31,
+        "sha": "754053dd7fc4a9c48783db0450d7e45336285e01",
+        "createdAt": "2026-06-13T06:23:41.749Z",
+        "updatedAt": "2026-06-13T06:23:41.749Z",
+        "id": 3
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "aiTools": [],
+    "textSnippets": []
+  }
+}
