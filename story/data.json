@@ -1,0 +1,25 @@
+{
+  "book": {
+    "id": "cmqc3ph4j00019tew8e8rtl29",
+    "title": "121",
+    "genre": "sci_fi",
+    "description": "2121",
+    "wordGoal": 212121,
+    "status": "draft",
+    "createdAt": "2026-06-13T08:36:12.401Z",
+    "updatedAt": "2026-06-13T08:36:12.401Z"
+  },
+  "chapters": [
+    {
+      "id": "cmqc3pmd500039tewdi699jav",
+      "title": "第 1 章",
+      "content": "<p>212121</p>",
+      "wordCount": 6,
+      "sortOrder": 0,
+      "status": "draft",
+      "createdAt": "2026-06-13T08:36:19.193Z",
+      "updatedAt": "2026-06-13T08:36:23.697Z"
+    }
+  ],
+  "exportedAt": "2026-06-13T08:38:29.697Z"
+}
