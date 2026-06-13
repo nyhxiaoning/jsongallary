@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-13T05:36:27.332Z",
+  "updatedAt": "2026-06-13T05:49:54.887Z",
   "collections": {
     "prompts": [
       {
@@ -25,6 +25,51 @@
         "updatedAt": "2026-06-13T05:36:25.347Z",
         "createdAt": "2026-06-13T05:36:25.347Z",
         "id": 3
+      },
+      {
+        "name": "齐白石花鸟 / 草木主题",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "齐白石写意花鸟画，花枝简练，禽鸟造型生动传神，工笔刻画细节，淡彩点缀，浓淡干湿墨色层次分明，大幅留白，东方禅意，传统国画，宣纸肌理",
+        "promptText": "齐白石写意花鸟画，花枝简练，禽鸟造型生动传神，工笔刻画细节，淡彩点缀，浓淡干湿墨色层次分明，大幅留白，东方禅意，传统国画，宣纸肌理",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "齐白石 ",
+          "绘画"
+        ],
+        "updatedAt": "2026-06-13T05:37:13.317Z",
+        "createdAt": "2026-06-13T05:37:13.317Z",
+        "id": 4
+      },
+      {
+        "name": "齐白石蔬果 / 民俗小品主题",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "promptText": "齐白石水墨蔬果小品画，南瓜、白菜、牵牛花，造型质朴憨厚，笔触粗犷写意，色彩清淡素雅，构图简洁，生活化意境，传统中式水墨画，宣纸质感",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "齐白石 ",
+          "绘画"
+        ],
+        "updatedAt": "2026-06-13T05:49:52.706Z",
+        "createdAt": "2026-06-13T05:49:52.706Z",
+        "id": 5
       }
     ],
     "scripts": [],
