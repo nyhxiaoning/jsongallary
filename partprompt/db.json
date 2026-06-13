@@ -1,141 +1,38 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-13T05:13:34.693Z",
+  "updatedAt": "2026-06-13T05:36:27.332Z",
   "collections": {
-    "textSnippets": [
+    "prompts": [
       {
-        "title": "常用react的h5",
-        "content": "你是一个专业的前端React18高级开发工程师，请使用UI组件库：antd-mobile，tailwindcss，参考antd中的InputNumber组件做一个组件，支持上下数字调节\n",
-        "category": "Prompt",
-        "description": "编程",
-        "createdAt": "2026-06-09T15:15:57.259Z",
-        "updatedAt": "2026-06-09T15:15:57.259Z",
-        "id": 1
-      },
-      {
-        "title": "项目快速集成github存储功能",
-        "content": "数据的存储参考这里远程存储在github某一个文件夹可以进行增删，请参考下面的实现，结合当前的项目技术栈生成相同的功能，\n\n```\n<template>\n  <div v-if=\"open\" class=\"overlay\" @click.self=\"$emit('close')\">\n    <div class=\"sync-modal card\">\n      <!-- Header -->\n      <div class=\"sync-head\">\n        <div class=\"sync-head-icon\">\n          <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"/></svg>\n        </div>\n        <div class=\"sync-head-copy\">\n          <div class=\"sync-title\">GitHub 同步</div>\n          <div class=\"sync-sub\">配置后可将项目数据推送/拉取到 GitHub 仓库</div>\n        </div>\n        <button class=\"btn btn-ghost btn-icon\" @click=\"$emit('close')\" style=\"flex-shrink:0;margin-left:auto\">\n          <svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg>\n        </button>\n      </div>\n\n      <!-- Sync Status Banner -->\n      <div v-if=\"lastSyncedAt\" class=\"sync-banner\">\n        <div class=\"sync-banner-dot\"></div>\n        <div class=\"sync-banner-copy\">\n          <span class=\"sync-banner-title\">已配置同步</span>\n          <span class=\"sync-banner-sub\">上次同步: {{ fmtDate(lastSyncedAt) }}</span>\n        </div>\n        <button class=\"btn btn-ghost btn-sm\" style=\"color:var(--error)\" @click=\"handleClear\">解除</button>\n      </div>\n\n      <!-- Form Body -->\n      <div class=\"sync-body\">\n        <form @submit.prevent=\"handleSave\">\n          <!-- Repository Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">仓库信息</span>\n            </div>\n            <div class=\"sync-field-row\">\n              <label class=\"sync-field\" style=\"flex:1.2\">\n                <span class=\"sync-field-label\">用户名</span>\n                <input v-model=\"form.owner\" class=\"input\" placeholder=\"如 nyhxiaoning\" />\n              </label>\n              <label class=\"sync-field\" style=\"flex:1.8\">\n                <span class=\"sync-field-label\">仓库名</span>\n                <input v-model=\"form.repo\" class=\"input\" placeholder=\"如 huobao-drama-backup\" />\n              </label>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">文件路径</span>\n              <input v-model=\"form.path\" class=\"input\" placeholder=\"如 data/drama-1.json\" />\n              <span class=\"sync-field-hint\">数据存储路径，建议按项目命名</span>\n            </label>\n          </div>\n\n          <!-- Token Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\" ry=\"2\"/><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">认证</span>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">Personal Access Token</span>\n              <div class=\"sync-token-row\">\n                <input :type=\"showToken ? 'text' : 'password'\" v-model=\"form.token\" class=\"input\" placeholder=\"ghp_...\" />\n                <button type=\"button\" class=\"sync-token-toggle\" @click=\"showToken = !showToken\" :title=\"showToken ? '隐藏' : '显示'\">\n                  <svg v-if=\"!showToken\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>\n                  <svg v-else width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24\"/><line x1=\"1\" y1=\"1\" x2=\"23\" y2=\"23\"/></svg>\n                </button>\n              </div>\n              <span class=\"sync-field-hint\">\n                需要 <code>repo</code> 权限。\n                <a href=\"https://github.com/settings/tokens\" target=\"_blank\" rel=\"noopener\" class=\"sync-link\">创建 Token →</a>\n              </span>\n            </label>\n          </div>\n\n          <!-- Actions -->\n          <div class=\"sync-actions\">\n            <div class=\"sync-actions-left\">\n              <button type=\"button\" class=\"btn btn-ghost\" v-if=\"hasConfig\" @click=\"handleClear\">\n                <svg width=\"11\" height=\"11\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14H6L5 6\"/></svg>\n                解除同步\n              </button>\n            </div>\n            <button type=\"button\" class=\"btn\" @click=\"$emit('close')\">取消</button>\n            <button type=\"submit\" class=\"btn btn-primary\">保存配置</button>\n          </div>\n        </form>\n      </div>\n    </div>\n  </div>\n</template>\n\n<script setup>\nimport { toast } from 'vue-sonner'\nimport { syncAPI } from '~/composables/useApi'\n\nconst props = defineProps({\n  open: Boolean,\n  dramaId: Number,\n})\nconst emit = defineEmits(['close', 'saved'])\n\nconst showToken = ref(false)\nconst form = ref({ owner: '', repo: '', path: '', token: '' })\nconst hasConfig = ref(false)\nconst lastSyncedAt = ref('')\n\nwatch(() => props.open, async (val) => {\n  showToken.value = false\n  if (val && props.dramaId) {\n    try {\n      const res = await syncAPI.config(props.dramaId)\n      if (res) {\n        form.value = {\n          owner: res.github_owner || '',\n          repo: res.github_repo || '',\n          path: res.github_path || '',\n          token: '',\n        }\n        hasConfig.value = true\n        lastSyncedAt.value = res.last_synced_at || ''\n      } else {\n        form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n        hasConfig.value = false\n        lastSyncedAt.value = ''\n      }\n    } catch {}\n  }\n})\n\nasync function handleSave() {\n  if (!form.value.owner || !form.value.repo || !form.value.path || !form.value.token) {\n    toast.warning('请填写所有必填项')\n    return\n  }\n  try {\n    await syncAPI.saveConfig(props.dramaId, {\n      github_owner: form.value.owner,\n      github_repo: form.value.repo,\n      github_path: form.value.path,\n      github_token: form.value.token,\n    })\n    toast.success('GitHub 同步配置已保存')\n    emit('saved')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nasync function handleClear() {\n  try {\n    await syncAPI.deleteConfig(props.dramaId)\n    form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n    hasConfig.value = false\n    lastSyncedAt.value = ''\n    toast.success('同步配置已清除')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nfunction fmtDate(s) {\n  if (!s) return ''\n  return new Date(s).toLocaleString('zh-CN')\n}\n</script>\n\n<style scoped>\n.sync-modal {\n  width: min(520px, calc(100vw - 40px));\n  padding: 0;\n  overflow: hidden;\n  border-radius: 22px;\n  background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(248,251,255,0.94));\n  animation: scaleIn 0.18s var(--ease-out);\n}\n\n/* Header */\n.sync-head {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n  padding: 20px 22px 18px;\n  border-bottom: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-head-icon {\n  width: 40px;\n  height: 40px;\n  border-radius: 14px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.06);\n  color: #24292f;\n  flex-shrink: 0;\n}\n.sync-head-copy { min-width: 0; flex: 1; }\n.sync-title { font-size: 16px; font-weight: 700; font-family: var(--font-display); color: var(--text-0); }\n.sync-sub { font-size: 12px; color: var(--text-3); margin-top: 2px; line-height: 1.45; }\n\n/* Banner */\n.sync-banner {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  padding: 12px 22px;\n  background: rgba(45, 122, 69, 0.07);\n  border-bottom: 1px solid rgba(45, 122, 69, 0.1);\n}\n.sync-banner-dot {\n  width: 8px;\n  height: 8px;\n  border-radius: 50%;\n  background: #2d7a45;\n  flex-shrink: 0;\n  box-shadow: 0 0 0 3px rgba(45, 122, 69, 0.14);\n}\n.sync-banner-copy { display: flex; flex-direction: column; gap: 1px; min-width: 0; flex: 1; }\n.sync-banner-title { font-size: 12px; font-weight: 600; color: #1a5a32; }\n.sync-banner-sub { font-size: 11px; color: rgba(26, 90, 50, 0.65); }\n\n/* Body */\n.sync-body { padding: 18px 22px 20px; overflow-y: auto; }\n\n/* Section */\n.sync-section {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n  padding: 14px;\n  border-radius: 14px;\n  background: rgba(248, 250, 254, 0.72);\n  border: 1px solid rgba(27, 41, 64, 0.06);\n}\n.sync-section + .sync-section { margin-top: 12px; }\n.sync-section-head {\n  display: flex;\n  align-items: center;\n  gap: 7px;\n}\n.sync-section-icon {\n  width: 22px;\n  height: 22px;\n  border-radius: 7px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.05);\n  color: var(--text-2);\n  flex-shrink: 0;\n}\n.sync-section-label {\n  font-size: 12px;\n  font-weight: 700;\n  color: var(--text-1);\n  letter-spacing: 0.03em;\n}\n\n/* Fields */\n.sync-field { display: flex; flex-direction: column; gap: 5px; }\n.sync-field-label { font-size: 11px; font-weight: 600; color: var(--text-2); }\n.sync-field-hint { font-size: 10.5px; color: var(--text-3); line-height: 1.5; margin-top: 2px; }\n.sync-field-hint code { font-size: 10px; background: rgba(27, 41, 64, 0.06); padding: 1px 4px; border-radius: 3px; }\n.sync-field-row { display: flex; gap: 10px; }\n\n/* Token row */\n.sync-token-row { display: flex; gap: 6px; }\n.sync-token-row .input { flex: 1; }\n.sync-token-toggle {\n  width: 32px;\n  height: 32px;\n  flex-shrink: 0;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 10px;\n  border: 1px solid rgba(27, 41, 64, 0.1);\n  background: rgba(255,255,255,0.86);\n  color: var(--text-2);\n  cursor: pointer;\n  transition: all 0.14s;\n}\n.sync-token-toggle:hover { background: #fff; color: var(--text-0); border-color: rgba(27, 41, 64, 0.15); }\n\n/* Link */\n.sync-link { color: var(--accent); text-decoration: none; font-weight: 600; }\n.sync-link:hover { text-decoration: underline; }\n\n/* Actions */\n.sync-actions {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding-top: 16px;\n  margin-top: 4px;\n  border-top: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-actions-left { flex: 1; }\n</style>\n```",
-        "category": "代码",
-        "description": "编程",
-        "createdAt": "2026-06-09T15:35:28.516Z",
-        "updatedAt": "2026-06-09T15:35:28.516Z",
-        "id": 2
-      },
-      {
-        "title": "Claude.md和Agents.md 最值得增加的内容",
-        "content": "# Agent Instructions\n\nBefore creating a new file:\n\n1. Search for existing implementation.\n2. Search for reusable components.\n3. Search for reusable composables.\n4. Search for reusable API wrappers.\n\nBefore introducing dependencies:\n\n1. Verify existing dependency can solve the problem.\n2. Explain why a new dependency is required.\n\nBefore modifying architecture:\n\n1. Explain impact.\n2. Keep backward compatibility.\n3. Minimize file changes.",
-        "category": "代码",
-        "description": "claude.md和AGENTS.md 只保留 Agent 真正需要知道的长期规则，不要写成技术规范书。",
-        "createdAt": "2026-06-09T23:44:56.234Z",
-        "updatedAt": "2026-06-09T23:47:10.398Z",
+        "name": "齐白石鱼虾主题（齐白石最经典题材）",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "齐白石风格水墨鱼虾图，写意国画，灵动的游虾、小鱼，线条简练飘逸，淡墨晕染，透明质感，清水留白背景，宣纸作画，笔触古朴自然，童趣盎然，中式古典水墨",
+        "promptText": "齐白石风格水墨鱼虾图，写意国画，灵动的游虾、小鱼，线条简练飘逸，淡墨晕染，透明质感，清水留白背景，宣纸作画，笔触古朴自然，童趣盎然，中式古典水墨",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "齐白石 ",
+          "绘画"
+        ],
+        "updatedAt": "2026-06-13T05:36:25.347Z",
+        "createdAt": "2026-06-13T05:36:25.347Z",
         "id": 3
-      },
-      {
-        "title": "000用好工具的关键claude和codex",
-        "content": "### 控制自动注入的上下文\n### 缩小任务搜索范围\n### 及时压缩会话\n### 把高噪音工作隔离出去\n### 避免不必要的工具链负担",
-        "category": "代码",
-        "description": "编程",
-        "createdAt": "2026-06-10T00:00:35.326Z",
-        "updatedAt": "2026-06-10T00:00:35.326Z",
-        "id": 4
-      },
-      {
-        "title": "不理解新项目ai的第一段话",
-        "content": "请先阅读当前项目结构，不要修改任何代码。\n 告诉我： \n1. 这个项目是做什么的 \n2. 使用了哪些技术栈 \n3. 入口文件在哪里 \n4. 启动、构建和测试命令是什么 \n5. 如果我要新增一个功能，应该从哪里开始",
-        "category": "代码",
-        "description": "ai",
-        "createdAt": "2026-06-10T08:21:16.264Z",
-        "updatedAt": "2026-06-10T08:21:16.264Z",
-        "id": 5
-      },
-      {
-        "title": "mcp和skills和prompt",
-        "content": "- Prompt = 临时指令（说一次算一次）\n- Skills = 能力固化（专业、稳定、可复用）\n- MCP = 连接通道（打通外部世界，让你做的功能更加系统化，连接万物）\n\nAgent、MCP、Skill 一句话理解:Agent = 大脑,MCP = 手脚,Skill = 经验和工作方法",
-        "category": "代码",
-        "description": "理解三个：mcp- 大模型连接外部世界的标准协议 / 接口。 - 核心：负责连接、不负责思考。",
-        "createdAt": "2026-06-11T01:49:18.729Z",
-        "updatedAt": "2026-06-11T02:45:41.117Z",
-        "id": 6
-      },
-      {
-        "title": "如何写好agent或claude的标准化文档",
-        "content": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBdad48cdde31408242039840d9e163a15/?search=Agent%E6%98%AF",
-        "category": "代码",
-        "description": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBdad48cdde31408242039840d9e163a15/?search=Agent%E6%98%AF",
-        "createdAt": "2026-06-11T01:59:29.590Z",
-        "updatedAt": "2026-06-11T01:59:29.590Z",
-        "id": 7
-      },
-      {
-        "title": "通用模板Agent文档5 分钟开箱即用",
-        "content": "# AGENTS.md\n\n- 本项目为 [React/Vue/Next.js] + TypeScript 前端应用\n- 包管理器：[yarn/pnpm/npm]\n- 样式方案：[Less/Sass/Tailwind CSS] + CSS Modules\n- UI 组件库：[antd/Arco Design/Element Plus] v[版本号]\n\n## Project Structure\n\nsrc/\n├── components/     # 通用组件（PascalCase 命名）\n├── pages/          # 页面组件\n├── hooks/          # 自定义 Hooks\n├── services/       # API 请求封装\n├── models/         # 状态管理\n├── utils/          # 工具函数\n├── typings/        # 类型定义\n└── constants/      # 常量\n\n## Coding Style\n\n**TypeScript**\n- 使用 interface 定义 Props\n- 组件使用 React.FC<Props> 或函数声明\n- Never 使用 any 类型\n\n**样式**\n- import styles from './index.less'\n- Never 使用内联样式\n- Never 硬编码颜色值\n\n**路径别名**\n- @/* → src/*\n\n## Build Commands\n\n[你的开发命令]    # 启动开发服务器\n[你的构建命令]    # 生产构建\n[你的格式化命令]  # 代码格式化\n\n## Never 规则\n\n- Never 修改框架自动生成的目录\n- Never 修改 dist/ 构建产物\n- Never 在组件内使用 any 类型\n- Never 使用内联样式\n- Never 在渲染路径中执行耗时操作\n- Never 在列表渲染中省略 key\n- Never 硬编码敏感信息\n- Never 修改 lock 文件\n\n## Commit 规范\n\n- 格式：type(scope): description\n- 类型：feat / fix / docs / style / refactor / test / chore\n",
-        "category": "Prompt",
-        "description": "代码开发",
-        "createdAt": "2026-06-11T02:00:37.609Z",
-        "updatedAt": "2026-06-11T02:00:37.609Z",
-        "id": 8
-      },
-      {
-        "title": "第一个读项目模版",
-        "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n",
-        "category": "Prompt",
-        "description": "读项目模版",
-        "createdAt": "2026-06-11T02:56:36.372Z",
-        "updatedAt": "2026-06-11T02:57:49.206Z",
-        "id": 9
-      },
-      {
-        "title": "第二个修改bug模版",
-        "content": "我遇到了一个 bug：XXX。\n\n请先阅读相关代码，不要修改。\n\n输出：\n1. 可能原因\n2. 涉及文件\n3. 你需要进一步确认的信息\n4. 修复计划\n",
-        "category": "Prompt",
-        "description": "修改bug模版",
-        "createdAt": "2026-06-11T02:56:55.305Z",
-        "updatedAt": "2026-06-11T02:57:54.787Z",
-        "id": 10
-      },
-      {
-        "title": "第三个执行修改模板",
-        "content": "请按刚才确认的计划修改代码。\n\n要求：\n1. 修改范围只限于 XXX\n2. 不要引入新依赖\n3. 不要重构无关代码\n4. 完成后运行相关测试\n5. 最后总结修改内容和风险\n",
-        "category": "Prompt",
-        "description": "执行修改模版",
-        "createdAt": "2026-06-11T02:57:15.793Z",
-        "updatedAt": "2026-06-11T02:58:01.355Z",
-        "id": 11
-      },
-      {
-        "title": "第四个review 模板",
-        "content": "请 review 当前 git diff。\n\n重点关注：\n1. 是否破坏现有功能\n2. 是否有边界情况遗漏\n3. 是否有错误处理缺失\n4. 是否有类型问题\n5. 是否有安全风险\n6. 是否需要补测试\n\n只输出问题，不要修改代码。\n",
-        "category": "Prompt",
-        "description": "review代码模版",
-        "createdAt": "2026-06-11T02:57:36.707Z",
-        "updatedAt": "2026-06-11T02:58:06.189Z",
-        "id": 12
-      },
-      {
-        "title": "第五个任务收尾模板",
-        "content": "请总结这个任务。\n\n包括：\n1. 目标是什么\n2. 最终改了什么\n3. 已验证什么\n4. 还有什么风险\n5. 后续继续做应该从哪里开始\n",
-        "category": "Prompt",
-        "description": "任务收尾模版",
-        "createdAt": "2026-06-11T02:58:45.268Z",
-        "updatedAt": "2026-06-11T02:58:45.268Z",
-        "id": 13
-      },
-      {
-        "title": "齐白石prompt",
-        "content": "齐白石水墨画风格，传统中式写意国画，兼工带写，墨分五色，毛笔笔触自然流畅，宣纸纹理质感，大面积留白，构图简约大气，造型生动质朴，色彩淡雅清润，意境悠远，东方古典美学，细节细腻，高清质感\n",
-        "category": "其他",
-        "description": "绘画",
-        "createdAt": "2026-06-13T05:13:31.853Z",
-        "updatedAt": "2026-06-13T05:13:31.853Z",
-        "id": 14
       }
     ],
-    "prompts": [],
     "scripts": [],
     "workflows": [],
     "videos": [],
     "ambientSounds": [],
     "aiTools": [],
+    "textSnippets": [],
     "urls": []
   }
 }
