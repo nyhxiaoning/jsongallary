@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-11T02:22:01.960Z",
+  "updatedAt": "2026-06-15T09:58:59.323Z",
   "collections": {
     "urls": [
       {
@@ -52,6 +52,36 @@
         "createdAt": "2026-06-11T02:22:00.758Z",
         "updatedAt": "2026-06-11T02:22:00.758Z",
         "id": 5
+      },
+      {
+        "name": "linux常用命令行",
+        "url": "https://git.io/linux",
+        "snippetContent": "快速搜索github命令",
+        "category": "工具",
+        "description": "linux命令",
+        "createdAt": "2026-06-15T02:38:48.572Z",
+        "updatedAt": "2026-06-15T02:38:48.572Z",
+        "id": 6
+      },
+      {
+        "name": "有道云全年规划",
+        "url": "https://note.youdao.com/web/#/file/WEB066751a4269d52b030f06bc562c6ea97/mindmap/F56E1B3ED71E4EFBBC461AF82926E953",
+        "snippetContent": "有道云记录自己的全年规划，可以经常查看和修改记录进度\n为什么不用okr，ork太紧张了，做的自己压力大",
+        "category": "工具",
+        "description": "",
+        "createdAt": "2026-06-15T09:58:07.861Z",
+        "updatedAt": "2026-06-15T09:58:07.861Z",
+        "id": 7
+      },
+      {
+        "name": "Agent月影课程汇总",
+        "url": "https://my.feishu.cn/docx/QBE2dp343omS8hxXgPkcYMhDnfe",
+        "snippetContent": "飞书整理汇总\n",
+        "category": "文档",
+        "description": "",
+        "createdAt": "2026-06-15T09:58:57.314Z",
+        "updatedAt": "2026-06-15T09:58:57.314Z",
+        "id": 8
       }
     ],
     "prompts": [],
@@ -60,6 +90,7 @@
     "videos": [],
     "ambientSounds": [],
     "aiTools": [],
-    "textSnippets": []
+    "textSnippets": [],
+    "videoModels": []
   }
 }
