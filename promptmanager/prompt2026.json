@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-10T02:57:23.351Z",
+  "version": 5,
+  "updatedAt": "2026-06-15T10:00:11.814Z",
   "collections": {
     "prompts": [
       {
@@ -46,12 +46,50 @@
         "updatedAt": "2026-05-31T13:27:31.445Z",
         "createdAt": "2026-05-31T13:27:31.445Z",
         "id": 2
+      },
+      {
+        "name": "如何做到4-5个镜头生成图片一致性一样",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "如果实现同时生成4-5个镜头，镜头的图片一样",
+        "promptText": "如果实现同时生成4-5个镜头，镜头的图片一样",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [],
+        "updatedAt": "2026-06-15T10:00:09.408Z",
+        "createdAt": "2026-06-15T10:00:09.408Z",
+        "id": 3
       }
     ],
     "scripts": [],
     "workflows": [],
     "videos": [],
-    "ambientSounds": [],
+    "ambientSounds": [
+      {
+        "name": "test",
+        "category": "自然",
+        "description": "",
+        "tags": [
+          "音乐"
+        ],
+        "audioUrl": "https://raw.githubusercontent.com/nyhxiaoning/jsongallary/main/ambient-sounds/test_1781331810717.mp3",
+        "filePath": "ambient-sounds/test_1781331810717.mp3",
+        "fileName": "test_1781331810717.mp3",
+        "fileSize": 744610,
+        "duration": 31,
+        "sha": "754053dd7fc4a9c48783db0450d7e45336285e01",
+        "createdAt": "2026-06-13T06:23:41.749Z",
+        "updatedAt": "2026-06-13T06:23:41.749Z",
+        "id": 3
+      }
+    ],
     "aiTools": [
       {
         "name": "claudecode最佳实践",
@@ -144,7 +182,17 @@
         "createdAt": "2026-06-10T00:00:35.326Z",
         "updatedAt": "2026-06-10T00:00:35.326Z",
         "id": 4
+      },
+      {
+        "title": "git常见账号问题和网络问题",
+        "content": "1.临时查看和切换账号git\n查看邮箱：git config --local user.email\n切换邮箱： git config --local user.email \"1540097293@qq.com\"\n查看name: git config --local user.name\n切换name:  git config --local user.name \"nyhxiaoning\"\n2.",
+        "category": "代码",
+        "description": "git常用",
+        "createdAt": "2026-06-15T02:40:59.208Z",
+        "updatedAt": "2026-06-15T02:40:59.208Z",
+        "id": 14
       }
-    ]
+    ],
+    "videoModels": []
   }
 }
