@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-16T00:17:32.709Z",
+  "updatedAt": "2026-06-16T00:18:11.972Z",
   "collections": {
     "textSnippets": [
       {
@@ -164,6 +164,15 @@
         "createdAt": "2026-06-16T00:17:30.399Z",
         "updatedAt": "2026-06-16T00:17:30.399Z",
         "id": 18
+      },
+      {
+        "title": "git常见账号问题和网络问题",
+        "content": "1.临时查看和切换账号git\n查看邮箱：git config --local user.email\n切换邮箱： git config --local user.email \"1540097293@qq.com\"\n查看name: git config --local user.name\n切换name:  git config --local user.name \"nyhxiaoning\"\n2.",
+        "category": "代码",
+        "description": "工具常见问题",
+        "createdAt": "2026-06-16T00:18:09.944Z",
+        "updatedAt": "2026-06-16T00:18:09.944Z",
+        "id": 19
       }
     ],
     "prompts": [],
