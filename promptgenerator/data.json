@@ -1,0 +1,66 @@
+{
+  "version": 6,
+  "updatedAt": "2026-06-19T08:31:57.154Z",
+  "collections": {
+    "managedPrompts": [
+      {
+        "title": "宠物猫咪",
+        "content": "第一种猫咪\n",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "description": "宠物的生成",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T04:40:42.688Z",
+        "updatedAt": "2026-06-19T05:06:18.423Z",
+        "id": 1,
+        "isTemplate": false
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "isTemplate": true,
+        "templateFields": [],
+        "templateSuffix": "",
+        "updatedAt": "2026-06-19T06:17:17.119Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T06:17:17.119Z",
+        "id": 2
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物美食"
+        ],
+        "favorited": false,
+        "isTemplate": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T08:29:52.439Z",
+        "updatedAt": "2026-06-19T08:29:52.439Z",
+        "id": 3
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": [],
+    "textSnippets": [],
+    "videoModels": []
+  }
+}
