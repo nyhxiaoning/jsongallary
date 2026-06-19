@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-19T06:41:10.797Z",
+  "items": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/nyhxiaoning/gallary_d/main/animals/xiaorou1.jpg",
+      "title": "小柔形象1",
+      "prompt": "提示词1:\n短毛美短起司猫，棕黑鱼骨虎斑纹，方圆大胖脸，黄绿色大圆眼睛，粉色鼻尖，鼻尖上方有一小块褐色斑点，纯白色大胸+白手套前爪，身材敦实肥胖，四肢粗壮，黑色环纹尾巴，表情严肃直视前方，室内写实照片，高清细节",
+      "description": "小柔",
+      "tags": [
+        "小柔",
+        "猫咪",
+        "美短"
+      ],
+      "id": 1781850840742,
+      "createdAt": "2026-06-19T06:34:00.742Z",
+      "updatedAt": "2026-06-19T06:37:36.204Z"
+    }
+  ]
+}
