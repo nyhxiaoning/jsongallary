@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-06-15T09:58:59.323Z",
+  "updatedAt": "2026-06-19T00:29:34.437Z",
   "collections": {
     "urls": [
       {
@@ -82,6 +82,16 @@
         "createdAt": "2026-06-15T09:58:57.314Z",
         "updatedAt": "2026-06-15T09:58:57.314Z",
         "id": 8
+      },
+      {
+        "name": "视频拼接和图片制作工具",
+        "url": "https://ffmpeg-woad.vercel.app/",
+        "snippetContent": "1.拼接视频\n2.剪切视频\n3.导出音频",
+        "category": "工具",
+        "description": "视频图片工具",
+        "createdAt": "2026-06-19T00:29:32.164Z",
+        "updatedAt": "2026-06-19T00:29:32.164Z",
+        "id": 9
       }
     ],
     "prompts": [],
