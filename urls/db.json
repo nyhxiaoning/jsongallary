@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-19T00:29:34.437Z",
+  "version": 6,
+  "updatedAt": "2026-06-20T08:08:30.988Z",
   "collections": {
     "urls": [
       {
@@ -92,6 +92,16 @@
         "createdAt": "2026-06-19T00:29:32.164Z",
         "updatedAt": "2026-06-19T00:29:32.164Z",
         "id": 9
+      },
+      {
+        "name": "ai提示词生成器随机化",
+        "url": "https://gen.kejilion.pro/",
+        "snippetContent": "自动生成提示词汇总内容",
+        "category": "参考",
+        "description": "提示词生成器",
+        "createdAt": "2026-06-20T08:08:28.817Z",
+        "updatedAt": "2026-06-20T08:08:28.817Z",
+        "id": 10
       }
     ],
     "prompts": [],
@@ -101,6 +111,7 @@
     "ambientSounds": [],
     "aiTools": [],
     "textSnippets": [],
-    "videoModels": []
+    "videoModels": [],
+    "managedPrompts": []
   }
 }
