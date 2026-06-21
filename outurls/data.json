@@ -1,27 +1,21 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-21T03:23:20.774Z",
+  "updatedAt": "2026-06-21T03:46:14.107Z",
   "collections": {
-    "urls": [
+    "promptConnecters": [
       {
-        "name": "国内市场化的skills广场1红狐",
+        "name": "国内红狐市场化推广",
         "url": "https://redfox.hk/skills",
-        "snippetContent": "很多商业化使用的skills",
-        "category": "其他",
-        "description": "",
-        "createdAt": "2026-06-11T01:46:04.821Z",
-        "updatedAt": "2026-06-11T01:46:04.821Z",
-        "id": 2
-      },
-      {
-        "name": "ai提示词生成器随机化",
-        "url": "https://gen.kejilion.pro/",
-        "snippetContent": "自动生成提示词汇总内容",
-        "category": "参考",
-        "description": "提示词生成器",
-        "createdAt": "2026-06-20T08:08:28.817Z",
-        "updatedAt": "2026-06-20T08:08:28.817Z",
-        "id": 10
+        "snippetContent": "市场化",
+        "category": [
+          "推广",
+          "市场化",
+          "广告"
+        ],
+        "description": "营销赚钱",
+        "createdAt": "2026-06-21T03:46:12.905Z",
+        "updatedAt": "2026-06-21T03:46:12.905Z",
+        "id": 1
       }
     ],
     "prompts": [],
