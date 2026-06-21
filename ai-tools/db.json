@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-21T03:31:55.016Z",
+  "updatedAt": "2026-06-21T03:41:21.326Z",
   "collections": {
     "aiTools": [
       {
@@ -20,6 +20,19 @@
         "createdAt": "2026-06-21T03:31:46.417Z",
         "updatedAt": "2026-06-21T03:31:46.417Z",
         "id": 3
+      },
+      {
+        "name": "test1",
+        "url": "https://baidu.com",
+        "category": "图片",
+        "subcategory": [
+          "图文",
+          "视频"
+        ],
+        "description": "",
+        "createdAt": "2026-06-21T03:41:05.785Z",
+        "updatedAt": "2026-06-21T03:41:05.785Z",
+        "id": 4
       }
     ],
     "prompts": [],
