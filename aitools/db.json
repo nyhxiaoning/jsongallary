@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-21T04:12:57.031Z",
+  "updatedAt": "2026-06-21T05:04:45.059Z",
   "collections": {
     "aiTools": [
       {
@@ -16,6 +16,19 @@
         "createdAt": "2026-06-21T03:56:57.072Z",
         "updatedAt": "2026-06-21T04:12:55.602Z",
         "id": 7
+      },
+      {
+        "name": "开源视频制作平台：进行中openMontage",
+        "url": "https://github.com/nyhxiaoning/OpenMontage-video",
+        "category": "视频",
+        "subcategory": [
+          "开源",
+          "视频制作"
+        ],
+        "description": "开源视频制作平台\n世界上第一个开源、智能化的视频制作系统。12条流水线，52种工具，500+个代理技能。把你的AI编码助手变成一个完整的视频制作工作室",
+        "createdAt": "2026-06-21T05:04:43.737Z",
+        "updatedAt": "2026-06-21T05:04:43.737Z",
+        "id": 8
       }
     ],
     "prompts": [],
