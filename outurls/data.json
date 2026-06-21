@@ -1,0 +1,37 @@
+{
+  "version": 6,
+  "updatedAt": "2026-06-21T03:23:20.774Z",
+  "collections": {
+    "urls": [
+      {
+        "name": "国内市场化的skills广场1红狐",
+        "url": "https://redfox.hk/skills",
+        "snippetContent": "很多商业化使用的skills",
+        "category": "其他",
+        "description": "",
+        "createdAt": "2026-06-11T01:46:04.821Z",
+        "updatedAt": "2026-06-11T01:46:04.821Z",
+        "id": 2
+      },
+      {
+        "name": "ai提示词生成器随机化",
+        "url": "https://gen.kejilion.pro/",
+        "snippetContent": "自动生成提示词汇总内容",
+        "category": "参考",
+        "description": "提示词生成器",
+        "createdAt": "2026-06-20T08:08:28.817Z",
+        "updatedAt": "2026-06-20T08:08:28.817Z",
+        "id": 10
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": [],
+    "textSnippets": [],
+    "videoModels": [],
+    "managedPrompts": []
+  }
+}
