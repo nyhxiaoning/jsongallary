@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-09T15:27:15.581Z",
+  "version": 6,
+  "updatedAt": "2026-06-21T03:31:55.016Z",
   "collections": {
     "aiTools": [
       {
@@ -11,6 +11,15 @@
         "createdAt": "2026-06-09T15:18:50.285Z",
         "updatedAt": "2026-06-09T15:18:50.285Z",
         "id": 2
+      },
+      {
+        "name": "国内视频聚合liblib模型生成",
+        "url": "https://www.liblib.art/inspiration",
+        "category": "图片",
+        "description": "图片视频资产生成",
+        "createdAt": "2026-06-21T03:31:46.417Z",
+        "updatedAt": "2026-06-21T03:31:46.417Z",
+        "id": 3
       }
     ],
     "prompts": [],
@@ -18,6 +27,8 @@
     "workflows": [],
     "videos": [],
     "ambientSounds": [],
-    "textSnippets": []
+    "textSnippets": [],
+    "videoModels": [],
+    "managedPrompts": []
   }
 }
