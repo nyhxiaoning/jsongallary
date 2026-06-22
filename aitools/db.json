@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T09:35:44.170Z",
+  "updatedAt": "2026-06-22T09:36:01.948Z",
   "collections": {
     "aiTools": [
       {
@@ -228,7 +228,7 @@
         "id": 23
       },
       {
-        "name": "后台模版生成skills",
+        "name": "后台管理系统模版生成skills",
         "url": "https://github.com/nyhxiaoning/open-dashboard",
         "category": "编程",
         "subcategory": [
@@ -237,7 +237,7 @@
         ],
         "description": "scaffold-dashboard — stand up the clean, zero-config foundation in a new project.\nscaffold-dashboard — 在新项目中搭建干净、零配置的基础架构。\nrebrand — name, logo, nav, theme (src/config/app.ts).\nrebrand — 名称、标志、导航栏、主题（src/config/app.ts）。\nadd-backend — stay zero-config (in-memory), set DATABASE_URL for Postgres, or pick a preset (Hono / FastAPI / Supabase, with Drizzle / Prisma, better-auth / Auth.js / JWT). Data and auth are swappable behind two seams.\nadd-backend — 保持零配置（内存中），为 Postgres 设置 DATABASE_URL，或选择预设（Hono / FastAPI / Supabase，搭配 Drizzle / Prisma、better-auth / Auth.js / JWT）。数据和身份验证在两个接口后可互换。\nadd-backend — create-resource <name> scaffolds a full CRUD vertical (table + server fns + query hooks + DataTable page + create/edit dialog + nav).\nadd-backend — create-resource <name> 可搭建一套完整的 CRUD 垂直功能（表格 + 服务端函数 + 查询钩子 + DataTable 页面 + 新建/编辑对话框 + 导航）。\nadd-component — compose detail pages, master-detail, kanban, charts, wizards, billing, and the rest from the catalogue.\nadd-component — 组合详情页面、主从结构、看板、图表、向导、计费功能以及目录中的其他组件",
         "createdAt": "2026-06-22T09:35:41.706Z",
-        "updatedAt": "2026-06-22T09:35:41.706Z",
+        "updatedAt": "2026-06-22T09:36:01.012Z",
         "id": 24
       }
     ],
