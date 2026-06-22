@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T09:36:01.948Z",
+  "updatedAt": "2026-06-22T09:56:01.993Z",
   "collections": {
     "aiTools": [
       {
@@ -239,6 +239,19 @@
         "createdAt": "2026-06-22T09:35:41.706Z",
         "updatedAt": "2026-06-22T09:36:01.012Z",
         "id": 24
+      },
+      {
+        "name": "学习一些泄漏的系统提示词prompt工程汇总",
+        "url": "https://github.com/nyhxiaoning/system_prompts_leaks",
+        "category": "编程",
+        "subcategory": [
+          "prompt",
+          "系统提示词"
+        ],
+        "description": "系统提示词",
+        "createdAt": "2026-06-22T09:56:00.784Z",
+        "updatedAt": "2026-06-22T09:56:00.784Z",
+        "id": 25
       }
     ],
     "prompts": [],
