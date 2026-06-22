@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-21T05:07:39.686Z",
+  "updatedAt": "2026-06-22T05:30:05.132Z",
   "collections": {
     "aiTools": [
       {
@@ -29,6 +29,99 @@
         "createdAt": "2026-06-21T05:04:43.737Z",
         "updatedAt": "2026-06-21T05:07:37.595Z",
         "id": 8
+      },
+      {
+        "name": "小说Agent编写first",
+        "url": "https://github.com/nyhxiaoning/nova-novel",
+        "category": "文字",
+        "subcategory": [
+          "小说",
+          "小说Agent"
+        ],
+        "description": "一个基于 AI 小说 Agent 的全自动小说创作 IDE，支持 Skills、自动化、以及分支故事互动",
+        "createdAt": "2026-06-22T05:12:11.476Z",
+        "updatedAt": "2026-06-22T05:12:11.476Z",
+        "id": 9
+      },
+      {
+        "name": "我的github的数据库图像集合",
+        "url": "https://github.com/nyhxiaoning/gallary_d",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "个人相册",
+          "图片存储"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T05:13:13.828Z",
+        "updatedAt": "2026-06-22T05:13:13.828Z",
+        "id": 10
+      },
+      {
+        "name": "steam第一个案例游戏打鸭子",
+        "url": "https://github.com/nyhxiaoning/tauri-solid-ts-tailwind-vite-githubaction/tree/feature/steam_duck",
+        "category": "编程",
+        "subcategory": [
+          "游戏",
+          "steam"
+        ],
+        "description": "默认steam的游戏开发第一个项目",
+        "createdAt": "2026-06-22T05:14:12.827Z",
+        "updatedAt": "2026-06-22T05:14:12.827Z",
+        "id": 11
+      },
+      {
+        "name": "个人剪辑工具1",
+        "url": "https://github.com/nyhxiaoning/fly-cut.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "视频编辑"
+        ],
+        "description": "视频制作和编辑参考1",
+        "createdAt": "2026-06-22T05:15:08.736Z",
+        "updatedAt": "2026-06-22T05:15:08.736Z",
+        "id": 12
+      },
+      {
+        "name": "个人剪辑工具2",
+        "url": "https://github.com/nyhxiaoning/cutia-cutvideo.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "个人视频"
+        ],
+        "description": "视频剪辑制作",
+        "createdAt": "2026-06-22T05:15:45.235Z",
+        "updatedAt": "2026-06-22T05:15:45.235Z",
+        "id": 13
+      },
+      {
+        "name": "图片转成视频编辑器简单版",
+        "url": "https://github.com/nyhxiaoning/remotion-fireship-demo.git",
+        "category": "视频",
+        "subcategory": [
+          "视频",
+          "剪辑"
+        ],
+        "description": "个人简单图片转成视频工具",
+        "createdAt": "2026-06-22T05:16:26.024Z",
+        "updatedAt": "2026-06-22T05:16:26.024Z",
+        "id": 14
+      },
+      {
+        "name": "设计封面和专业化设计广告",
+        "url": "https://github.com/nyhxiaoning/yft-design",
+        "category": "设计",
+        "subcategory": [
+          "公众号",
+          "封面",
+          "海报"
+        ],
+        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
+        "createdAt": "2026-06-22T05:30:01.094Z",
+        "updatedAt": "2026-06-22T05:30:01.094Z",
+        "id": 15
       }
     ],
     "prompts": [],
