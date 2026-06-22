@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T08:08:36.599Z",
+  "updatedAt": "2026-06-22T09:14:05.668Z",
   "collections": {
     "aiTools": [
       {
@@ -214,6 +214,18 @@
         "createdAt": "2026-06-22T08:08:35.653Z",
         "updatedAt": "2026-06-22T08:08:35.653Z",
         "id": 22
+      },
+      {
+        "name": "PPT制作工具3基于claude驱动",
+        "url": "https://github.com/nyhxiaoning/ppt-web-claude.git",
+        "category": "办公",
+        "subcategory": [
+          "ppt"
+        ],
+        "description": "基于claude驱动的ppt制作工具，直接docker部署",
+        "createdAt": "2026-06-22T09:14:04.411Z",
+        "updatedAt": "2026-06-22T09:14:04.411Z",
+        "id": 23
       }
     ],
     "prompts": [],
