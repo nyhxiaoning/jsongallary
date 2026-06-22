@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-16T00:18:11.972Z",
+  "version": 6,
+  "updatedAt": "2026-06-22T06:14:34.343Z",
   "collections": {
     "textSnippets": [
       {
@@ -40,15 +40,6 @@
         "id": 4
       },
       {
-        "title": "不理解新项目ai的第一段话",
-        "content": "请先阅读当前项目结构，不要修改任何代码。\n 告诉我： \n1. 这个项目是做什么的 \n2. 使用了哪些技术栈 \n3. 入口文件在哪里 \n4. 启动、构建和测试命令是什么 \n5. 如果我要新增一个功能，应该从哪里开始",
-        "category": "代码",
-        "description": "ai",
-        "createdAt": "2026-06-10T08:21:16.264Z",
-        "updatedAt": "2026-06-10T08:21:16.264Z",
-        "id": 5
-      },
-      {
         "title": "mcp和skills和prompt",
         "content": "- Prompt = 临时指令（说一次算一次）\n- Skills = 能力固化（专业、稳定、可复用）\n- MCP = 连接通道（打通外部世界，让你做的功能更加系统化，连接万物）\n\nAgent、MCP、Skill 一句话理解:Agent = 大脑,MCP = 手脚,Skill = 经验和工作方法",
         "category": "代码",
@@ -67,21 +58,21 @@
         "id": 7
       },
       {
-        "title": "通用模板Agent文档5 分钟开箱即用",
+        "title": "大模型Agents.md和claude.md通用模板Agent文档5 分钟开箱即用",
         "content": "# AGENTS.md\n\n- 本项目为 [React/Vue/Next.js] + TypeScript 前端应用\n- 包管理器：[yarn/pnpm/npm]\n- 样式方案：[Less/Sass/Tailwind CSS] + CSS Modules\n- UI 组件库：[antd/Arco Design/Element Plus] v[版本号]\n\n## Project Structure\n\nsrc/\n├── components/     # 通用组件（PascalCase 命名）\n├── pages/          # 页面组件\n├── hooks/          # 自定义 Hooks\n├── services/       # API 请求封装\n├── models/         # 状态管理\n├── utils/          # 工具函数\n├── typings/        # 类型定义\n└── constants/      # 常量\n\n## Coding Style\n\n**TypeScript**\n- 使用 interface 定义 Props\n- 组件使用 React.FC<Props> 或函数声明\n- Never 使用 any 类型\n\n**样式**\n- import styles from './index.less'\n- Never 使用内联样式\n- Never 硬编码颜色值\n\n**路径别名**\n- @/* → src/*\n\n## Build Commands\n\n[你的开发命令]    # 启动开发服务器\n[你的构建命令]    # 生产构建\n[你的格式化命令]  # 代码格式化\n\n## Never 规则\n\n- Never 修改框架自动生成的目录\n- Never 修改 dist/ 构建产物\n- Never 在组件内使用 any 类型\n- Never 使用内联样式\n- Never 在渲染路径中执行耗时操作\n- Never 在列表渲染中省略 key\n- Never 硬编码敏感信息\n- Never 修改 lock 文件\n\n## Commit 规范\n\n- 格式：type(scope): description\n- 类型：feat / fix / docs / style / refactor / test / chore\n",
         "category": "Prompt",
         "description": "代码开发",
         "createdAt": "2026-06-11T02:00:37.609Z",
-        "updatedAt": "2026-06-11T02:00:37.609Z",
+        "updatedAt": "2026-06-22T06:14:14.757Z",
         "id": 8
       },
       {
-        "title": "第一个读项目模版",
+        "title": "IDE学习项目prompt第一个读项目模版",
         "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n",
         "category": "Prompt",
         "description": "读项目模版",
         "createdAt": "2026-06-11T02:56:36.372Z",
-        "updatedAt": "2026-06-11T02:57:49.206Z",
+        "updatedAt": "2026-06-22T06:13:44.916Z",
         "id": 9
       },
       {
@@ -119,15 +110,6 @@
         "createdAt": "2026-06-11T02:58:45.268Z",
         "updatedAt": "2026-06-11T02:58:45.268Z",
         "id": 13
-      },
-      {
-        "title": "齐白石prompt",
-        "content": "齐白石水墨画风格，传统中式写意国画，兼工带写，墨分五色，毛笔笔触自然流畅，宣纸纹理质感，大面积留白，构图简约大气，造型生动质朴，色彩淡雅清润，意境悠远，东方古典美学，细节细腻，高清质感\n",
-        "category": "Prompt",
-        "description": "绘画",
-        "createdAt": "2026-06-13T05:13:31.853Z",
-        "updatedAt": "2026-06-16T00:07:23.385Z",
-        "id": 14
       },
       {
         "title": "Claude.md和Agents.md 最值得增加的内容",
@@ -173,6 +155,15 @@
         "createdAt": "2026-06-16T00:18:09.944Z",
         "updatedAt": "2026-06-16T00:18:09.944Z",
         "id": 19
+      },
+      {
+        "title": "vue3的h5工程师常用提示词",
+        "content": "你是一名专业的h5小应用开发工程师，熟练掌握技术栈：vue3，pinia，vue-i18n，vantui，组件库",
+        "category": "Prompt",
+        "description": "",
+        "createdAt": "2026-06-18T02:24:25.655Z",
+        "updatedAt": "2026-06-18T02:24:25.655Z",
+        "id": 20
       }
     ],
     "prompts": [],
@@ -181,6 +172,7 @@
     "videos": [],
     "ambientSounds": [],
     "aiTools": [],
-    "videoModels": []
+    "videoModels": [],
+    "managedPrompts": []
   }
 }
