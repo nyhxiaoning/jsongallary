@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T07:09:40.353Z",
+  "updatedAt": "2026-06-22T08:08:36.599Z",
   "collections": {
     "aiTools": [
       {
@@ -200,6 +200,20 @@
         "createdAt": "2026-06-22T07:09:38.849Z",
         "updatedAt": "2026-06-22T07:09:38.849Z",
         "id": 21
+      },
+      {
+        "name": "google设计工具平台stitch",
+        "url": "https://stitch.withgoogle.com/",
+        "category": "设计",
+        "subcategory": [
+          "设计",
+          "网站设计",
+          "广告设计"
+        ],
+        "description": "谷歌设计工具平台",
+        "createdAt": "2026-06-22T08:08:35.653Z",
+        "updatedAt": "2026-06-22T08:08:35.653Z",
+        "id": 22
       }
     ],
     "prompts": [],
