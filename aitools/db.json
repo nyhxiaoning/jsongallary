@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T06:12:55.102Z",
+  "updatedAt": "2026-06-22T07:09:40.353Z",
   "collections": {
     "aiTools": [
       {
@@ -148,6 +148,58 @@
         "createdAt": "2026-06-22T05:36:14.369Z",
         "updatedAt": "2026-06-22T06:10:43.857Z",
         "id": 17
+      },
+      {
+        "name": "白噪音网站1",
+        "url": "https://usefoyer.app/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "背景音"
+        ],
+        "description": "白噪音网站",
+        "createdAt": "2026-06-22T06:38:39.890Z",
+        "updatedAt": "2026-06-22T06:38:39.890Z",
+        "id": 18
+      },
+      {
+        "name": "白噪音网站2",
+        "url": "https://freemind.fit/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "环境音"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T06:39:26.085Z",
+        "updatedAt": "2026-06-22T06:39:26.085Z",
+        "id": 19
+      },
+      {
+        "name": "ppt和各种网站设计工具opencodesign",
+        "url": "https://github.com/OpenCoworkAI/open-codesign",
+        "category": "办公",
+        "subcategory": [
+          "图片",
+          "ppt"
+        ],
+        "description": "图片和ppt生成",
+        "createdAt": "2026-06-22T07:02:57.575Z",
+        "updatedAt": "2026-06-22T07:03:13.736Z",
+        "id": 20
+      },
+      {
+        "name": "PPT制作工具2",
+        "url": "https://github.com/nyhxiaoning/oh-html-to-ppt",
+        "category": "办公",
+        "subcategory": [
+          "ppt",
+          "ppt工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T07:09:38.849Z",
+        "updatedAt": "2026-06-22T07:09:38.849Z",
+        "id": 21
       }
     ],
     "prompts": [],
