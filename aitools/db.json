@@ -1,10 +1,10 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T05:30:05.132Z",
+  "updatedAt": "2026-06-22T06:12:55.102Z",
   "collections": {
     "aiTools": [
       {
-        "name": "国内视频聚合liblib模型生成",
+        "name": "国内视频聚合liblib模型生成待参考",
         "url": "https://www.liblib.art/inspiration",
         "category": "图片",
         "subcategory": [
@@ -14,7 +14,7 @@
         ],
         "description": "国内外图文集合：聚合了国内外的优秀的创作工具\n\n中国最大的AI素材网站与创作者社区而LiblibAI则是演语科技的「压舱石」，稳稳地撑起了基本盘。",
         "createdAt": "2026-06-21T03:56:57.072Z",
-        "updatedAt": "2026-06-21T04:12:55.602Z",
+        "updatedAt": "2026-06-22T06:10:52.643Z",
         "id": 7
       },
       {
@@ -122,6 +122,32 @@
         "createdAt": "2026-06-22T05:30:01.094Z",
         "updatedAt": "2026-06-22T05:30:01.094Z",
         "id": 15
+      },
+      {
+        "name": "个人写作码流AI工具",
+        "url": "https://ai-writing-text.vercel.app",
+        "category": "文字",
+        "subcategory": [
+          "文字",
+          "小说"
+        ],
+        "description": "https://ai-writing-text.vercel.app/zh",
+        "createdAt": "2026-06-22T05:34:08.403Z",
+        "updatedAt": "2026-06-22T05:34:08.403Z",
+        "id": 16
+      },
+      {
+        "name": "AI图像生成器嵌入各种模型待参考",
+        "url": "https://www.loraai.pro/create",
+        "category": "图片",
+        "subcategory": [
+          "图像",
+          "图片"
+        ],
+        "description": "图像生成ai",
+        "createdAt": "2026-06-22T05:36:14.369Z",
+        "updatedAt": "2026-06-22T06:10:43.857Z",
+        "id": 17
       }
     ],
     "prompts": [],
