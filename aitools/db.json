@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T05:21:49.211Z",
+  "updatedAt": "2026-06-23T12:06:26.659Z",
   "collections": {
     "aiTools": [
       {
@@ -293,6 +293,19 @@
         "createdAt": "2026-06-23T02:38:38.573Z",
         "updatedAt": "2026-06-23T02:38:38.573Z",
         "id": 28
+      },
+      {
+        "name": "音乐freesound下载",
+        "url": "https://freesound.org/search/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "音效"
+        ],
+        "description": "下载音效，获取key",
+        "createdAt": "2026-06-23T12:06:25.327Z",
+        "updatedAt": "2026-06-23T12:06:25.327Z",
+        "id": 29
       }
     ],
     "prompts": [],
