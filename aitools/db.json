@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T02:38:07.110Z",
+  "updatedAt": "2026-06-23T02:38:40.379Z",
   "collections": {
     "aiTools": [
       {
@@ -280,6 +280,19 @@
         "createdAt": "2026-06-23T00:38:44.704Z",
         "updatedAt": "2026-06-23T00:38:44.704Z",
         "id": 27
+      },
+      {
+        "name": "免税音乐下载网站",
+        "url": "https://pixabay.com/zh/music/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "下载"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T02:38:38.573Z",
+        "updatedAt": "2026-06-23T02:38:38.573Z",
+        "id": 28
       }
     ],
     "prompts": [],
