@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T12:23:42.264Z",
+  "updatedAt": "2026-06-23T14:54:17.453Z",
   "collections": {
     "aiTools": [
       {
@@ -332,6 +332,19 @@
         "createdAt": "2026-06-23T12:23:40.255Z",
         "updatedAt": "2026-06-23T12:23:40.255Z",
         "id": 31
+      },
+      {
+        "name": "声音仿制作分离音乐声音",
+        "url": "https://github.com/nyhxiaoning/MusicMaster",
+        "category": "音乐",
+        "subcategory": [
+          "声音",
+          "音乐"
+        ],
+        "description": "声音实现",
+        "createdAt": "2026-06-23T14:54:15.116Z",
+        "updatedAt": "2026-06-23T14:54:15.116Z",
+        "id": 32
       }
     ],
     "prompts": [],
