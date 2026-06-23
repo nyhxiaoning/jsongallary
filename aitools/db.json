@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T12:06:26.659Z",
+  "updatedAt": "2026-06-23T12:13:38.915Z",
   "collections": {
     "aiTools": [
       {
@@ -306,6 +306,19 @@
         "createdAt": "2026-06-23T12:06:25.327Z",
         "updatedAt": "2026-06-23T12:06:25.327Z",
         "id": 29
+      },
+      {
+        "name": "低价图片和视频生成平台",
+        "url": "https://www.kavilocreativeai.app/en",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "视频"
+        ],
+        "description": "视频和图片",
+        "createdAt": "2026-06-23T12:13:37.773Z",
+        "updatedAt": "2026-06-23T12:13:37.773Z",
+        "id": 30
       }
     ],
     "prompts": [],
