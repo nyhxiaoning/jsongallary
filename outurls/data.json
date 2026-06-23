@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T12:38:20.934Z",
+  "updatedAt": "2026-06-23T12:34:15.195Z",
   "collections": {
     "promptConnecters": [
       {
@@ -16,6 +16,18 @@
         "createdAt": "2026-06-21T03:46:12.905Z",
         "updatedAt": "2026-06-21T03:46:12.905Z",
         "id": 1
+      },
+      {
+        "name": "3d的汽车的查看",
+        "url": "https://github.com/nyhxiaoning/3d-car-viewing",
+        "snippetContent": "3d的汽车的查看内容",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T12:34:13.500Z",
+        "updatedAt": "2026-06-23T12:34:13.500Z",
+        "id": 2
       }
     ],
     "prompts": [],
