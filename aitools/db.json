@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-24T01:50:18.299Z",
+  "updatedAt": "2026-06-24T01:51:34.051Z",
   "collections": {
     "aiTools": [
       {
@@ -359,6 +359,20 @@
         "createdAt": "2026-06-24T01:50:17.175Z",
         "updatedAt": "2026-06-24T01:50:17.175Z",
         "id": 33
+      },
+      {
+        "name": "视频和图片替换工具2",
+        "url": "https://www.cutout.pro/zh-CN/api",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图像视频替换工具",
+        "createdAt": "2026-06-24T01:51:32.739Z",
+        "updatedAt": "2026-06-24T01:51:32.739Z",
+        "id": 34
       }
     ],
     "prompts": [],
