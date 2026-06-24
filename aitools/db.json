@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T14:54:17.453Z",
+  "updatedAt": "2026-06-24T01:50:18.299Z",
   "collections": {
     "aiTools": [
       {
@@ -345,6 +345,20 @@
         "createdAt": "2026-06-23T14:54:15.116Z",
         "updatedAt": "2026-06-23T14:54:15.116Z",
         "id": 32
+      },
+      {
+        "name": "视频和图片替换工具1",
+        "url": "https://www.cuty.ai/zh-CN/ai-tool/character-replace",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图片视频替换工具",
+        "createdAt": "2026-06-24T01:50:17.175Z",
+        "updatedAt": "2026-06-24T01:50:17.175Z",
+        "id": 33
       }
     ],
     "prompts": [],
