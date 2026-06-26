@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-23T12:34:15.195Z",
+  "updatedAt": "2026-06-26T23:36:12.077Z",
   "collections": {
     "promptConnecters": [
       {
@@ -28,6 +28,18 @@
         "createdAt": "2026-06-23T12:34:13.500Z",
         "updatedAt": "2026-06-23T12:34:13.500Z",
         "id": 2
+      },
+      {
+        "name": "小红书youtube推特blibli热点搜索agent",
+        "url": "https://github.com/nyhxiaoning/Agent-Reach",
+        "snippetContent": "agent中的热点资讯",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-26T23:35:37.107Z",
+        "updatedAt": "2026-06-26T23:35:37.107Z",
+        "id": 3
       }
     ],
     "prompts": [],
