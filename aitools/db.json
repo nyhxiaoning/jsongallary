@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-26T23:04:21.707Z",
+  "updatedAt": "2026-06-26T23:31:33.276Z",
   "collections": {
     "aiTools": [
       {
@@ -357,6 +357,19 @@
         "createdAt": "2026-06-23T14:58:03.430Z",
         "updatedAt": "2026-06-23T14:58:03.430Z",
         "id": 33
+      },
+      {
+        "name": "个人云操作系统cassOS",
+        "url": "https://github.com/nyhxiaoning/CasaOS",
+        "category": "办公",
+        "subcategory": [
+          "云系统",
+          "个人操作系统"
+        ],
+        "description": "个人云操作系统，很有意思\n",
+        "createdAt": "2026-06-26T23:31:32.079Z",
+        "updatedAt": "2026-06-26T23:31:32.079Z",
+        "id": 34
       }
     ],
     "prompts": [],
