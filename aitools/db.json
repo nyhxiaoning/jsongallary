@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-24T01:51:34.051Z",
+  "updatedAt": "2026-06-26T23:04:21.707Z",
   "collections": {
     "aiTools": [
       {
@@ -110,7 +110,7 @@
         "id": 14
       },
       {
-        "name": "设计封面和专业化设计广告",
+        "name": "设计封面和专业化设计广告工具迭代",
         "url": "https://github.com/nyhxiaoning/yft-design",
         "category": "设计",
         "subcategory": [
@@ -120,7 +120,7 @@
         ],
         "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
         "createdAt": "2026-06-22T05:30:01.094Z",
-        "updatedAt": "2026-06-22T05:30:01.094Z",
+        "updatedAt": "2026-06-26T23:04:19.485Z",
         "id": 15
       },
       {
@@ -347,32 +347,16 @@
         "id": 32
       },
       {
-        "name": "视频和图片替换工具1",
-        "url": "https://www.cuty.ai/zh-CN/ai-tool/character-replace",
-        "category": "视频",
+        "name": "同步文件跨设备",
+        "url": "https://github.com/nyhxiaoning/sync-station",
+        "category": "办公",
         "subcategory": [
-          "图片",
-          "视频",
-          "替换"
+          "文件"
         ],
-        "description": "图片视频替换工具",
-        "createdAt": "2026-06-24T01:50:17.175Z",
-        "updatedAt": "2026-06-24T01:50:17.175Z",
+        "description": "传输文件",
+        "createdAt": "2026-06-23T14:58:03.430Z",
+        "updatedAt": "2026-06-23T14:58:03.430Z",
         "id": 33
-      },
-      {
-        "name": "视频和图片替换工具2",
-        "url": "https://www.cutout.pro/zh-CN/api",
-        "category": "视频",
-        "subcategory": [
-          "图片",
-          "视频",
-          "替换"
-        ],
-        "description": "图像视频替换工具",
-        "createdAt": "2026-06-24T01:51:32.739Z",
-        "updatedAt": "2026-06-24T01:51:32.739Z",
-        "id": 34
       }
     ],
     "prompts": [],
