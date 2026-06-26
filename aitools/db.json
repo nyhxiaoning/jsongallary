@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-26T23:31:33.276Z",
+  "updatedAt": "2026-06-26T23:39:49.628Z",
   "collections": {
     "aiTools": [
       {
@@ -370,6 +370,19 @@
         "createdAt": "2026-06-26T23:31:32.079Z",
         "updatedAt": "2026-06-26T23:31:32.079Z",
         "id": 34
+      },
+      {
+        "name": "抖音视频分析下载工具",
+        "url": "https://github.com/nyhxiaoning/Douyin_TikTok_Download_API",
+        "category": "下载",
+        "subcategory": [
+          "抖音",
+          "视频下载"
+        ],
+        "description": "",
+        "createdAt": "2026-06-26T23:39:47.403Z",
+        "updatedAt": "2026-06-26T23:39:47.403Z",
+        "id": 35
       }
     ],
     "prompts": [],
