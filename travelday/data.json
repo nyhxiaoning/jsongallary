@@ -1,0 +1,67 @@
+[
+  {
+    "id": "stop_beijing",
+    "region": "北京",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "title": "北京美食参考点",
+    "category": "food",
+    "note": "用于快速体验本地美食地图。",
+    "status": "planned",
+    "createdAt": "2026-06-28T01:04:55.435Z",
+    "updatedAt": "2026-06-28T01:04:55.435Z",
+    "images": []
+  },
+  {
+    "id": "stop_shanghai",
+    "region": "上海",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "title": "上海美食参考点",
+    "category": "food",
+    "note": "可继续补充详细吃饭记录。",
+    "status": "planned",
+    "createdAt": "2026-06-28T01:04:55.435Z",
+    "updatedAt": "2026-06-28T01:04:55.435Z",
+    "images": []
+  },
+  {
+    "id": "stop_chengdu",
+    "region": "成都",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "title": "成都美食参考点",
+    "category": "food",
+    "note": "川味探索起点。",
+    "status": "planned",
+    "createdAt": "2026-06-28T01:04:55.435Z",
+    "updatedAt": "2026-06-28T01:04:55.435Z",
+    "images": []
+  },
+  {
+    "id": "stop_guilin",
+    "region": "桂林",
+    "lat": 25.276,
+    "lng": 110.299,
+    "title": "桂林美食参考点",
+    "category": "scenery",
+    "note": "结合山水与文化。",
+    "status": "planned",
+    "createdAt": "2026-06-28T01:04:55.435Z",
+    "updatedAt": "2026-06-28T01:04:55.435Z",
+    "images": []
+  },
+  {
+    "id": "stop_hangzhou",
+    "region": "杭州",
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "title": "杭州美食参考点",
+    "category": "culture",
+    "note": "适合记录茶文化路线。",
+    "status": "planned",
+    "createdAt": "2026-06-28T01:04:55.435Z",
+    "updatedAt": "2026-06-28T01:04:55.435Z",
+    "images": []
+  }
+]
