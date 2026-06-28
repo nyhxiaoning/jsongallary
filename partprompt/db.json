@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-16T00:18:11.972Z",
+  "version": 6,
+  "updatedAt": "2026-06-22T08:15:11.799Z",
   "collections": {
     "textSnippets": [
       {
@@ -40,15 +40,6 @@
         "id": 4
       },
       {
-        "title": "不理解新项目ai的第一段话",
-        "content": "请先阅读当前项目结构，不要修改任何代码。\n 告诉我： \n1. 这个项目是做什么的 \n2. 使用了哪些技术栈 \n3. 入口文件在哪里 \n4. 启动、构建和测试命令是什么 \n5. 如果我要新增一个功能，应该从哪里开始",
-        "category": "代码",
-        "description": "ai",
-        "createdAt": "2026-06-10T08:21:16.264Z",
-        "updatedAt": "2026-06-10T08:21:16.264Z",
-        "id": 5
-      },
-      {
         "title": "mcp和skills和prompt",
         "content": "- Prompt = 临时指令（说一次算一次）\n- Skills = 能力固化（专业、稳定、可复用）\n- MCP = 连接通道（打通外部世界，让你做的功能更加系统化，连接万物）\n\nAgent、MCP、Skill 一句话理解:Agent = 大脑,MCP = 手脚,Skill = 经验和工作方法",
         "category": "代码",
@@ -67,21 +58,21 @@
         "id": 7
       },
       {
-        "title": "通用模板Agent文档5 分钟开箱即用",
-        "content": "# AGENTS.md\n\n- 本项目为 [React/Vue/Next.js] + TypeScript 前端应用\n- 包管理器：[yarn/pnpm/npm]\n- 样式方案：[Less/Sass/Tailwind CSS] + CSS Modules\n- UI 组件库：[antd/Arco Design/Element Plus] v[版本号]\n\n## Project Structure\n\nsrc/\n├── components/     # 通用组件（PascalCase 命名）\n├── pages/          # 页面组件\n├── hooks/          # 自定义 Hooks\n├── services/       # API 请求封装\n├── models/         # 状态管理\n├── utils/          # 工具函数\n├── typings/        # 类型定义\n└── constants/      # 常量\n\n## Coding Style\n\n**TypeScript**\n- 使用 interface 定义 Props\n- 组件使用 React.FC<Props> 或函数声明\n- Never 使用 any 类型\n\n**样式**\n- import styles from './index.less'\n- Never 使用内联样式\n- Never 硬编码颜色值\n\n**路径别名**\n- @/* → src/*\n\n## Build Commands\n\n[你的开发命令]    # 启动开发服务器\n[你的构建命令]    # 生产构建\n[你的格式化命令]  # 代码格式化\n\n## Never 规则\n\n- Never 修改框架自动生成的目录\n- Never 修改 dist/ 构建产物\n- Never 在组件内使用 any 类型\n- Never 使用内联样式\n- Never 在渲染路径中执行耗时操作\n- Never 在列表渲染中省略 key\n- Never 硬编码敏感信息\n- Never 修改 lock 文件\n\n## Commit 规范\n\n- 格式：type(scope): description\n- 类型：feat / fix / docs / style / refactor / test / chore\n",
-        "category": "Prompt",
+        "title": "AGENTS.md和CLAUDE.md通用模板5 分钟开箱即用参考生成",
+        "content": "给当前的项目，参考上面的结构化docs/project-overview.md内容，同时增加一些never禁止的东西，分别生成AGENTS.md和CLAUDE.md\n\n\n- 本项目为 [React/Vue/Next.js] + TypeScript 前端应用\n- 包管理器：[yarn/pnpm/npm]\n- 样式方案：[Less/Sass/Tailwind CSS] + CSS Modules\n- UI 组件库：[antd/Arco Design/Element Plus] v[版本号]\n\n## Project Structure\n\nsrc/\n├── components/     # 通用组件（PascalCase 命名）\n├── pages/          # 页面组件\n├── hooks/          # 自定义 Hooks\n├── services/       # API 请求封装\n├── models/         # 状态管理\n├── utils/          # 工具函数\n├── typings/        # 类型定义\n└── constants/      # 常量\n\n## Coding Style\n\n**TypeScript**\n- 使用 interface 定义 Props\n- 组件使用 React.FC<Props> 或函数声明\n- Never 使用 any 类型\n\n**样式**\n- import styles from './index.less'\n- Never 使用内联样式\n- Never 硬编码颜色值\n\n**路径别名**\n- @/* → src/*\n\n## Build Commands\n\n[你的开发命令]    # 启动开发服务器\n[你的构建命令]    # 生产构建\n[你的格式化命令]  # 代码格式化\n\n## Never 规则\n\n- Never 修改框架自动生成的目录\n- Never 修改 dist/ 构建产物\n- Never 在组件内使用 any 类型\n- Never 使用内联样式\n- Never 在渲染路径中执行耗时操作\n- Never 在列表渲染中省略 key\n- Never 硬编码敏感信息\n- Never 修改 lock 文件\n\n## Commit 规范\n\n- 格式：type(scope): description\n- 类型：feat / fix / docs / style / refactor / test / chore\n",
+        "category": "模板",
         "description": "代码开发",
         "createdAt": "2026-06-11T02:00:37.609Z",
-        "updatedAt": "2026-06-11T02:00:37.609Z",
+        "updatedAt": "2026-06-22T08:15:00.668Z",
         "id": 8
       },
       {
-        "title": "第一个读项目模版",
+        "title": "IDE学习项目prompt第一个读项目模版",
         "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n",
-        "category": "Prompt",
+        "category": "模板",
         "description": "读项目模版",
         "createdAt": "2026-06-11T02:56:36.372Z",
-        "updatedAt": "2026-06-11T02:57:49.206Z",
+        "updatedAt": "2026-06-22T08:15:10.303Z",
         "id": 9
       },
       {
@@ -119,15 +110,6 @@
         "createdAt": "2026-06-11T02:58:45.268Z",
         "updatedAt": "2026-06-11T02:58:45.268Z",
         "id": 13
-      },
-      {
-        "title": "齐白石prompt",
-        "content": "齐白石水墨画风格，传统中式写意国画，兼工带写，墨分五色，毛笔笔触自然流畅，宣纸纹理质感，大面积留白，构图简约大气，造型生动质朴，色彩淡雅清润，意境悠远，东方古典美学，细节细腻，高清质感\n",
-        "category": "Prompt",
-        "description": "绘画",
-        "createdAt": "2026-06-13T05:13:31.853Z",
-        "updatedAt": "2026-06-16T00:07:23.385Z",
-        "id": 14
       },
       {
         "title": "Claude.md和Agents.md 最值得增加的内容",
@@ -173,6 +155,24 @@
         "createdAt": "2026-06-16T00:18:09.944Z",
         "updatedAt": "2026-06-16T00:18:09.944Z",
         "id": 19
+      },
+      {
+        "title": "vue3的h5工程师常用提示词",
+        "content": "你是一名专业的h5小应用开发工程师，熟练掌握技术栈：vue3，pinia，vue-i18n，vantui，组件库",
+        "category": "Prompt",
+        "description": "",
+        "createdAt": "2026-06-18T02:24:25.655Z",
+        "updatedAt": "2026-06-18T02:24:25.655Z",
+        "id": 20
+      },
+      {
+        "title": "react的实战CLAUDE.md和AGENTS.md模版参考1",
+        "content": "# CLAUDE.md\n\n## Project\n\nOh My PPT — 本地优先的 AI 幻灯片生成与编辑工具。Electron + React + TypeScript。\n\n## Commands\n\n```bash\npnpm dev          # 开发\npnpm build        # 不要跑构建\npnpm run typecheck:node # 跑 node 类型检查\npnpm run typecheck:web # 跑 renderer 类型检查\npnpm typecheck    # 跑类型检查  \npnpm lint         # 不要跑ESLint\npnpm format       # 不要跑Prettier\n```\n\n> 不要跑 `npm run lint` / `npm run build`。\n\n## Code Style\n\n- Prettier: `singleQuote`, `no semi`, `printWidth: 100`, `trailingComma: none`\n- 路径别名: `@shared/*` → `src/shared/*`, `@renderer/*` → `src/renderer/src/*`\n\n## Execution Rules\n\n- 先判断问题落在哪条链路：生成、编辑、导入、导出或运行时；不要只修当前可见入口\n- 公共规则变更要确认生成和编辑都覆盖，包括整页编辑、deck 编辑、selector 编辑\n- 改 runtime asset 时，同步检查 session asset 兼容/刷新机制\n- 修 bug 优先补最小定向回归测试，必要时覆盖相邻入口\n- 验证时跑最相关的最小测试集；不要跑 `npm run lint` 或 `npm run build`\n\n## Testing\n\n- 框架：Vitest + happy-dom，测试文件放 `tests/unit/` 下，按功能域分子目录，文件名 `*.test.ts`\n- 跑测试：`pnpm test`，跑单个文件：`pnpm test -- tests/unit/xxx/foo.test.ts`\n- 修 bug 或加功能时，必须补对应测试到 `tests/unit/`；测试不通过就继续修代码直到通过\n\n##  React 组件编写规范\n\n### 核心原则\n\n#### 1. 逻辑内聚，少传 props\n- **能写在组件内的逻辑就写在组件内**，不要通过 props 从父组件传进来\n- 事件处理、数据获取、状态管理，都优先写在组件自己里面\n\n```jsx\n// ✅ 好\nfunction ProductCard({ id }) {\n  const [count, setCount] = useState(0)\n  const handleBuy = () => { /* 逻辑写这里 */ }\n  return <button onClick={handleBuy}>购买</button>\n}\n\n// ❌ 坏\nfunction ProductCard({ count, onBuy }) { /* 逻辑都从外面传 */ }\n```\n\n#### 2. 跨组件状态用 Zustand\n- 多个组件需要共享的数据 → 放 zustand store\n- 不要通过 props 一层层传\n\n```jsx\nconst useStore = create((set) => ({\n  user: null,\n  setUser: (user) => set({ user })\n}))\n\n// 任何组件直接拿来用，不用传 props\nconst user = useStore(state => state.user)\n```\n\n####  3. 复用逻辑抽成自定义 Hook\n- 多个组件都需要**相同的有状态逻辑**时，抽成自定义 Hook\n- Hook 放在 `hooks/` 目录下，以 `use` 开头\n\n```jsx\n// hooks/useProductData.js\nfunction useProductData(productId) {\n  const [product, setProduct] = useState(null)\n  const [loading, setLoading] = useState(false)\n  \n  useEffect(() => {\n    fetchProduct(productId).then(setProduct)\n  }, [productId])\n  \n  return { product, loading }\n}\n\n// 组件中使用\nfunction ProductCard({ id }) {\n  const { product, loading } = useProductData(id)\n  // 不用从 props 传 product 和 loading\n}\n```\n\n#### 4. 什么情况才用 props？\n只传这两类东西：\n- **配置项**：`size`, `disabled`, `variant`\n- **纯展示数据**：`title`, `description`\n\n## 简单检查\n写代码前问一句：*\"这个逻辑/状态能不能直接写在当前组件里？\"*\n- 能 → 就写里面\n- 不能，但多个组件都需要 → 放 zustand 或抽成自定义 Hook\n- 实在不行 → 才传 props\n\n## 记住\n**组件要自己管自己，别当父组件的提线木偶。**\n\n",
+        "category": "模板",
+        "description": "react实战开发者非常好用的通用模版1",
+        "createdAt": "2026-06-22T08:14:13.308Z",
+        "updatedAt": "2026-06-22T08:14:48.716Z",
+        "id": 21
       }
     ],
     "prompts": [],
@@ -181,6 +181,7 @@
     "videos": [],
     "ambientSounds": [],
     "aiTools": [],
-    "videoModels": []
+    "videoModels": [],
+    "managedPrompts": []
   }
 }

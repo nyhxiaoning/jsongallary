@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-19T00:29:34.437Z",
+  "version": 6,
+  "updatedAt": "2026-06-22T09:52:17.845Z",
   "collections": {
     "urls": [
       {
@@ -84,13 +84,13 @@
         "id": 8
       },
       {
-        "name": "视频拼接和图片制作工具",
-        "url": "https://ffmpeg-woad.vercel.app/",
-        "snippetContent": "1.拼接视频\n2.剪切视频\n3.导出音频",
-        "category": "工具",
-        "description": "视频图片工具",
-        "createdAt": "2026-06-19T00:29:32.164Z",
-        "updatedAt": "2026-06-19T00:29:32.164Z",
+        "name": "快速redis数据结构学习",
+        "url": "https://my.feishu.cn/docx/XwRhdkwiPojzCvxYq6ncm0iVn8f?from=from_copylink",
+        "snippetContent": "redis数据结构入门",
+        "category": "教程",
+        "description": "数据结构",
+        "createdAt": "2026-06-22T09:52:15.897Z",
+        "updatedAt": "2026-06-22T09:52:15.897Z",
         "id": 9
       }
     ],
@@ -101,6 +101,7 @@
     "ambientSounds": [],
     "aiTools": [],
     "textSnippets": [],
-    "videoModels": []
+    "videoModels": [],
+    "managedPrompts": []
   }
 }

@@ -1,0 +1,126 @@
+{
+  "version": 6,
+  "updatedAt": "2026-06-21T03:27:19.392Z",
+  "collections": {
+    "managedPrompts": [
+      {
+        "title": "宠物猫咪",
+        "content": "第一种猫咪\n",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "description": "宠物的生成",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T04:40:42.688Z",
+        "updatedAt": "2026-06-19T05:06:18.423Z",
+        "id": 1,
+        "isTemplate": false
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "isTemplate": true,
+        "templateFields": [],
+        "templateSuffix": "",
+        "updatedAt": "2026-06-19T06:17:17.119Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T06:17:17.119Z",
+        "id": 2
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物美食"
+        ],
+        "favorited": false,
+        "isTemplate": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T08:29:52.439Z",
+        "updatedAt": "2026-06-19T08:29:52.439Z",
+        "id": 3
+      },
+      {
+        "title": "齐白石工笔画写意花草",
+        "content": "齐白石工笔昆虫搭配写意花草，小虫刻画精细逼真，花草以大写意挥洒，一工一写对比鲜明，墨色层次丰富，留白巧妙，传统国画，毛笔手绘，古朴雅致",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:18:18.163Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:18:18.163Z",
+        "id": 4
+      },
+      {
+        "title": "齐白石蔬果 / 民俗小品主题",
+        "content": "齐白石水墨蔬果小品画，南瓜、白菜、牵牛花，造型质朴憨厚，笔触粗犷写意，色彩清淡素雅，构图简洁，生活化意境，传统中式水墨画，宣纸质感",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:18:52.604Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:18:52.604Z",
+        "id": 5
+      },
+      {
+        "title": "齐白石花鸟 / 草木主题",
+        "content": "齐白石写意花鸟画，花枝简练，禽鸟造型生动传神，工笔刻画细节，淡彩点缀，浓淡干湿墨色层次分明，大幅留白，东方禅意，传统国画，宣纸肌理",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:19:13.430Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:19:13.430Z",
+        "id": 6
+      },
+      {
+        "title": "齐白石鱼虾主题（齐白石最经典题材）",
+        "content": "齐白石风格水墨鱼虾图，写意国画，灵动的游虾、小鱼，线条简练飘逸，淡墨晕染，透明质感，清水留白背景，宣纸作画，笔触古朴自然，童趣盎然，中式古典水墨",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:19:34.614Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:19:34.614Z",
+        "id": 7
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": [],
+    "textSnippets": [],
+    "videoModels": []
+  }
+}

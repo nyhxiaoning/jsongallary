@@ -1,0 +1,6 @@
+{
+  "provider": "deepseek",
+  "model": "deepseek-v4-flash",
+  "baseUrl": "https://api.deepseek.com/v1",
+  "syncedAt": "2026-06-20T12:14:29.970Z"
+}

@@ -1,61 +1,391 @@
 {
-  "version": 5,
-  "updatedAt": "2026-06-11T02:22:14.509Z",
+  "version": 6,
+  "updatedAt": "2026-06-27T07:34:54.408Z",
   "collections": {
     "aiTools": [
       {
-        "name": "claudecode最佳实践",
-        "url": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBcacb4670e53f34d969018b9525e6e876/?search=claude",
-        "category": "编程",
-        "description": "有道云整理",
-        "createdAt": "2026-06-09T23:19:34.800Z",
-        "updatedAt": "2026-06-09T23:19:34.800Z",
-        "id": 1
+        "name": "国内视频聚合liblib模型生成待参考",
+        "url": "https://www.liblib.art/inspiration",
+        "category": "图片",
+        "subcategory": [
+          "图文",
+          "视频",
+          "创意"
+        ],
+        "description": "国内外图文集合：聚合了国内外的优秀的创作工具\n\n中国最大的AI素材网站与创作者社区而LiblibAI则是演语科技的「压舱石」，稳稳地撑起了基本盘。",
+        "createdAt": "2026-06-21T03:56:57.072Z",
+        "updatedAt": "2026-06-22T06:10:52.643Z",
+        "id": 7
       },
       {
-        "name": "codex最佳实践",
-        "url": "https://note.youdao.com/web/#/file/WEB9089c622250e84f32f13e546005a4290/markdown/WEB8d915d7975ffa2359cb4518b9f2f5aee/",
-        "category": "编程",
-        "description": "有道云",
-        "createdAt": "2026-06-09T23:20:31.004Z",
-        "updatedAt": "2026-06-09T23:20:31.004Z",
-        "id": 2
+        "name": "开源视频制作平台：进行中openMontage",
+        "url": "https://github.com/nyhxiaoning/OpenMontage-video",
+        "category": "视频",
+        "subcategory": [
+          "开源",
+          "视频制作"
+        ],
+        "description": "OpenMontage 可以从YouTube 视频、短视频、Reel、TikTok 或本地片段开始，并将其转化为切实可行的制作方案：\n\n粘贴参考视频，你可以获取：智能体分析文案、节奏、场景、关键帧和风格\n\n世界上第一个开源、智能化的视频制作系统。12条流水线，52种工具，500+个代理技能。把你的AI编码助手变成一个完整的视频制作工作室\n你将获得2到3个差异化概念、清晰的工具开发路径、成本估算以及批量生产前",
+        "createdAt": "2026-06-21T05:04:43.737Z",
+        "updatedAt": "2026-06-21T05:07:37.595Z",
+        "id": 8
       },
       {
-        "name": "待整理的prompt和skills汇总",
-        "url": "https://my.feishu.cn/docx/SpoSdojProhNJ6x4DGacBajCnde?from=from_copylink",
-        "category": "编程",
-        "description": "飞书待整理内容",
-        "createdAt": "2026-06-09T23:31:19.135Z",
-        "updatedAt": "2026-06-09T23:31:19.135Z",
-        "id": 3
+        "name": "小说Agent编写first",
+        "url": "https://github.com/nyhxiaoning/nova-novel",
+        "category": "文字",
+        "subcategory": [
+          "小说",
+          "小说Agent"
+        ],
+        "description": "一个基于 AI 小说 Agent 的全自动小说创作 IDE，支持 Skills、自动化、以及分支故事互动",
+        "createdAt": "2026-06-22T05:12:11.476Z",
+        "updatedAt": "2026-06-22T05:12:11.476Z",
+        "id": 9
       },
       {
-        "name": "AI时代最好的monorepo架构分层",
-        "url": "https://my.feishu.cn/docx/SpoSdojProhNJ6x4DGacBajCnde#N9jcdNwFDothQQxlJ14cmYRtnzc",
-        "category": "编程",
-        "description": "飞书",
-        "createdAt": "2026-06-09T23:32:50.055Z",
-        "updatedAt": "2026-06-09T23:32:50.055Z",
-        "id": 4
+        "name": "我的github的数据库图像集合",
+        "url": "https://github.com/nyhxiaoning/gallary_d",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "个人相册",
+          "图片存储"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T05:13:13.828Z",
+        "updatedAt": "2026-06-22T05:13:13.828Z",
+        "id": 10
       },
       {
-        "name": "汇总整理所有的skills集合",
-        "url": "https://my.feishu.cn/wiki/PZjOwtJXVi9LgLkMUJycS5DknAc?table=tblhbPJarAC2zvAr&view=vewWQ2veme",
+        "name": "steam第一个案例游戏打鸭子",
+        "url": "https://github.com/nyhxiaoning/tauri-solid-ts-tailwind-vite-githubaction/tree/feature/steam_duck",
+        "category": "编程",
+        "subcategory": [
+          "游戏",
+          "steam"
+        ],
+        "description": "默认steam的游戏开发第一个项目",
+        "createdAt": "2026-06-22T05:14:12.827Z",
+        "updatedAt": "2026-06-22T05:14:12.827Z",
+        "id": 11
+      },
+      {
+        "name": "个人剪辑工具1",
+        "url": "https://github.com/nyhxiaoning/fly-cut.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "视频编辑"
+        ],
+        "description": "视频制作和编辑参考1",
+        "createdAt": "2026-06-22T05:15:08.736Z",
+        "updatedAt": "2026-06-22T05:15:08.736Z",
+        "id": 12
+      },
+      {
+        "name": "个人剪辑工具2",
+        "url": "https://github.com/nyhxiaoning/cutia-cutvideo.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "个人视频"
+        ],
+        "description": "视频剪辑制作",
+        "createdAt": "2026-06-22T05:15:45.235Z",
+        "updatedAt": "2026-06-22T05:15:45.235Z",
+        "id": 13
+      },
+      {
+        "name": "图片转成视频编辑器简单版",
+        "url": "https://github.com/nyhxiaoning/remotion-fireship-demo.git",
+        "category": "视频",
+        "subcategory": [
+          "视频",
+          "剪辑"
+        ],
+        "description": "个人简单图片转成视频工具",
+        "createdAt": "2026-06-22T05:16:26.024Z",
+        "updatedAt": "2026-06-22T05:16:26.024Z",
+        "id": 14
+      },
+      {
+        "name": "设计封面和专业化设计广告",
+        "url": "https://github.com/nyhxiaoning/yft-design",
+        "category": "设计",
+        "subcategory": [
+          "公众号",
+          "封面",
+          "海报"
+        ],
+        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
+        "createdAt": "2026-06-22T05:30:01.094Z",
+        "updatedAt": "2026-06-22T05:30:01.094Z",
+        "id": 15
+      },
+      {
+        "name": "个人写作码流AI工具",
+        "url": "https://ai-writing-text.vercel.app",
+        "category": "文字",
+        "subcategory": [
+          "文字",
+          "小说"
+        ],
+        "description": "https://ai-writing-text.vercel.app/zh",
+        "createdAt": "2026-06-22T05:34:08.403Z",
+        "updatedAt": "2026-06-22T05:34:08.403Z",
+        "id": 16
+      },
+      {
+        "name": "AI图像生成器嵌入各种模型待参考",
+        "url": "https://www.loraai.pro/create",
+        "category": "图片",
+        "subcategory": [
+          "图像",
+          "图片"
+        ],
+        "description": "图像生成ai",
+        "createdAt": "2026-06-22T05:36:14.369Z",
+        "updatedAt": "2026-06-22T06:10:43.857Z",
+        "id": 17
+      },
+      {
+        "name": "白噪音网站1",
+        "url": "https://usefoyer.app/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "背景音"
+        ],
+        "description": "白噪音网站",
+        "createdAt": "2026-06-22T06:38:39.890Z",
+        "updatedAt": "2026-06-22T06:38:39.890Z",
+        "id": 18
+      },
+      {
+        "name": "白噪音网站2",
+        "url": "https://freemind.fit/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "环境音"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T06:39:26.085Z",
+        "updatedAt": "2026-06-22T06:39:26.085Z",
+        "id": 19
+      },
+      {
+        "name": "ppt和各种网站设计工具opencodesign",
+        "url": "https://github.com/OpenCoworkAI/open-codesign",
+        "category": "办公",
+        "subcategory": [
+          "图片",
+          "ppt"
+        ],
+        "description": "图片和ppt生成",
+        "createdAt": "2026-06-22T07:02:57.575Z",
+        "updatedAt": "2026-06-22T07:03:13.736Z",
+        "id": 20
+      },
+      {
+        "name": "PPT制作工具2",
+        "url": "https://github.com/nyhxiaoning/oh-html-to-ppt",
+        "category": "办公",
+        "subcategory": [
+          "ppt",
+          "ppt工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T07:09:38.849Z",
+        "updatedAt": "2026-06-22T07:09:38.849Z",
+        "id": 21
+      },
+      {
+        "name": "google设计工具平台stitch",
+        "url": "https://stitch.withgoogle.com/",
+        "category": "设计",
+        "subcategory": [
+          "设计",
+          "网站设计",
+          "广告设计"
+        ],
+        "description": "谷歌设计工具平台",
+        "createdAt": "2026-06-22T08:08:35.653Z",
+        "updatedAt": "2026-06-22T08:08:35.653Z",
+        "id": 22
+      },
+      {
+        "name": "PPT制作工具3基于claude驱动",
+        "url": "https://github.com/nyhxiaoning/ppt-web-claude.git",
+        "category": "办公",
+        "subcategory": [
+          "ppt"
+        ],
+        "description": "基于claude驱动的ppt制作工具，直接docker部署",
+        "createdAt": "2026-06-22T09:14:04.411Z",
+        "updatedAt": "2026-06-22T09:14:04.411Z",
+        "id": 23
+      },
+      {
+        "name": "后台管理系统模版生成skills",
+        "url": "https://github.com/nyhxiaoning/open-dashboard",
+        "category": "编程",
+        "subcategory": [
+          "模版skills",
+          "skills"
+        ],
+        "description": "scaffold-dashboard — stand up the clean, zero-config foundation in a new project.\nscaffold-dashboard — 在新项目中搭建干净、零配置的基础架构。\nrebrand — name, logo, nav, theme (src/config/app.ts).\nrebrand — 名称、标志、导航栏、主题（src/config/app.ts）。\nadd-backend — stay zero-config (in-memory), set DATABASE_URL for Postgres, or pick a preset (Hono / FastAPI / Supabase, with Drizzle / Prisma, better-auth / Auth.js / JWT). Data and auth are swappable behind two seams.\nadd-backend — 保持零配置（内存中），为 Postgres 设置 DATABASE_URL，或选择预设（Hono / FastAPI / Supabase，搭配 Drizzle / Prisma、better-auth / Auth.js / JWT）。数据和身份验证在两个接口后可互换。\nadd-backend — create-resource <name> scaffolds a full CRUD vertical (table + server fns + query hooks + DataTable page + create/edit dialog + nav).\nadd-backend — create-resource <name> 可搭建一套完整的 CRUD 垂直功能（表格 + 服务端函数 + 查询钩子 + DataTable 页面 + 新建/编辑对话框 + 导航）。\nadd-component — compose detail pages, master-detail, kanban, charts, wizards, billing, and the rest from the catalogue.\nadd-component — 组合详情页面、主从结构、看板、图表、向导、计费功能以及目录中的其他组件",
+        "createdAt": "2026-06-22T09:35:41.706Z",
+        "updatedAt": "2026-06-22T09:36:01.012Z",
+        "id": 24
+      },
+      {
+        "name": "学习一些泄漏的系统提示词prompt工程汇总",
+        "url": "https://github.com/nyhxiaoning/system_prompts_leaks",
+        "category": "编程",
+        "subcategory": [
+          "prompt",
+          "系统提示词"
+        ],
+        "description": "系统提示词",
+        "createdAt": "2026-06-22T09:56:00.784Z",
+        "updatedAt": "2026-06-22T09:56:00.784Z",
+        "id": 25
+      },
+      {
+        "name": "诗词创作者诗云参考",
+        "url": "https://shiyun.cohenjikan.com/?p=4853112213865551998235622261739731542671384135992659563175534606546761761747154896356821353487#p=4853112213865551998235622261739731542671384135992659563175534606546761761747154896356821353487",
+        "category": "文字",
+        "subcategory": [
+          "诗词",
+          "创意",
+          "网站",
+          "文化"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T00:36:48.955Z",
+        "updatedAt": "2026-06-23T00:36:48.955Z",
+        "id": 26
+      },
+      {
+        "name": "我的诗词散文编年史",
+        "url": "https://book-map-ten.vercel.app/",
+        "category": "文字",
+        "subcategory": [
+          "文字",
+          "散文"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T00:38:44.704Z",
+        "updatedAt": "2026-06-23T00:38:44.704Z",
+        "id": 27
+      },
+      {
+        "name": "免税音乐下载网站",
+        "url": "https://pixabay.com/zh/music/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "下载"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T02:38:38.573Z",
+        "updatedAt": "2026-06-23T02:38:38.573Z",
+        "id": 28
+      },
+      {
+        "name": "音乐freesound下载",
+        "url": "https://freesound.org/search/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "音效"
+        ],
+        "description": "下载音效，获取key",
+        "createdAt": "2026-06-23T12:06:25.327Z",
+        "updatedAt": "2026-06-23T12:06:25.327Z",
+        "id": 29
+      },
+      {
+        "name": "低价图片和视频生成平台",
+        "url": "https://www.kavilocreativeai.app/en",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "视频"
+        ],
+        "description": "视频和图片",
+        "createdAt": "2026-06-23T12:13:37.773Z",
+        "updatedAt": "2026-06-23T12:13:37.773Z",
+        "id": 30
+      },
+      {
+        "name": "claude最佳实践汇总",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice",
+        "category": "编程",
+        "subcategory": [
+          "编程",
+          "claude实践"
+        ],
+        "description": "实践",
+        "createdAt": "2026-06-23T12:23:40.255Z",
+        "updatedAt": "2026-06-23T12:23:40.255Z",
+        "id": 31
+      },
+      {
+        "name": "声音仿制作分离音乐声音",
+        "url": "https://github.com/nyhxiaoning/MusicMaster",
+        "category": "音乐",
+        "subcategory": [
+          "声音",
+          "音乐"
+        ],
+        "description": "声音实现",
+        "createdAt": "2026-06-23T14:54:15.116Z",
+        "updatedAt": "2026-06-23T14:54:15.116Z",
+        "id": 32
+      },
+      {
+        "name": "视频和图片替换工具1",
+        "url": "https://www.cuty.ai/zh-CN/ai-tool/character-replace",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图片视频替换工具",
+        "createdAt": "2026-06-24T01:50:17.175Z",
+        "updatedAt": "2026-06-24T01:50:17.175Z",
+        "id": 33
+      },
+      {
+        "name": "视频和图片替换工具2",
+        "url": "https://www.cutout.pro/zh-CN/api",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图像视频替换工具",
+        "createdAt": "2026-06-24T01:51:32.739Z",
+        "updatedAt": "2026-06-24T01:51:32.739Z",
+        "id": 34
+      },
+      {
+        "name": "我的有趣吃吃喝喝的网站",
+        "url": "https://travel-day-ten.vercel.app/",
         "category": "其他",
-        "description": "飞书整理汇总所有的skills集合",
-        "createdAt": "2026-06-09T23:34:47.590Z",
-        "updatedAt": "2026-06-09T23:34:47.590Z",
-        "id": 5
-      },
-      {
-        "name": "牛人编程的skills沉淀个人学习版本",
-        "url": "https://note.youdao.com/web/#/file/WEB9089c622250e84f32f13e546005a4290/markdown/WEB6f32c9df3b7a8adf12fafb6803e888b7/",
-        "category": "编程",
-        "description": "编程的技术法则沉淀\n",
-        "createdAt": "2026-06-09T23:40:32.874Z",
-        "updatedAt": "2026-06-09T23:40:32.874Z",
-        "id": 6
+        "subcategory": [
+          "吃吃喝喝",
+          "旅游"
+        ],
+        "description": "",
+        "createdAt": "2026-06-27T07:34:53.048Z",
+        "updatedAt": "2026-06-27T07:34:53.048Z",
+        "id": 35
       }
     ],
     "prompts": [],
@@ -64,6 +394,7 @@
     "videos": [],
     "ambientSounds": [],
     "textSnippets": [],
-    "urls": []
+    "videoModels": [],
+    "managedPrompts": []
   }
 }

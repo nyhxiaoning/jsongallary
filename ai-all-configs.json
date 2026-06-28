@@ -1,0 +1,18 @@
+{
+  "text": [
+    {
+      "id": "1781936887715",
+      "name": "openai的测试step3.5",
+      "provider": "openai",
+      "apiKey": "RorpzYAd4lElLgZCt7L6zbhxsRbFzHABEWSd174JdTWOQmCwrMkPnq1QQDTjX4ea",
+      "baseUrl": "https://api.stepfun.com/step_plan/v1",
+      "model": "step-3.5-flash",
+      "realProvider": "setp3.5",
+      "createdAt": "2026-06-20T06:28:07.715Z"
+    }
+  ],
+  "image": [],
+  "video": [],
+  "_syncedAt": "2026-06-20T12:14:45.997Z",
+  "_version": "1.0"
+}

@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-09T15:27:15.581Z",
+  "version": 6,
+  "updatedAt": "2026-06-21T03:41:21.326Z",
   "collections": {
     "aiTools": [
       {
@@ -11,6 +11,28 @@
         "createdAt": "2026-06-09T15:18:50.285Z",
         "updatedAt": "2026-06-09T15:18:50.285Z",
         "id": 2
+      },
+      {
+        "name": "国内视频聚合liblib模型生成",
+        "url": "https://www.liblib.art/inspiration",
+        "category": "图片",
+        "description": "图片视频资产生成",
+        "createdAt": "2026-06-21T03:31:46.417Z",
+        "updatedAt": "2026-06-21T03:31:46.417Z",
+        "id": 3
+      },
+      {
+        "name": "test1",
+        "url": "https://baidu.com",
+        "category": "图片",
+        "subcategory": [
+          "图文",
+          "视频"
+        ],
+        "description": "",
+        "createdAt": "2026-06-21T03:41:05.785Z",
+        "updatedAt": "2026-06-21T03:41:05.785Z",
+        "id": 4
       }
     ],
     "prompts": [],
@@ -18,6 +40,8 @@
     "workflows": [],
     "videos": [],
     "ambientSounds": [],
-    "textSnippets": []
+    "textSnippets": [],
+    "videoModels": [],
+    "managedPrompts": []
   }
 }
