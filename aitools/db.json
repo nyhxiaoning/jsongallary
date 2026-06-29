@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-27T07:34:54.408Z",
+  "updatedAt": "2026-06-29T03:08:32.376Z",
   "collections": {
     "aiTools": [
       {
@@ -111,16 +111,16 @@
       },
       {
         "name": "设计封面和专业化设计广告",
-        "url": "https://github.com/nyhxiaoning/yft-design",
+        "url": "https://yft-design-one.vercel.app/",
         "category": "设计",
         "subcategory": [
           "公众号",
           "封面",
           "海报"
         ],
-        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
+        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。\nhttps://github.com/nyhxiaoning/yft-design",
         "createdAt": "2026-06-22T05:30:01.094Z",
-        "updatedAt": "2026-06-22T05:30:01.094Z",
+        "updatedAt": "2026-06-29T03:08:29.562Z",
         "id": 15
       },
       {
