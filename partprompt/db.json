@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-02T02:30:13.716Z",
+  "updatedAt": "2026-07-02T08:16:07.458Z",
   "collections": {
     "textSnippets": [
       {
@@ -182,6 +182,15 @@
         "createdAt": "2026-07-01T02:03:58.409Z",
         "updatedAt": "2026-07-01T02:03:58.409Z",
         "id": 22
+      },
+      {
+        "title": "git常用切换分支删除错误建立的内容",
+        "content": "# 撤回已修改文件\ngit reset --hard HEAD\n# 删除所有未跟踪文件\ngit clean -fd",
+        "category": "代码",
+        "description": "git强行切换分支",
+        "createdAt": "2026-07-02T08:16:06.477Z",
+        "updatedAt": "2026-07-02T08:16:06.477Z",
+        "id": 23
       }
     ],
     "prompts": [],
