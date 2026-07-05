@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-05T12:29:08.887Z",
+  "updatedAt": "2026-07-05T13:01:31.000Z",
   "collections": {
     "aiTools": [
       {
@@ -428,18 +428,6 @@
         "createdAt": "2026-07-05T08:16:48.243Z",
         "updatedAt": "2026-07-05T08:16:48.243Z",
         "id": 38
-      },
-      {
-        "name": "稿定设计ai相关出图",
-        "url": "https://m.gaoding.com/",
-        "category": "图片",
-        "subcategory": [
-          "搞定设计"
-        ],
-        "description": "",
-        "createdAt": "2026-07-05T12:29:06.403Z",
-        "updatedAt": "2026-07-05T12:29:06.403Z",
-        "id": 39
       }
     ],
     "prompts": [],
