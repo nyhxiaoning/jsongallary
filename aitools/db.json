@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-05T04:13:02.984Z",
+  "updatedAt": "2026-07-05T08:16:50.810Z",
   "collections": {
     "aiTools": [
       {
@@ -400,6 +400,34 @@
         "createdAt": "2026-07-05T04:13:01.111Z",
         "updatedAt": "2026-07-05T04:13:01.111Z",
         "id": 36
+      },
+      {
+        "name": "图片编辑压缩处理平台",
+        "url": "https://nonophoto.com/#upload",
+        "category": "图片",
+        "subcategory": [
+          "图片编辑",
+          "图片压缩"
+        ],
+        "description": "",
+        "createdAt": "2026-07-05T04:18:03.499Z",
+        "updatedAt": "2026-07-05T04:18:03.499Z",
+        "id": 37
+      },
+      {
+        "name": "prompt合集大全提示词免费网站",
+        "url": "https://prompt123.cn/",
+        "category": "其他",
+        "subcategory": [
+          "音频",
+          "视频",
+          "图片",
+          "汇总"
+        ],
+        "description": "各种网络使用prompt的合集词汇",
+        "createdAt": "2026-07-05T08:16:48.243Z",
+        "updatedAt": "2026-07-05T08:16:48.243Z",
+        "id": 38
       }
     ],
     "prompts": [],
