@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-05T13:01:20.899Z",
+  "updatedAt": "2026-07-05T13:03:46.980Z",
   "collections": {
     "promptConnecters": [
       {
@@ -52,6 +52,18 @@
         "createdAt": "2026-07-05T13:01:19.504Z",
         "updatedAt": "2026-07-05T13:01:19.504Z",
         "id": 5
+      },
+      {
+        "name": "20s内营销视频解析",
+        "url": "https://vid2prompt.com/",
+        "snippetContent": "营销视频解析",
+        "category": [
+          "工具"
+        ],
+        "description": "营销视频解析",
+        "createdAt": "2026-07-05T13:03:45.504Z",
+        "updatedAt": "2026-07-05T13:03:45.504Z",
+        "id": 6
       }
     ],
     "prompts": [],
