@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-26T23:36:12.077Z",
+  "updatedAt": "2026-07-05T13:01:20.899Z",
   "collections": {
     "promptConnecters": [
       {
@@ -40,6 +40,18 @@
         "createdAt": "2026-06-26T23:35:37.107Z",
         "updatedAt": "2026-06-26T23:35:37.107Z",
         "id": 3
+      },
+      {
+        "name": "稿定ai营销物料设计",
+        "url": "https://m.gaoding.com/",
+        "snippetContent": "ai物料",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-07-05T13:01:19.504Z",
+        "updatedAt": "2026-07-05T13:01:19.504Z",
+        "id": 5
       }
     ],
     "prompts": [],
