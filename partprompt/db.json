@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-07T07:58:50.309Z",
+  "updatedAt": "2026-07-07T09:00:10.460Z",
   "collections": {
     "textSnippets": [
       {
@@ -68,11 +68,11 @@
       },
       {
         "title": "IDE学习项目prompt第一个读项目模版",
-        "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n",
+        "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n7.最后将当前的分析内容写入start.md中\n",
         "category": "模板",
         "description": "如果是大型的java，nestjs，nextjs，python项目，建议skills：npx skills add safishamsi/graphify",
         "createdAt": "2026-06-11T02:56:36.372Z",
-        "updatedAt": "2026-07-07T07:58:48.504Z",
+        "updatedAt": "2026-07-07T09:00:09.588Z",
         "id": 9
       },
       {
