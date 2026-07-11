@@ -1,0 +1,52 @@
+[
+  {
+    "time": "2026-07-11 10:54:04",
+    "mode": "multi_image_video",
+    "prompt": "## 前置角色设定\n角色1【老婆缅因猫】：巨型拟人母缅因猫，蓬松长毛、宽大脚掌，人形站姿，温柔妻子人设，女生柔和声线\n角色2【老公胖狸花猫】：壮硕拟人狸花猫，圆润胖身材，憨厚居家丈夫，男生低沉憨憨声线\n整体画风：超写实电影质感，暖光生活化城市夜景，4K高清，毛发细节拉满，浅景深，柔和暖色调\n\n# AI 视频分镜脚本（30 秒轻喜剧版）\n\n## 固定角色\n\n**老婆（缅因猫）**\n\n- 巨型拟人母缅因猫\n    \n- 长毛蓬松\n    \n- 温柔妻子\n    \n- 刚下班，略显疲惫\n    \n\n**老公（胖狸花猫）**\n\n- 壮硕拟人狸花猫\n    \n- 圆润憨厚\n    \n- 做事认真、善良守规矩\n    \n- 居家丈夫\n    \n\n画风：超写实电影质感、暖色生活化夜景、4K、毛发细节丰富。\n\n---\n\n# 第一幕（00:00–00:10）——铺垫\n\n### 场景\n\n室内客厅 → 地铁口\n\n### 画面\n\n胖狸花猫老公正在家里休息，手机响起。\n\n画面切到地铁口，缅因猫老婆背着通勤包打电话。\n\n### 对白\n\n**老婆（电话）**\n\n> 老公，我刚到地铁口，今天加班，好饿呀。\n\n**老公**\n\n> 辛苦啦，你等我，我骑车过去接你，今晚吃贵州酸汤火锅。\n\n### 音效\n\n手机铃声、城市环境音。\n\n---",
+    "images": [
+      "/Users/henryheng/Code/personCode/agnes-image-tool-henry/outputs/agnes_video_20260711_105402_366661.mp4"
+    ],
+    "extra": {
+      "mode": "keyframes",
+      "duration": 10
+    }
+  },
+  {
+    "time": "2026-07-10 21:11:22",
+    "mode": "multi_image_video",
+    "prompt": "我想要生成这两只猫咪打架的视频",
+    "images": [
+      "/Users/henryheng/Code/personCode/agnes-image-tool-henry/outputs/agnes_video_20260710_211120_388065.mp4"
+    ],
+    "extra": {
+      "mode": "keyframes",
+      "duration": 8
+    }
+  },
+  {
+    "time": "2026-07-10 21:06:25",
+    "mode": "text2image",
+    "prompt": "帮我生成一只狸花猫",
+    "images": [
+      "/Users/henryheng/Code/personCode/agnes-image-tool-henry/outputs/agnes_20260710_210623_538821.png"
+    ],
+    "extra": {
+      "source_urls": [
+        "https://platform-outputs.agnes-ai.space/images/t2i/a028a54b9e78417c93f58c18451b9701.png"
+      ]
+    }
+  },
+  {
+    "time": "2026-07-10 20:40:46",
+    "mode": "text2image",
+    "prompt": "生成一只猫",
+    "images": [
+      "/Users/henryheng/Code/personCode/agnes-image-tool-henry/outputs/agnes_20260710_204044_959614.png"
+    ],
+    "extra": {
+      "source_urls": [
+        "https://platform-outputs.agnes-ai.space/images/t2i/b7c6ac8bbe7545c1af6648dbda39a883.png"
+      ]
+    }
+  }
+]
