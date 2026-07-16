@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-07T09:00:10.460Z",
+  "updatedAt": "2026-07-16T02:19:54.723Z",
   "collections": {
     "textSnippets": [
       {
@@ -191,6 +191,15 @@
         "createdAt": "2026-07-02T08:16:06.477Z",
         "updatedAt": "2026-07-02T08:16:06.477Z",
         "id": 23
+      },
+      {
+        "title": "vue改造html为组件模版",
+        "content": "你是一个高级 vue3 开发者，组件库使用 elementplus，请帮我根据参考下面的页面布局和实现代码已经有 html 的实现，参考后，实现的功能对应说明如下：\na. 系统展示标题 \"发布管理\" (pxm_publish_title) 和说明 \"选择未发布作品提交官方审核，通过后即可上架。\" (pxm_publish_subtitle)。",
+        "category": "代码",
+        "description": "代码vue改造html模版",
+        "createdAt": "2026-07-16T02:19:44.900Z",
+        "updatedAt": "2026-07-16T02:19:44.900Z",
+        "id": 24
       }
     ],
     "prompts": [],
