@@ -1,0 +1,2525 @@
+{
+  "state": {
+    "projects": [
+      {
+        "id": "vp_1784968257513_oznz2e5",
+        "name": "项目java商城",
+        "emoji": "🏘️",
+        "questId": "quest_1784963854555_128re39",
+        "questTitle": "Java项目创建商城",
+        "shape": {
+          "id": "bike",
+          "name": "自行车",
+          "emoji": "🚲",
+          "width": 9,
+          "height": 5,
+          "palette": {
+            "K": "#2c3e50",
+            "R": "#e74c3c",
+            "S": "#95a5a6",
+            "W": "transparent"
+          },
+          "grid": [
+            [
+              "W",
+              "W",
+              "W",
+              "W",
+              "K",
+              "K",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "K",
+              "W",
+              "W",
+              "K",
+              "K",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "S",
+              "S",
+              "K",
+              "K",
+              "K",
+              "K",
+              "K",
+              "K",
+              "W"
+            ],
+            [
+              "R",
+              "K",
+              "W",
+              "W",
+              "S",
+              "S",
+              "S",
+              "S",
+              "W"
+            ],
+            [
+              "S",
+              "S",
+              "S",
+              "S",
+              "W",
+              "S",
+              "S",
+              "S",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 0,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 0,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 7,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 8,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 7,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 8,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 7,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 2,
+              "col": 8,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "K"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 3,
+              "col": 7,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 3,
+              "col": 8,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 7,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 4,
+              "col": 8,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:30:57.513Z"
+      },
+      {
+        "id": "vp_1784968284016_9w1k3v1",
+        "name": "「「Java 技术栈」容器化部署」村庄",
+        "emoji": "🐳",
+        "questId": "quest_1784963465403_67hm8sg",
+        "questTitle": "「Java 技术栈」容器化部署",
+        "shape": {
+          "id": "house",
+          "name": "房子",
+          "emoji": "🏠",
+          "width": 7,
+          "height": 7,
+          "palette": {
+            "R": "#e74c3c",
+            "D": "#795548",
+            "W": "#ecf0f1",
+            "Y": "#f1c40f",
+            "K": "#2c3e50"
+          },
+          "grid": [
+            [
+              "W",
+              "W",
+              "R",
+              "R",
+              "R",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "W"
+            ],
+            [
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "D",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "D",
+              "D",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "W",
+              "D",
+              "W",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 5,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 6,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:31:24.016Z"
+      },
+      {
+        "id": "vp_1784968285134_s9p6bgj",
+        "name": "「「Java 技术栈」集成数据库」村庄",
+        "emoji": "💾",
+        "questId": "quest_1784963465403_i23yz3u",
+        "questTitle": "「Java 技术栈」集成数据库",
+        "shape": {
+          "id": "star",
+          "name": "星星",
+          "emoji": "⭐",
+          "width": 7,
+          "height": 7,
+          "palette": {
+            "Y": "#f1c40f",
+            "O": "#e67e22",
+            "W": "transparent"
+          },
+          "grid": [
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "Y",
+              "Y",
+              "Y",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "Y",
+              "O",
+              "Y",
+              "O",
+              "Y",
+              "W"
+            ],
+            [
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y"
+            ],
+            [
+              "W",
+              "Y",
+              "O",
+              "Y",
+              "O",
+              "Y",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "Y",
+              "Y",
+              "Y",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 5,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 6,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:31:25.134Z"
+      },
+      {
+        "id": "vp_1784968286150_fp6ng4b",
+        "name": "「「Java 技术栈」配置 Spring Boot 启动」村庄",
+        "emoji": "🏰",
+        "questId": "quest_1784963465403_74fwbqx",
+        "questTitle": "「Java 技术栈」配置 Spring Boot 启动",
+        "shape": {
+          "id": "house",
+          "name": "房子",
+          "emoji": "🏠",
+          "width": 7,
+          "height": 7,
+          "palette": {
+            "R": "#e74c3c",
+            "D": "#795548",
+            "W": "#ecf0f1",
+            "Y": "#f1c40f",
+            "K": "#2c3e50"
+          },
+          "grid": [
+            [
+              "W",
+              "W",
+              "R",
+              "R",
+              "R",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "W"
+            ],
+            [
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R",
+              "R"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "D",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "D",
+              "D",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "W",
+              "D",
+              "W",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 0,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "R"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 5,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 6,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:31:26.150Z"
+      },
+      {
+        "id": "vp_1784968287150_7cam8ja",
+        "name": "「「Java 技术栈」编写单元测试」村庄",
+        "emoji": "🛡️",
+        "questId": "quest_1784963465403_82i38h8",
+        "questTitle": "「Java 技术栈」编写单元测试",
+        "shape": {
+          "id": "axe",
+          "name": "斧子",
+          "emoji": "🪓",
+          "width": 5,
+          "height": 7,
+          "palette": {
+            "S": "#95a5a6",
+            "W": "#ecf0f1",
+            "D": "#795548",
+            "K": "#2c3e50"
+          },
+          "grid": [
+            [
+              "W",
+              "S",
+              "S",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "S",
+              "S",
+              "S",
+              "W"
+            ],
+            [
+              "W",
+              "S",
+              "S",
+              "S",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "S",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "D",
+              "W",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "S"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 5,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 6,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "D"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:31:27.150Z"
+      },
+      {
+        "id": "vp_1784968800171_6vx2a1m",
+        "name": "「Java项目商城」村庄",
+        "emoji": "cat",
+        "questId": "quest_1784968486470_7bri0oh",
+        "questTitle": "Java项目商城",
+        "shape": {
+          "id": "star",
+          "name": "星星",
+          "emoji": "⭐",
+          "width": 7,
+          "height": 7,
+          "palette": {
+            "Y": "#f1c40f",
+            "O": "#e67e22",
+            "W": "transparent"
+          },
+          "grid": [
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "Y",
+              "Y",
+              "Y",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "Y",
+              "O",
+              "Y",
+              "O",
+              "Y",
+              "W"
+            ],
+            [
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y",
+              "Y"
+            ],
+            [
+              "W",
+              "Y",
+              "O",
+              "Y",
+              "O",
+              "Y",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "Y",
+              "Y",
+              "Y",
+              "W",
+              "W"
+            ],
+            [
+              "W",
+              "W",
+              "W",
+              "Y",
+              "W",
+              "W",
+              "W"
+            ]
+          ]
+        },
+        "grid": [
+          [
+            {
+              "row": 0,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 0,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 0,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 1,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 1,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 1,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 2,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 2,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 2,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 2,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 2,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 3,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 3,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            }
+          ],
+          [
+            {
+              "row": 4,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 4,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 4,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "O"
+            },
+            {
+              "row": 4,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 4,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 5,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 5,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 5,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ],
+          [
+            {
+              "row": 6,
+              "col": 0,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 1,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 2,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 3,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "Y"
+            },
+            {
+              "row": 6,
+              "col": 4,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 5,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            },
+            {
+              "row": 6,
+              "col": 6,
+              "colorCode": null,
+              "filled": false,
+              "_expected": "W"
+            }
+          ]
+        ],
+        "createdAt": "2026-07-25T08:40:00.171Z"
+      }
+    ]
+  },
+  "version": 0
+}
