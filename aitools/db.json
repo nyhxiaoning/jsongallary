@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-08T09:30:58.881Z",
+  "updatedAt": "2026-07-25T08:45:24.013Z",
   "collections": {
     "aiTools": [
       {
@@ -111,16 +111,16 @@
       },
       {
         "name": "设计封面和专业化设计广告",
-        "url": "https://yft-design-one.vercel.app/",
+        "url": "https://github.com/nyhxiaoning/yft-design",
         "category": "设计",
         "subcategory": [
           "公众号",
           "封面",
           "海报"
         ],
-        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。\nhttps://github.com/nyhxiaoning/yft-design",
+        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
         "createdAt": "2026-06-22T05:30:01.094Z",
-        "updatedAt": "2026-06-29T03:08:29.562Z",
+        "updatedAt": "2026-06-22T05:30:01.094Z",
         "id": 15
       },
       {
@@ -388,18 +388,60 @@
         "id": 35
       },
       {
-        "name": "参考一下短剧生成平台功能，嵌入个人平台",
-        "url": "https://dramapilot.com/zh",
+        "name": "外部视频下载工具",
+        "url": "https://dlpanda.com/zh-CN",
         "category": "视频",
         "subcategory": [
-          "短剧",
-          "参考",
-          "案例"
+          "视频下载",
+          "抖音",
+          "youtube"
         ],
-        "description": "案例学习平台",
-        "createdAt": "2026-07-08T09:30:57.751Z",
-        "updatedAt": "2026-07-08T09:30:57.751Z",
+        "description": "视频下载工具",
+        "createdAt": "2026-07-05T04:13:01.111Z",
+        "updatedAt": "2026-07-05T04:13:01.111Z",
         "id": 36
+      },
+      {
+        "name": "图片编辑压缩处理平台",
+        "url": "https://nonophoto.com/#upload",
+        "category": "图片",
+        "subcategory": [
+          "图片编辑",
+          "图片压缩"
+        ],
+        "description": "",
+        "createdAt": "2026-07-05T04:18:03.499Z",
+        "updatedAt": "2026-07-05T04:18:03.499Z",
+        "id": 37
+      },
+      {
+        "name": "prompt合集大全提示词免费网站",
+        "url": "https://prompt123.cn/",
+        "category": "其他",
+        "subcategory": [
+          "音频",
+          "视频",
+          "图片",
+          "汇总"
+        ],
+        "description": "各种网络使用prompt的合集词汇",
+        "createdAt": "2026-07-05T08:16:48.243Z",
+        "updatedAt": "2026-07-05T08:16:48.243Z",
+        "id": 38
+      },
+      {
+        "name": "动画庆祝礼花",
+        "url": "https://fireworks-gift-works.vercel.app/",
+        "category": "视频",
+        "subcategory": [
+          "礼花",
+          "玩具",
+          "庆祝"
+        ],
+        "description": "",
+        "createdAt": "2026-07-25T08:45:21.751Z",
+        "updatedAt": "2026-07-25T08:45:21.751Z",
+        "id": 40
       }
     ],
     "prompts": [],
