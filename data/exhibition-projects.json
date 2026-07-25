@@ -1,0 +1,67 @@
+{
+  "state": {
+    "quests": [
+      {
+        "title": "Java项目商城",
+        "description": "商场java实现对于一个java项目完整实战",
+        "type": "code",
+        "reward": {
+          "itemId": "reward_1784968486470",
+          "itemName": "Java勋章",
+          "emoji": "cat"
+        },
+        "id": "quest_1784968486470_7bri0oh",
+        "status": "doing",
+        "subTasks": [
+          {
+            "id": "sub_1784968486470_gv5ppt6",
+            "title": "编写数据处理",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_hqciyf1",
+            "title": "设计数据结构",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_z5mn4py",
+            "title": "实现接口定义",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_6c4sclw",
+            "title": "实现错误处理",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_bvpxn0f",
+            "title": "编写单元测试",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_qoogctd",
+            "title": "编写 API 文档",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_rsvgfrl",
+            "title": "进行集成测试",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_k2za0ok",
+            "title": "添加类型定义",
+            "done": false
+          },
+          {
+            "id": "sub_1784968486470_urestsv",
+            "title": "编写核心逻辑",
+            "done": false
+          }
+        ],
+        "createdAt": "2026-07-25T08:34:46.470Z"
+      }
+    ]
+  },
+  "version": 1
+}
