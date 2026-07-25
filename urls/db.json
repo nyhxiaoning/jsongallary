@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-06-22T09:52:17.845Z",
+  "updatedAt": "2026-07-25T00:24:55.636Z",
   "collections": {
     "urls": [
       {
@@ -84,14 +84,34 @@
         "id": 8
       },
       {
-        "name": "快速redis数据结构学习",
-        "url": "https://my.feishu.cn/docx/XwRhdkwiPojzCvxYq6ncm0iVn8f?from=from_copylink",
-        "snippetContent": "redis数据结构入门",
-        "category": "教程",
-        "description": "数据结构",
-        "createdAt": "2026-06-22T09:52:15.897Z",
-        "updatedAt": "2026-06-22T09:52:15.897Z",
+        "name": "视频拼接和图片制作工具",
+        "url": "https://ffmpeg-woad.vercel.app/",
+        "snippetContent": "1.拼接视频\n2.剪切视频\n3.导出音频",
+        "category": "工具",
+        "description": "视频图片工具",
+        "createdAt": "2026-06-19T00:29:32.164Z",
+        "updatedAt": "2026-06-19T00:29:32.164Z",
         "id": 9
+      },
+      {
+        "name": "ai提示词生成器随机化",
+        "url": "https://gen.kejilion.pro/",
+        "snippetContent": "自动生成提示词汇总内容",
+        "category": "参考",
+        "description": "提示词生成器",
+        "createdAt": "2026-06-20T08:08:28.817Z",
+        "updatedAt": "2026-06-20T08:08:28.817Z",
+        "id": 10
+      },
+      {
+        "name": "ai前沿总结个人最新开发范式整理flow-kit",
+        "url": "https://note.youdao.com/web/#/file/WEB9089c622250e84f32f13e546005a4290/markdown/WEBfcedd84ae76c4ac1b41c518c3411f568/",
+        "snippetContent": "\n### 代码组织结构\n\n```\nproject/\n├── .flow/\n│   ├── workflow.md          # 工作流定义\n│   ├── stage-1-prd.md       # 第一阶段模板\n│   ├── stage-2-arch.md      # 第二阶段模板\n│   ├── stage-3-tasks.md     # 第三阶段模板\n│   ├── stage-4-specs.md     # 第四阶段模板\n│   ├── stage-5-code.md      # 第五阶段模板\n│   └── stage-6-quality.md   # 第六阶段模板\n├── PRD.md                   # 产出物\n├── ARCHITECTURE.md          # 产出物\n├── TASKS.md                 # 产出物\n├── specs/                   # 产出物\n│   ├── auth.spec.md\n│   └── user.spec.md\n├── src/                     # 代码\n└── tests/                   # 测试\n```\n\n### 第一步：代码初始化\n\n```\n# 克隆 flow-kit\ngit clone https://github.com/your-org/flow-kit.git\n\n# 复制到项目目录\ncp -r flow-kit/.flow your-project/\n\n# 进入项目\ncd your-project\n\n\n```\n\n### 第二步：配置 AI Agent。在 CLAUDE.md 或 .cursorrules 中添加：\n\n\n```\n## 工作流规范\n\n本项目使用 flow-kit 工作流。每次任务开始前，必须先读取 `.flow/workflow.md`，了解当前阶段和下一步操作。\n\n### 阶段检查\n- [ ] 阶段 1：PRD 是否完成？\n- [ ] 阶段 2：架构是否完成？\n- [ ] 阶段 3：任务是否拆解？\n- [ ] 阶段 4：规范是否定义？\n- [ ] 阶段 5：代码是否生成？\n- [ ] 阶段 6：质量是否检查？\n\n\n```\n\n### 第三步是启动工作流。\n\n\n```\n# 让 AI Agent 读取工作流\n> 请读取 .flow/workflow.md，然后告诉我当前应该执行哪个阶段\n\n# AI Agent 会检查项目状态，告诉你下一步做什么\n\n```\n\n### 第四步\n第四步是按阶段执行。每个阶段均有对应模板和检查清单。AI Agent 将依据模板生成文档，然后转入下一阶段。\n\n\n### 案例：\n\n```\n以下是用 flow-kit 开发一个待办事项应用的实战案例。\n\n\n1.阶段 1：生成 PRD。\n> 帮我创建一个待办事项应用的 PRD\n\n# AI 生成 PRD.md\n# 包含：功能需求、用户故事、验收标准\n\n\n2.阶段 2：设计架构。\n\n> 根据 PRD 设计架构\n\n# AI 生成 ARCHITECTURE.md\n# 包含：模块划分、技术选型、数据模型\n\n\n3.阶段 3：拆解任务。\n\n> 根据架构拆解任务\n\n# AI 生成 TASKS.md\n# 包含：任务清单、依赖关系、执行顺序\n\n\n4.阶段 4：定义规范。\n> 为第一个任务定义规范\n\n# AI 生成 specs/todo.spec.md\n# 包含：接口定义、测试用例\n\n5.阶段 5：生成代码。\n\n> 根据规范生成代码\n\n# AI 生成 src/todo.ts\n# 运行测试验证\n\n\n6.阶段 6：质量检查。\n\n> 运行质量检查\n\n# AI 检查代码风格、安全性、性能\n# 生成质量报告\n\n\n\n```\n\n",
+        "category": "开发",
+        "description": "flow-kit",
+        "createdAt": "2026-07-25T00:24:14.006Z",
+        "updatedAt": "2026-07-25T00:24:14.006Z",
+        "id": 11
       }
     ],
     "prompts": [],
