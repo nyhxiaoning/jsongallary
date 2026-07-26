@@ -1,0 +1,11 @@
+{
+  "files": [
+    {
+      "id": "JFWVErScGS4XWlQ7Vssz7",
+      "name": "hen r y",
+      "xml": "<mxfile><diagram name=\"Page-1\" id=\"page-1\"><mxGraphModel><root><mxCell id=\"0\"/><mxCell id=\"1\" parent=\"0\"/></root></mxGraphModel></diagram></mxfile>",
+      "json": "{\n  \"_format\": \"next-ai-draw-io-diagram\",\n  \"_version\": 1,\n  \"diagram\": {\n    \"name\": \"Page-1\",\n    \"cellCount\": 2\n  },\n  \"xml\": \"<mxfile><diagram name=\\\"Page-1\\\" id=\\\"page-1\\\"><mxGraphModel><root><mxCell id=\\\"0\\\"/><mxCell id=\\\"1\\\" parent=\\\"0\\\"/></root></mxGraphModel></diagram></mxfile>\"\n}",
+      "updatedAt": 1785075487744
+    }
+  ]
+}
