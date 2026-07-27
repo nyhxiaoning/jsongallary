@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-27T01:56:14.320Z",
+  "updatedAt": "2026-07-27T01:57:04.718Z",
   "collections": {
     "aiTools": [
       {
@@ -263,9 +263,9 @@
           "网站",
           "文化"
         ],
-        "description": "",
+        "description": "shiyun网站诗云",
         "createdAt": "2026-06-23T00:36:48.955Z",
-        "updatedAt": "2026-06-23T00:36:48.955Z",
+        "updatedAt": "2026-07-27T01:57:03.136Z",
         "id": 26
       },
       {
@@ -276,9 +276,9 @@
           "文字",
           "散文"
         ],
-        "description": "",
+        "description": "诗歌地图文字",
         "createdAt": "2026-06-23T00:38:44.704Z",
-        "updatedAt": "2026-06-23T00:38:44.704Z",
+        "updatedAt": "2026-07-27T01:56:45.112Z",
         "id": 27
       },
       {
@@ -452,9 +452,9 @@
           "文字笔记",
           "笔记"
         ],
-        "description": "文字图书馆笔记\n",
+        "description": "个人的文字图书馆笔记\n",
         "createdAt": "2026-07-27T01:56:12.153Z",
-        "updatedAt": "2026-07-27T01:56:12.153Z",
+        "updatedAt": "2026-07-27T01:56:28.631Z",
         "id": 41
       }
     ],
