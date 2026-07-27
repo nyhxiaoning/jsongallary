@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-25T08:45:24.013Z",
+  "updatedAt": "2026-07-27T01:56:14.320Z",
   "collections": {
     "aiTools": [
       {
@@ -442,6 +442,20 @@
         "createdAt": "2026-07-25T08:45:21.751Z",
         "updatedAt": "2026-07-25T08:45:21.751Z",
         "id": 40
+      },
+      {
+        "name": "文字图书馆笔记汇总整理",
+        "url": "https://books-manager-seven.vercel.app/",
+        "category": "文字",
+        "subcategory": [
+          "图书馆",
+          "文字笔记",
+          "笔记"
+        ],
+        "description": "文字图书馆笔记\n",
+        "createdAt": "2026-07-27T01:56:12.153Z",
+        "updatedAt": "2026-07-27T01:56:12.153Z",
+        "id": 41
       }
     ],
     "prompts": [],
