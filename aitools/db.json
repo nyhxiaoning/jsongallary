@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-28T11:58:41.370Z",
+  "updatedAt": "2026-07-28T11:59:22.318Z",
   "collections": {
     "aiTools": [
       {
@@ -442,6 +442,20 @@
         "createdAt": "2026-07-25T08:45:21.751Z",
         "updatedAt": "2026-07-25T08:45:21.751Z",
         "id": 40
+      },
+      {
+        "name": "解析哔哩哔哩youtube视频下载",
+        "url": "https://clipfetch.org/",
+        "category": "视频",
+        "subcategory": [
+          "youtube",
+          "douyin",
+          "哔哩哔哩"
+        ],
+        "description": "",
+        "createdAt": "2026-07-28T11:59:21.025Z",
+        "updatedAt": "2026-07-28T11:59:21.025Z",
+        "id": 41
       }
     ],
     "prompts": [],
