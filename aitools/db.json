@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-07-27T08:02:32.350Z",
+  "updatedAt": "2026-07-28T11:58:41.370Z",
   "collections": {
     "aiTools": [
       {
@@ -263,9 +263,9 @@
           "网站",
           "文化"
         ],
-        "description": "shiyun网站诗云",
+        "description": "",
         "createdAt": "2026-06-23T00:36:48.955Z",
-        "updatedAt": "2026-07-27T01:57:03.136Z",
+        "updatedAt": "2026-06-23T00:36:48.955Z",
         "id": 26
       },
       {
@@ -276,9 +276,9 @@
           "文字",
           "散文"
         ],
-        "description": "诗歌地图文字",
+        "description": "",
         "createdAt": "2026-06-23T00:38:44.704Z",
-        "updatedAt": "2026-07-27T01:56:45.112Z",
+        "updatedAt": "2026-06-23T00:38:44.704Z",
         "id": 27
       },
       {
@@ -442,20 +442,6 @@
         "createdAt": "2026-07-25T08:45:21.751Z",
         "updatedAt": "2026-07-25T08:45:21.751Z",
         "id": 40
-      },
-      {
-        "name": "文字图书馆笔记汇总整理",
-        "url": "https://books-manager-seven.vercel.app/",
-        "category": "文字",
-        "subcategory": [
-          "图书馆",
-          "文字笔记",
-          "笔记"
-        ],
-        "description": "个人的文字图书馆笔记\n",
-        "createdAt": "2026-07-27T01:56:12.153Z",
-        "updatedAt": "2026-07-27T01:56:28.631Z",
-        "id": 41
       }
     ],
     "prompts": [],
