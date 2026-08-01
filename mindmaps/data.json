@@ -1,14 +1,14 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-01T13:38:30.186Z",
+  "updatedAt": "2026-08-01T13:40:10.582Z",
   "collections": {
     "mindmaps": [
       {
         "title": "思考前端AI生成实现细节化",
-        "content": "# 思维导图\n\n## AI：AGENT.md和CLAUDE.md配置规范\n\n\n## 脚手架基本配置\n\n## AI开始模块化开发\n",
+        "content": "# 思维导图\n\n## AI：AGENT.md和CLAUDE.md配置规范\n\n\n## 脚手架基本配置\n\n## AI开始模块化开发\n- 接口标准化封装请求层：标准化模块接口封装\n- 数据模块管理模块化：\n- 中英文国际化模块化\n- \n",
         "category": "工作总结",
         "createdAt": "2026-08-01T13:33:44.412Z",
-        "updatedAt": "2026-08-01T13:38:28.512Z",
+        "updatedAt": "2026-08-01T13:40:08.229Z",
         "id": 1
       }
     ],
