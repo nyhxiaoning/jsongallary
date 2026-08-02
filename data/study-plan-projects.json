@@ -1,0 +1,287 @@
+{
+  "state": {
+    "phases": [
+      {
+        "id": "phase-1",
+        "title": "第一部分：NestJS 学习 & 项目落地阶段",
+        "description": "先 NestJS 完整落地两套项目",
+        "order": 1,
+        "stages": [
+          {
+            "id": "stage-1-1",
+            "title": "阶段1：NestJS 基础与通用中间件能力打通",
+            "description": "Nest 核心体系 + 常用中间件整合 + 基础工程标准化",
+            "order": 1,
+            "tasks": [
+              {
+                "id": "t-1-1-1",
+                "title": "Nest 核心体系：模块、依赖注入、拦截器、过滤器、管道、守卫、自定义装饰器",
+                "order": 1,
+                "done": true,
+                "startedAt": "2026-08-02T02:08:21.864Z",
+                "completedAt": "2026-08-02T02:08:21.864Z"
+              },
+              {
+                "id": "t-1-1-2",
+                "title": "常用中间件整合：Redis、MySQL、JWT鉴权、文件上传、定时任务、日志处理",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-1-3",
+                "title": "基础工程标准化：统一返回体、全局异常捕获、参数校验、环境配置区分（dev/prod）",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-1-2",
+            "title": "阶段2：项目一｜NestJS + Prometheus 可观测服务",
+            "description": "接入 prom-client、部署 Prometheus + Grafana 监控大盘",
+            "order": 2,
+            "tasks": [
+              {
+                "id": "t-1-2-1",
+                "title": "接入 prom-client，实现接口指标采集、请求耗时、QPS、异常计数",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-2-2",
+                "title": "部署 Prometheus + Grafana，搭建监控大盘、告警规则",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-2-3",
+                "title": "链路基础优化、日志结构化输出",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-1-3",
+            "title": "阶段3：项目二｜RuoYi-NestJS 后台管理系统",
+            "description": "吃透 RBAC 权限体系、文件管理、定时任务、前端 Vue 对接调试",
+            "order": 3,
+            "tasks": [
+              {
+                "id": "t-1-3-1",
+                "title": "吃透 RBAC 权限体系、菜单管理、角色、数据权限、字典管理",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-3-2",
+                "title": "文件管理、定时任务、系统参数、前端 Vue 对接调试",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-3-3",
+                "title": "改造扩展：新增自定义业务模块，熟悉若依整体业务架构",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-1-4",
+            "title": "阶段4：统一工程能力沉淀（两套项目通用）",
+            "description": "Docker 容器化、云服务器部署、线上上线全流程",
+            "order": 4,
+            "tasks": [
+              {
+                "id": "t-1-4-1",
+                "title": "编写完整 Dockerfile、docker-compose 编排脚本",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-4-2",
+                "title": "本地容器调试、镜像构建、版本管理",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-4-3",
+                "title": "云服务器部署、Nginx 反向代理、HTTPS、进程守护、日志持久化",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-1-4-4",
+                "title": "线上上线完整流程：域名、防火墙、持续手动发布方案",
+                "order": 4,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "phase-2",
+        "title": "第二部分：Java 学习 & 同项目迁移重构阶段",
+        "description": "复用两套 Nest 项目的业务需求、数据库设计、接口规范，使用 Java 重新实现",
+        "order": 2,
+        "stages": [
+          {
+            "id": "stage-2-1",
+            "title": "阶段1：Java 后端基础铺垫（SpringBoot / SpringCloud）",
+            "description": "SpringBoot 核心 + 数据库 + 工程规范",
+            "order": 1,
+            "tasks": [
+              {
+                "id": "t-2-1-1",
+                "title": "SpringBoot 核心：依赖注入、AOP、全局异常、拦截器、统一返回封装",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-1-2",
+                "title": "数据库：MyBatis / MyBatis-Plus，Redis 集成、JWT 鉴权、定时任务",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-1-3",
+                "title": "工程规范：多环境配置、日志规范、参数校验",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-2-2",
+            "title": "阶段2：项目A｜Java 版可观测服务（对标 Nest + Prometheus 项目）",
+            "description": "SpringBoot + Prometheus(Micrometer) + Grafana，对齐 Nest 接口定义和业务逻辑",
+            "order": 2,
+            "tasks": [
+              {
+                "id": "t-2-2-1",
+                "title": "对齐 Nest 接口定义、数据库表、业务逻辑",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-2-2",
+                "title": "实现指标采集，复用原有监控面板，对比两套技术栈监控方案差异",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-2-3",
+                "title": "Docker 容器化，编写 Java 项目专属编排脚本",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-2-3",
+            "title": "阶段3：项目B｜RuoYi-Vue（Java 原版）后台管理系统（对标 RuoYi-NestJS）",
+            "description": "熟悉 Java 版若依权限架构，对齐原有业务模块",
+            "order": 3,
+            "tasks": [
+              {
+                "id": "t-2-3-1",
+                "title": "熟悉 Java 版若依权限架构，对比 Nest 版本实现差异",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-3-2",
+                "title": "对齐原有业务模块，复刻在 Nest 中新增的自定义业务功能",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-3-3",
+                "title": "梳理两套若依（Node 版 / Java 版）架构设计优劣",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          },
+          {
+            "id": "stage-2-4",
+            "title": "阶段4：统一部署验证",
+            "description": "Java 项目 Docker 打包、服务器部署、横向对比两套技术栈",
+            "order": 4,
+            "tasks": [
+              {
+                "id": "t-2-4-1",
+                "title": "Java 项目 Docker 打包、服务器部署、Nginx 配置上线",
+                "order": 1,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-4-2",
+                "title": "横向对比：NestJS VS SpringBoot（启动性能、内存占用、并发表现、开发效率、部署资源消耗）",
+                "order": 2,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              },
+              {
+                "id": "t-2-4-3",
+                "title": "整理跨语言项目迁移规范、踩坑文档",
+                "order": 3,
+                "done": false,
+                "startedAt": null,
+                "completedAt": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "version": 1
+}
