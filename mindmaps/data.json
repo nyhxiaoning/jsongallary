@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-03T23:53:37.601Z",
+  "updatedAt": "2026-08-05T05:25:11.717Z",
   "collections": {
     "mindmaps": [
       {
@@ -10,6 +10,14 @@
         "createdAt": "2026-08-01T13:33:44.412Z",
         "updatedAt": "2026-08-03T23:53:33.852Z",
         "id": 1
+      },
+      {
+        "title": "全栈Nestjs项目实时模版",
+        "content": "# 全栈技术项目：Soybean 平台管理系统 (NestJS 后端)\n\n> **学习目标**：通过对 Soybean 管理系统后端代码的深入剖析，理清 NestJS 核心设计思想，巩固依赖注入、中间件、拦截器、鉴权等全栈开发核心技能，实现查漏补漏。\n\n---\n\n## 1. 项目基础与源码大纲\n\n* **项目代码与分支**：\n  * **Repository**: `[填入你的仓库地址，如 GitHub / Gitee]`\n  * **Branch**: `main` / `dev`\n* **技术栈概览**：\n  * **Core**: NestJS + TypeScript\n  * **Database & ORM**: TypeORM / Prisma / TypeORM + MySQL / PostgreSQL\n  * **Cache & Session**: Redis\n  * **Auth**: Passport.js / JWT (JSON Web Token)\n  * **Documentation**: Swagger (@nestjs/swagger)\n  * **Packaging/Lint**: pnpm / Turbo Repo / ESLint / Prettier\n\n---\n\n## 2. 项目架构与设计模式\n\n### 2.1 整体架构图景\n* **设计模式**：采用 DDD (领域驱动设计) / MVC 架构 / 模块化分层架构（Controller - Service - Repository）\n* **控制反转与依赖注入 (IoC / DI)**：\n  * 自定义 Provider (`useClass`, `useValue`, `useFactory`, `useExisting`) 的使用场景\n  * 动态模块 (`DynamicModule`) 的封装与加载机制 (如 `ConfigModule.forRoot()`)\n\n### 2.2 核心模块划分 (Modules)\n* **AuthModule**：鉴权与授权（登录、Token 刷新、RBAC 权限）\n* **UserModule / RoleModule / MenuModule**：用户、角色、动态菜单管理\n* **DatabaseModule**：ORM 封装与数据库异步连接配置\n* **RedisModule**：缓存与分布式锁/ Token 黑名单封装\n* **CommonModule / SharedModule**：全局异常过滤器、拦截器、管道、自定义装饰器\n\n---\n\n## 3. 项目全栈解决的问题与核心实现\n\n### 3.1 身份认证与安全 (Auth & Security)\n* **JWT 双 Token 机制**：Access Token (短期) + Refresh Token (长期) 的无感刷新实现\n* **RBAC 权限控制**：\n  * 基于 `@SetMetadata` + 自定义 `RolesGuard` Guard 实现接口级别权限校验\n  * 菜单与按钮粒度的权限控制输出\n* **接口安全防范**：限流 (`@nestjs/throttler`)、CORS 配置、Helmet 安全头防护\n\n### 3.2 请求生命周期与管道/过滤器/拦截器\n* **请求处理全链路流转**：\n  `Request` ➔ `Middleware` ➔ `Guard` ➔ `Interceptor (Pre)` ➔ `Pipe` ➔ `Controller` ➔ `Service` ➔ `Interceptor (Post)` ➔ `Exception Filter` ➔ `Response`\n* **全局数据校验 (Pipes)**：基于 `class-validator` 和 `class-transformer` 的请求 Body/Query 自动 DTO 校验与转换\n* **统一响应格式 (Interceptors)**：拦截返回结果，标准化封装 `{ code: 200, data: ..., message: 'success' }`\n* **全局异常捕获 (Filters)**：捕获 `HttpException` 及未知系统错误，日志记录与友好错误提示格式化\n\n### 3.3 数据库操作与高并发 (Database & Caching)\n* **ORM 最佳实践**：实体定义 (`Entity`)、一对多/多对多关联查询、事务管理 (`QueryRunner` / `Transaction Manager`)\n* **Redis 缓存应用**：缓存热点数据、接口防刷、用户登录 Session / Token 注销黑名单\n\n### 3.4 日志与工程化 (Ops & Dev Tools)\n* **日志系统**：基于 `Winston` 或 `Pino` 实现日志按天切分、按级别（Info/Error）归档与上下文追踪\n* **环境变量管理**：基于 `@nestjs/config` 实现多环境（dev / test / prod）配置自动加载与校验\n* **API 文档自动生成**：基于 Swagger 装饰器（`@ApiProperty`, `@ApiOperation`）构建自动化交互文档\n\n---\n\n## 4. NestJS 关键技术点复盘（思维导图/卡片）\n\n```text\n项目复盘：NestJS 知识体系查漏补漏\n├── 1. IoC & DI 依赖注入\n│   ├── @Injectable() 作用域 (DEFAULT, TRANSIENT, REQUEST)\n│   ├── 循环依赖解决：forwardRef()\n│   └── 动态模块：register(), forRoot(), forFeature()\n├── 2. Lifecycle Hooks 生命周期\n│   ├── OnModuleInit / OnApplicationBootstrap\n│   └── OnModuleDestroy / OnApplicationShutdown\n├── 3. Enhanced Components (增强组件)\n│   ├── Middlewares（中间件）：用于日志、Body 解析、Express 原生兼容\n│   ├── Guards（守卫）：用于 Authentication & Authorization 校验\n│   ├── Interceptors（拦截器）：用于切面逻辑、响应重构、缓存、耗时统计\n│   ├── Custom Decorators（自定义装饰器）：如 @CurrentUser() 快速提取 User 信息\n│   └── Pipes（管道）：用于转换与验证数据\n└── 4. 进阶扩展方向 (项目中待验证)\n    ├── Task Scheduling（定时任务 @nestjs/schedule）\n    ├── Microservices（微服务/gRPC/RabbitMQ）\n    └── WebSockets（实时通信/消息推送）\n",
+        "category": "学习计划",
+        "createdAt": "2026-08-05T05:19:17.184Z",
+        "updatedAt": "2026-08-05T05:25:10.472Z",
+        "id": 2
       }
     ],
     "prompts": [],
