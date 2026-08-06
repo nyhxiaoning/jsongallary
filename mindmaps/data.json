@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-05T05:35:17.202Z",
+  "updatedAt": "2026-08-06T02:20:07.035Z",
   "collections": {
     "mindmaps": [
       {
@@ -21,10 +21,10 @@
       },
       {
         "title": "1.学习Soybean项目查缺补漏",
-        "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n- 查看当前的:开发文档记录.md，可以看到历史问题记录\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
+        "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n- 查看当前的:开发文档记录.md，可以看到历史问题记录\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n### 通过navicat手写命令行不会：console\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
         "category": "知识笔记",
         "createdAt": "2026-08-05T05:34:31.720Z",
-        "updatedAt": "2026-08-05T05:35:16.066Z",
+        "updatedAt": "2026-08-05T05:43:48.590Z",
         "id": 3
       }
     ],
