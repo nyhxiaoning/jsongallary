@@ -1,0 +1,29 @@
+{
+  "version": 7,
+  "updatedAt": "2026-08-07T08:42:34.429Z",
+  "collections": {
+    "markdowns": [
+      {
+        "title": "1.prisma学习工具8月份常看",
+        "content": "开始写作...\n\n# 新文档\n\n## 你好 \n\n### 不知道为什么\n",
+        "category": "知识笔记",
+        "description": "prisma学习笔记",
+        "createdAt": "2026-08-07T08:25:23.032Z",
+        "updatedAt": "2026-08-07T08:37:53.745Z",
+        "id": 1
+      }
+    ],
+    "prompts": [],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [],
+    "aiTools": [],
+    "textSnippets": [],
+    "videoModels": [],
+    "managedPrompts": [],
+    "urls": [],
+    "promptConnecters": [],
+    "mindmaps": []
+  }
+}
