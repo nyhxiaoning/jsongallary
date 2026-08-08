@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-07T08:54:24.123Z",
+  "updatedAt": "2026-08-08T03:20:42.764Z",
   "collections": {
     "markdowns": [
       {
@@ -11,6 +11,15 @@
         "createdAt": "2026-08-07T08:25:23.032Z",
         "updatedAt": "2026-08-07T08:54:21.653Z",
         "id": 1
+      },
+      {
+        "title": "2.java简单项目newbee项目整理",
+        "content": "# ## 文档项目源码地址说明\n\n### newbee对应：后台vue3-admin\n\n代码：https://gitee.com/nyhxiaoning/vue3-admin.git\n\n### newbee对应：app\n\n代码：git clone https://gitee.com/classic-case-project/newbee-mall-vue3-app.git\n\n### newbee对应：api服务端\n\n代码： https://github.com/nyhxiaoning/newbee-mall-api.git\n\n## 学习目的\n\n### 完成java项目快速开发环境部署\n\n* [ ] java的接口配置\n* [ ] mysql的接口配置\n\nredis接口配置\n\n### mysql数据库的接口配置\n\n* [ ] 任意增加接口：增删差改的方法\n\n* [ ] 任意增加接口报错的调试方案\n\n### 线上部署java项目的方法\n\n* [ ] dev环境开发完成后，如何打包\n\n* [ ] 如何线上部署，如何发现问题\n\n* [ ] 数据库sql写法\n\n",
+        "category": "知识笔记",
+        "description": "java入门学习",
+        "createdAt": "2026-08-08T03:16:18.497Z",
+        "updatedAt": "2026-08-08T03:20:40.975Z",
+        "id": 2
       }
     ],
     "prompts": [],
