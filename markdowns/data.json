@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-08T06:24:45.603Z",
+  "updatedAt": "2026-08-08T09:36:24.345Z",
   "collections": {
     "markdowns": [
       {
@@ -41,11 +41,11 @@
       },
       {
         "title": "5.nestjs项目部署文档说明",
-        "content": "# 新文档\n\n开始写作...",
+        "content": "## Nestjs部署\n\n### 项目部署文档\n\n- 文档整理：[nestjs-vue-production-deployment.md](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/feature/dev/docs/deploy-online/nestjs-vue-production-deployment.md)\n",
         "category": "知识笔记",
         "description": "nestjs部署学习",
         "createdAt": "2026-08-08T05:53:28.747Z",
-        "updatedAt": "2026-08-08T05:53:28.747Z",
+        "updatedAt": "2026-08-08T09:36:21.549Z",
         "id": 5
       }
     ],
