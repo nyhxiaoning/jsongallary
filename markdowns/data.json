@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-08T09:36:24.345Z",
+  "updatedAt": "2026-08-10T01:43:18.421Z",
   "collections": {
     "markdowns": [
       {
@@ -47,6 +47,15 @@
         "createdAt": "2026-08-08T05:53:28.747Z",
         "updatedAt": "2026-08-08T09:36:21.549Z",
         "id": 5
+      },
+      {
+        "title": "6.前端脚手架模版最新梳理2026",
+        "content": "## 模版资源\n\n### ai脚手架模版1:\n\nhttps://gitee.com/front-end-engineering-project/fantastic-admin-ai.git\n\n\n\n### ruoyi脚手架模版：vue版本\n\n\n\n### ruoyi脚手架模版：react版本\n\n\n\n\n开始写作...\n",
+        "category": "学习计划",
+        "description": "脚手架模版整理和聚合最新",
+        "createdAt": "2026-08-10T01:42:30.465Z",
+        "updatedAt": "2026-08-10T01:43:15.056Z",
+        "id": 6
       }
     ],
     "prompts": [],
