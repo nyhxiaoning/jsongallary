@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-07-05T13:03:46.980Z",
+  "version": 7,
+  "updatedAt": "2026-08-11T06:09:56.821Z",
   "collections": {
     "promptConnecters": [
       {
@@ -64,6 +64,18 @@
         "createdAt": "2026-07-05T13:03:45.504Z",
         "updatedAt": "2026-07-05T13:03:45.504Z",
         "id": 6
+      },
+      {
+        "name": "提示词个人版本合集整理",
+        "url": "https://next-promptcreator.vercel.app/",
+        "snippetContent": "找到第三个菜单的图书部分",
+        "category": [
+          "提示词"
+        ],
+        "description": "提示词个人整理版本",
+        "createdAt": "2026-08-11T06:09:54.670Z",
+        "updatedAt": "2026-08-11T06:09:54.670Z",
+        "id": 7
       }
     ],
     "prompts": [],
@@ -74,6 +86,9 @@
     "aiTools": [],
     "textSnippets": [],
     "videoModels": [],
-    "managedPrompts": []
+    "managedPrompts": [],
+    "urls": [],
+    "mindmaps": [],
+    "markdowns": []
   }
 }
