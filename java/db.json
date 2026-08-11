@@ -1,0 +1,1162 @@
+{
+  "version": 7,
+  "updatedAt": "2026-08-11T10:15:29.121Z",
+  "collections": {
+    "prompts": [
+      {
+        "name": "狸花猫的日常",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-260128",
+        "description": "狸花猫的幸福生活",
+        "promptText": "狸花猫在打盹",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "动物 "
+        ],
+        "updatedAt": "2026-05-31T02:47:23.533Z",
+        "createdAt": "2026-05-31T02:47:23.533Z",
+        "id": 1
+      },
+      {
+        "name": "猫咪炒焖面",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "猫咪炒焖面",
+        "promptText": "全景：温馨简约农家小厨房，木质灶台，摆放面条、青菜、酱料、食用油；\n近景 1：圆滚滚的狸花猫直立站在灶台前，小爪子握着铁锅铲，认真翻炒焖面，面条香气袅袅；\n近景 2：黑白奶牛猫蹲在一旁，帮忙递蔬菜、整理碗筷，时不时探头偷吃，动作调皮呆萌；\n整体风格：真人写实画风，自然光暖光，画面清晰流畅，动作自然连贯，搞笑治愈居家日常，短视频节奏，细节丰富",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [
+          "生活"
+        ],
+        "updatedAt": "2026-05-31T13:27:31.445Z",
+        "createdAt": "2026-05-31T13:27:31.445Z",
+        "id": 2
+      },
+      {
+        "name": "如何做到4-5个镜头生成图片一致性一样",
+        "promptType": "text2video",
+        "modelProvider": "volcengine",
+        "modelName": "doubao-seedance-2-0-fast-260128",
+        "description": "如果实现同时生成4-5个镜头，镜头的图片一样",
+        "promptText": "如果实现同时生成4-5个镜头，镜头的图片一样",
+        "parameters": {
+          "duration": 5,
+          "resolution": "720p",
+          "aspectRatio": "16:9",
+          "watermark": false,
+          "generateAudio": true
+        },
+        "referenceImages": [],
+        "tags": [],
+        "updatedAt": "2026-06-15T10:00:09.408Z",
+        "createdAt": "2026-06-15T10:00:09.408Z",
+        "id": 3
+      }
+    ],
+    "scripts": [],
+    "workflows": [],
+    "videos": [],
+    "ambientSounds": [
+      {
+        "name": "test",
+        "category": "自然",
+        "description": "",
+        "tags": [
+          "音乐"
+        ],
+        "audioUrl": "https://raw.githubusercontent.com/nyhxiaoning/jsongallary/main/ambient-sounds/test_1781331810717.mp3",
+        "filePath": "ambient-sounds/test_1781331810717.mp3",
+        "fileName": "test_1781331810717.mp3",
+        "fileSize": 744610,
+        "duration": 31,
+        "sha": "754053dd7fc4a9c48783db0450d7e45336285e01",
+        "createdAt": "2026-06-13T06:23:41.749Z",
+        "updatedAt": "2026-06-13T06:23:41.749Z",
+        "id": 3
+      }
+    ],
+    "aiTools": [
+      {
+        "name": "国内视频聚合liblib模型生成待参考",
+        "url": "https://www.liblib.art/inspiration",
+        "category": "图片",
+        "subcategory": [
+          "图文",
+          "视频",
+          "创意"
+        ],
+        "description": "国内外图文集合：聚合了国内外的优秀的创作工具\n\n中国最大的AI素材网站与创作者社区而LiblibAI则是演语科技的「压舱石」，稳稳地撑起了基本盘。",
+        "createdAt": "2026-06-21T03:56:57.072Z",
+        "updatedAt": "2026-06-22T06:10:52.643Z",
+        "id": 7
+      },
+      {
+        "name": "开源视频制作平台：进行中openMontage",
+        "url": "https://github.com/nyhxiaoning/OpenMontage-video",
+        "category": "视频",
+        "subcategory": [
+          "开源",
+          "视频制作"
+        ],
+        "description": "OpenMontage 可以从YouTube 视频、短视频、Reel、TikTok 或本地片段开始，并将其转化为切实可行的制作方案：\n\n粘贴参考视频，你可以获取：智能体分析文案、节奏、场景、关键帧和风格\n\n世界上第一个开源、智能化的视频制作系统。12条流水线，52种工具，500+个代理技能。把你的AI编码助手变成一个完整的视频制作工作室\n你将获得2到3个差异化概念、清晰的工具开发路径、成本估算以及批量生产前",
+        "createdAt": "2026-06-21T05:04:43.737Z",
+        "updatedAt": "2026-06-21T05:07:37.595Z",
+        "id": 8
+      },
+      {
+        "name": "小说Agent编写first",
+        "url": "https://github.com/nyhxiaoning/nova-novel",
+        "category": "文字",
+        "subcategory": [
+          "小说",
+          "小说Agent"
+        ],
+        "description": "一个基于 AI 小说 Agent 的全自动小说创作 IDE，支持 Skills、自动化、以及分支故事互动",
+        "createdAt": "2026-06-22T05:12:11.476Z",
+        "updatedAt": "2026-06-22T05:12:11.476Z",
+        "id": 9
+      },
+      {
+        "name": "我的github的数据库图像集合",
+        "url": "https://github.com/nyhxiaoning/gallary_d",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "个人相册",
+          "图片存储"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T05:13:13.828Z",
+        "updatedAt": "2026-06-22T05:13:13.828Z",
+        "id": 10
+      },
+      {
+        "name": "steam第一个案例游戏打鸭子",
+        "url": "https://github.com/nyhxiaoning/tauri-solid-ts-tailwind-vite-githubaction/tree/feature/steam_duck",
+        "category": "编程",
+        "subcategory": [
+          "游戏",
+          "steam"
+        ],
+        "description": "默认steam的游戏开发第一个项目",
+        "createdAt": "2026-06-22T05:14:12.827Z",
+        "updatedAt": "2026-06-22T05:14:12.827Z",
+        "id": 11
+      },
+      {
+        "name": "个人剪辑工具1",
+        "url": "https://github.com/nyhxiaoning/fly-cut.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "视频编辑"
+        ],
+        "description": "视频制作和编辑参考1",
+        "createdAt": "2026-06-22T05:15:08.736Z",
+        "updatedAt": "2026-06-22T05:15:08.736Z",
+        "id": 12
+      },
+      {
+        "name": "个人剪辑工具2",
+        "url": "https://github.com/nyhxiaoning/cutia-cutvideo.git",
+        "category": "视频",
+        "subcategory": [
+          "剪辑",
+          "个人视频"
+        ],
+        "description": "视频剪辑制作",
+        "createdAt": "2026-06-22T05:15:45.235Z",
+        "updatedAt": "2026-06-22T05:15:45.235Z",
+        "id": 13
+      },
+      {
+        "name": "图片转成视频编辑器简单版",
+        "url": "https://github.com/nyhxiaoning/remotion-fireship-demo.git",
+        "category": "视频",
+        "subcategory": [
+          "视频",
+          "剪辑"
+        ],
+        "description": "个人简单图片转成视频工具",
+        "createdAt": "2026-06-22T05:16:26.024Z",
+        "updatedAt": "2026-06-22T05:16:26.024Z",
+        "id": 14
+      },
+      {
+        "name": "设计封面和专业化设计广告",
+        "url": "https://github.com/nyhxiaoning/yft-design",
+        "category": "设计",
+        "subcategory": [
+          "公众号",
+          "封面",
+          "海报"
+        ],
+        "description": "基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。",
+        "createdAt": "2026-06-22T05:30:01.094Z",
+        "updatedAt": "2026-06-22T05:30:01.094Z",
+        "id": 15
+      },
+      {
+        "name": "个人写作码流AI工具",
+        "url": "https://ai-writing-text.vercel.app",
+        "category": "文字",
+        "subcategory": [
+          "文字",
+          "小说"
+        ],
+        "description": "https://ai-writing-text.vercel.app/zh",
+        "createdAt": "2026-06-22T05:34:08.403Z",
+        "updatedAt": "2026-06-22T05:34:08.403Z",
+        "id": 16
+      },
+      {
+        "name": "AI图像生成器嵌入各种模型待参考",
+        "url": "https://www.loraai.pro/create",
+        "category": "图片",
+        "subcategory": [
+          "图像",
+          "图片"
+        ],
+        "description": "图像生成ai",
+        "createdAt": "2026-06-22T05:36:14.369Z",
+        "updatedAt": "2026-06-22T06:10:43.857Z",
+        "id": 17
+      },
+      {
+        "name": "白噪音网站1",
+        "url": "https://usefoyer.app/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "背景音"
+        ],
+        "description": "白噪音网站",
+        "createdAt": "2026-06-22T06:38:39.890Z",
+        "updatedAt": "2026-06-22T06:38:39.890Z",
+        "id": 18
+      },
+      {
+        "name": "白噪音网站2",
+        "url": "https://freemind.fit/",
+        "category": "音乐",
+        "subcategory": [
+          "白噪音",
+          "环境音"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T06:39:26.085Z",
+        "updatedAt": "2026-06-22T06:39:26.085Z",
+        "id": 19
+      },
+      {
+        "name": "ppt和各种网站设计工具opencodesign",
+        "url": "https://github.com/OpenCoworkAI/open-codesign",
+        "category": "办公",
+        "subcategory": [
+          "图片",
+          "ppt"
+        ],
+        "description": "图片和ppt生成",
+        "createdAt": "2026-06-22T07:02:57.575Z",
+        "updatedAt": "2026-06-22T07:03:13.736Z",
+        "id": 20
+      },
+      {
+        "name": "PPT制作工具2",
+        "url": "https://github.com/nyhxiaoning/oh-html-to-ppt",
+        "category": "办公",
+        "subcategory": [
+          "ppt",
+          "ppt工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-22T07:09:38.849Z",
+        "updatedAt": "2026-06-22T07:09:38.849Z",
+        "id": 21
+      },
+      {
+        "name": "google设计工具平台stitch",
+        "url": "https://stitch.withgoogle.com/",
+        "category": "设计",
+        "subcategory": [
+          "设计",
+          "网站设计",
+          "广告设计"
+        ],
+        "description": "谷歌设计工具平台",
+        "createdAt": "2026-06-22T08:08:35.653Z",
+        "updatedAt": "2026-06-22T08:08:35.653Z",
+        "id": 22
+      },
+      {
+        "name": "PPT制作工具3基于claude驱动",
+        "url": "https://github.com/nyhxiaoning/ppt-web-claude.git",
+        "category": "办公",
+        "subcategory": [
+          "ppt"
+        ],
+        "description": "基于claude驱动的ppt制作工具，直接docker部署",
+        "createdAt": "2026-06-22T09:14:04.411Z",
+        "updatedAt": "2026-06-22T09:14:04.411Z",
+        "id": 23
+      },
+      {
+        "name": "后台管理系统模版生成skills",
+        "url": "https://github.com/nyhxiaoning/open-dashboard",
+        "category": "编程",
+        "subcategory": [
+          "模版skills",
+          "skills"
+        ],
+        "description": "scaffold-dashboard — stand up the clean, zero-config foundation in a new project.\nscaffold-dashboard — 在新项目中搭建干净、零配置的基础架构。\nrebrand — name, logo, nav, theme (src/config/app.ts).\nrebrand — 名称、标志、导航栏、主题（src/config/app.ts）。\nadd-backend — stay zero-config (in-memory), set DATABASE_URL for Postgres, or pick a preset (Hono / FastAPI / Supabase, with Drizzle / Prisma, better-auth / Auth.js / JWT). Data and auth are swappable behind two seams.\nadd-backend — 保持零配置（内存中），为 Postgres 设置 DATABASE_URL，或选择预设（Hono / FastAPI / Supabase，搭配 Drizzle / Prisma、better-auth / Auth.js / JWT）。数据和身份验证在两个接口后可互换。\nadd-backend — create-resource <name> scaffolds a full CRUD vertical (table + server fns + query hooks + DataTable page + create/edit dialog + nav).\nadd-backend — create-resource <name> 可搭建一套完整的 CRUD 垂直功能（表格 + 服务端函数 + 查询钩子 + DataTable 页面 + 新建/编辑对话框 + 导航）。\nadd-component — compose detail pages, master-detail, kanban, charts, wizards, billing, and the rest from the catalogue.\nadd-component — 组合详情页面、主从结构、看板、图表、向导、计费功能以及目录中的其他组件",
+        "createdAt": "2026-06-22T09:35:41.706Z",
+        "updatedAt": "2026-06-22T09:36:01.012Z",
+        "id": 24
+      },
+      {
+        "name": "学习一些泄漏的系统提示词prompt工程汇总",
+        "url": "https://github.com/nyhxiaoning/system_prompts_leaks",
+        "category": "编程",
+        "subcategory": [
+          "prompt",
+          "系统提示词"
+        ],
+        "description": "系统提示词",
+        "createdAt": "2026-06-22T09:56:00.784Z",
+        "updatedAt": "2026-06-22T09:56:00.784Z",
+        "id": 25
+      },
+      {
+        "name": "诗词创作者诗云参考",
+        "url": "https://shiyun.cohenjikan.com/?p=4853112213865551998235622261739731542671384135992659563175534606546761761747154896356821353487#p=4853112213865551998235622261739731542671384135992659563175534606546761761747154896356821353487",
+        "category": "文字",
+        "subcategory": [
+          "诗词",
+          "创意",
+          "网站",
+          "文化"
+        ],
+        "description": "shiyun网站诗云",
+        "createdAt": "2026-06-23T00:36:48.955Z",
+        "updatedAt": "2026-07-27T01:57:03.136Z",
+        "id": 26
+      },
+      {
+        "name": "我的诗词散文编年史",
+        "url": "https://book-map-ten.vercel.app/",
+        "category": "文字",
+        "subcategory": [
+          "文字",
+          "散文"
+        ],
+        "description": "诗歌地图文字",
+        "createdAt": "2026-06-23T00:38:44.704Z",
+        "updatedAt": "2026-07-27T01:56:45.112Z",
+        "id": 27
+      },
+      {
+        "name": "免税音乐下载网站",
+        "url": "https://pixabay.com/zh/music/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "下载"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T02:38:38.573Z",
+        "updatedAt": "2026-06-23T02:38:38.573Z",
+        "id": 28
+      },
+      {
+        "name": "音乐freesound下载",
+        "url": "https://freesound.org/search/",
+        "category": "音乐",
+        "subcategory": [
+          "音乐",
+          "音效"
+        ],
+        "description": "下载音效，获取key",
+        "createdAt": "2026-06-23T12:06:25.327Z",
+        "updatedAt": "2026-06-23T12:06:25.327Z",
+        "id": 29
+      },
+      {
+        "name": "低价图片和视频生成平台",
+        "url": "https://www.kavilocreativeai.app/en",
+        "category": "图片",
+        "subcategory": [
+          "图片",
+          "视频"
+        ],
+        "description": "视频和图片",
+        "createdAt": "2026-06-23T12:13:37.773Z",
+        "updatedAt": "2026-06-23T12:13:37.773Z",
+        "id": 30
+      },
+      {
+        "name": "claude最佳实践汇总",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice",
+        "category": "编程",
+        "subcategory": [
+          "编程",
+          "claude实践"
+        ],
+        "description": "实践",
+        "createdAt": "2026-06-23T12:23:40.255Z",
+        "updatedAt": "2026-06-23T12:23:40.255Z",
+        "id": 31
+      },
+      {
+        "name": "声音仿制作分离音乐声音",
+        "url": "https://github.com/nyhxiaoning/MusicMaster",
+        "category": "音乐",
+        "subcategory": [
+          "声音",
+          "音乐"
+        ],
+        "description": "声音实现",
+        "createdAt": "2026-06-23T14:54:15.116Z",
+        "updatedAt": "2026-06-23T14:54:15.116Z",
+        "id": 32
+      },
+      {
+        "name": "视频和图片替换工具1",
+        "url": "https://www.cuty.ai/zh-CN/ai-tool/character-replace",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图片视频替换工具",
+        "createdAt": "2026-06-24T01:50:17.175Z",
+        "updatedAt": "2026-06-24T01:50:17.175Z",
+        "id": 33
+      },
+      {
+        "name": "视频和图片替换工具2",
+        "url": "https://www.cutout.pro/zh-CN/api",
+        "category": "视频",
+        "subcategory": [
+          "图片",
+          "视频",
+          "替换"
+        ],
+        "description": "图像视频替换工具",
+        "createdAt": "2026-06-24T01:51:32.739Z",
+        "updatedAt": "2026-06-24T01:51:32.739Z",
+        "id": 34
+      },
+      {
+        "name": "我的有趣吃吃喝喝的网站",
+        "url": "https://travel-day-ten.vercel.app/",
+        "category": "其他",
+        "subcategory": [
+          "吃吃喝喝",
+          "旅游"
+        ],
+        "description": "",
+        "createdAt": "2026-06-27T07:34:53.048Z",
+        "updatedAt": "2026-06-27T07:34:53.048Z",
+        "id": 35
+      },
+      {
+        "name": "外部视频下载工具",
+        "url": "https://dlpanda.com/zh-CN",
+        "category": "视频",
+        "subcategory": [
+          "视频下载",
+          "抖音",
+          "youtube"
+        ],
+        "description": "视频下载工具",
+        "createdAt": "2026-07-05T04:13:01.111Z",
+        "updatedAt": "2026-07-05T04:13:01.111Z",
+        "id": 36
+      },
+      {
+        "name": "图片编辑压缩处理平台",
+        "url": "https://nonophoto.com/#upload",
+        "category": "图片",
+        "subcategory": [
+          "图片编辑",
+          "图片压缩"
+        ],
+        "description": "",
+        "createdAt": "2026-07-05T04:18:03.499Z",
+        "updatedAt": "2026-07-05T04:18:03.499Z",
+        "id": 37
+      },
+      {
+        "name": "prompt合集大全提示词免费网站",
+        "url": "https://prompt123.cn/",
+        "category": "其他",
+        "subcategory": [
+          "音频",
+          "视频",
+          "图片",
+          "汇总"
+        ],
+        "description": "各种网络使用prompt的合集词汇",
+        "createdAt": "2026-07-05T08:16:48.243Z",
+        "updatedAt": "2026-07-05T08:16:48.243Z",
+        "id": 38
+      },
+      {
+        "name": "动画庆祝礼花",
+        "url": "https://fireworks-gift-works.vercel.app/",
+        "category": "视频",
+        "subcategory": [
+          "礼花",
+          "玩具",
+          "庆祝"
+        ],
+        "description": "",
+        "createdAt": "2026-07-25T08:45:21.751Z",
+        "updatedAt": "2026-07-25T08:45:21.751Z",
+        "id": 40
+      },
+      {
+        "name": "文字图书馆笔记汇总整理",
+        "url": "https://books-manager-seven.vercel.app/",
+        "category": "文字",
+        "subcategory": [
+          "图书馆",
+          "文字笔记",
+          "笔记"
+        ],
+        "description": "个人的文字图书馆笔记\n",
+        "createdAt": "2026-07-27T01:56:12.153Z",
+        "updatedAt": "2026-07-27T01:56:28.631Z",
+        "id": 41
+      },
+      {
+        "name": "000学习一切vite-hub",
+        "url": "https://vibe-hub.org/",
+        "category": "编程",
+        "subcategory": [
+          "学习",
+          "每日学习",
+          "每日"
+        ],
+        "description": "每日学习",
+        "createdAt": "2026-08-06T02:21:02.609Z",
+        "updatedAt": "2026-08-06T02:21:26.315Z",
+        "id": 42
+      },
+      {
+        "name": "000学习vite编码easy-vibe",
+        "url": "https://datawhalechina.github.io/easy-vibe/zh-cn/stage-1/learning-map/",
+        "category": "编程",
+        "subcategory": [
+          "学习",
+          "每日",
+          "编程"
+        ],
+        "description": "vite\neasy-vite",
+        "createdAt": "2026-08-06T08:16:59.909Z",
+        "updatedAt": "2026-08-06T08:16:59.909Z",
+        "id": 43
+      }
+    ],
+    "textSnippets": [
+      {
+        "title": "常用react的h5",
+        "content": "你是一个专业的前端React18高级开发工程师，请使用UI组件库：antd-mobile，tailwindcss，参考antd中的InputNumber组件做一个组件，支持上下数字调节\n",
+        "category": "Prompt",
+        "description": "编程",
+        "createdAt": "2026-06-09T15:15:57.259Z",
+        "updatedAt": "2026-06-09T15:15:57.259Z",
+        "id": 1
+      },
+      {
+        "title": "项目快速集成github存储功能",
+        "content": "数据的存储参考这里远程存储在github某一个文件夹可以进行增删，请参考下面的实现，结合当前的项目技术栈生成相同的功能，\n\n```\n<template>\n  <div v-if=\"open\" class=\"overlay\" @click.self=\"$emit('close')\">\n    <div class=\"sync-modal card\">\n      <!-- Header -->\n      <div class=\"sync-head\">\n        <div class=\"sync-head-icon\">\n          <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"/></svg>\n        </div>\n        <div class=\"sync-head-copy\">\n          <div class=\"sync-title\">GitHub 同步</div>\n          <div class=\"sync-sub\">配置后可将项目数据推送/拉取到 GitHub 仓库</div>\n        </div>\n        <button class=\"btn btn-ghost btn-icon\" @click=\"$emit('close')\" style=\"flex-shrink:0;margin-left:auto\">\n          <svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg>\n        </button>\n      </div>\n\n      <!-- Sync Status Banner -->\n      <div v-if=\"lastSyncedAt\" class=\"sync-banner\">\n        <div class=\"sync-banner-dot\"></div>\n        <div class=\"sync-banner-copy\">\n          <span class=\"sync-banner-title\">已配置同步</span>\n          <span class=\"sync-banner-sub\">上次同步: {{ fmtDate(lastSyncedAt) }}</span>\n        </div>\n        <button class=\"btn btn-ghost btn-sm\" style=\"color:var(--error)\" @click=\"handleClear\">解除</button>\n      </div>\n\n      <!-- Form Body -->\n      <div class=\"sync-body\">\n        <form @submit.prevent=\"handleSave\">\n          <!-- Repository Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">仓库信息</span>\n            </div>\n            <div class=\"sync-field-row\">\n              <label class=\"sync-field\" style=\"flex:1.2\">\n                <span class=\"sync-field-label\">用户名</span>\n                <input v-model=\"form.owner\" class=\"input\" placeholder=\"如 nyhxiaoning\" />\n              </label>\n              <label class=\"sync-field\" style=\"flex:1.8\">\n                <span class=\"sync-field-label\">仓库名</span>\n                <input v-model=\"form.repo\" class=\"input\" placeholder=\"如 huobao-drama-backup\" />\n              </label>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">文件路径</span>\n              <input v-model=\"form.path\" class=\"input\" placeholder=\"如 data/drama-1.json\" />\n              <span class=\"sync-field-hint\">数据存储路径，建议按项目命名</span>\n            </label>\n          </div>\n\n          <!-- Token Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\" ry=\"2\"/><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">认证</span>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">Personal Access Token</span>\n              <div class=\"sync-token-row\">\n                <input :type=\"showToken ? 'text' : 'password'\" v-model=\"form.token\" class=\"input\" placeholder=\"ghp_...\" />\n                <button type=\"button\" class=\"sync-token-toggle\" @click=\"showToken = !showToken\" :title=\"showToken ? '隐藏' : '显示'\">\n                  <svg v-if=\"!showToken\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>\n                  <svg v-else width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24\"/><line x1=\"1\" y1=\"1\" x2=\"23\" y2=\"23\"/></svg>\n                </button>\n              </div>\n              <span class=\"sync-field-hint\">\n                需要 <code>repo</code> 权限。\n                <a href=\"https://github.com/settings/tokens\" target=\"_blank\" rel=\"noopener\" class=\"sync-link\">创建 Token →</a>\n              </span>\n            </label>\n          </div>\n\n          <!-- Actions -->\n          <div class=\"sync-actions\">\n            <div class=\"sync-actions-left\">\n              <button type=\"button\" class=\"btn btn-ghost\" v-if=\"hasConfig\" @click=\"handleClear\">\n                <svg width=\"11\" height=\"11\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14H6L5 6\"/></svg>\n                解除同步\n              </button>\n            </div>\n            <button type=\"button\" class=\"btn\" @click=\"$emit('close')\">取消</button>\n            <button type=\"submit\" class=\"btn btn-primary\">保存配置</button>\n          </div>\n        </form>\n      </div>\n    </div>\n  </div>\n</template>\n\n<script setup>\nimport { toast } from 'vue-sonner'\nimport { syncAPI } from '~/composables/useApi'\n\nconst props = defineProps({\n  open: Boolean,\n  dramaId: Number,\n})\nconst emit = defineEmits(['close', 'saved'])\n\nconst showToken = ref(false)\nconst form = ref({ owner: '', repo: '', path: '', token: '' })\nconst hasConfig = ref(false)\nconst lastSyncedAt = ref('')\n\nwatch(() => props.open, async (val) => {\n  showToken.value = false\n  if (val && props.dramaId) {\n    try {\n      const res = await syncAPI.config(props.dramaId)\n      if (res) {\n        form.value = {\n          owner: res.github_owner || '',\n          repo: res.github_repo || '',\n          path: res.github_path || '',\n          token: '',\n        }\n        hasConfig.value = true\n        lastSyncedAt.value = res.last_synced_at || ''\n      } else {\n        form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n        hasConfig.value = false\n        lastSyncedAt.value = ''\n      }\n    } catch {}\n  }\n})\n\nasync function handleSave() {\n  if (!form.value.owner || !form.value.repo || !form.value.path || !form.value.token) {\n    toast.warning('请填写所有必填项')\n    return\n  }\n  try {\n    await syncAPI.saveConfig(props.dramaId, {\n      github_owner: form.value.owner,\n      github_repo: form.value.repo,\n      github_path: form.value.path,\n      github_token: form.value.token,\n    })\n    toast.success('GitHub 同步配置已保存')\n    emit('saved')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nasync function handleClear() {\n  try {\n    await syncAPI.deleteConfig(props.dramaId)\n    form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n    hasConfig.value = false\n    lastSyncedAt.value = ''\n    toast.success('同步配置已清除')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nfunction fmtDate(s) {\n  if (!s) return ''\n  return new Date(s).toLocaleString('zh-CN')\n}\n</script>\n\n<style scoped>\n.sync-modal {\n  width: min(520px, calc(100vw - 40px));\n  padding: 0;\n  overflow: hidden;\n  border-radius: 22px;\n  background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(248,251,255,0.94));\n  animation: scaleIn 0.18s var(--ease-out);\n}\n\n/* Header */\n.sync-head {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n  padding: 20px 22px 18px;\n  border-bottom: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-head-icon {\n  width: 40px;\n  height: 40px;\n  border-radius: 14px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.06);\n  color: #24292f;\n  flex-shrink: 0;\n}\n.sync-head-copy { min-width: 0; flex: 1; }\n.sync-title { font-size: 16px; font-weight: 700; font-family: var(--font-display); color: var(--text-0); }\n.sync-sub { font-size: 12px; color: var(--text-3); margin-top: 2px; line-height: 1.45; }\n\n/* Banner */\n.sync-banner {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  padding: 12px 22px;\n  background: rgba(45, 122, 69, 0.07);\n  border-bottom: 1px solid rgba(45, 122, 69, 0.1);\n}\n.sync-banner-dot {\n  width: 8px;\n  height: 8px;\n  border-radius: 50%;\n  background: #2d7a45;\n  flex-shrink: 0;\n  box-shadow: 0 0 0 3px rgba(45, 122, 69, 0.14);\n}\n.sync-banner-copy { display: flex; flex-direction: column; gap: 1px; min-width: 0; flex: 1; }\n.sync-banner-title { font-size: 12px; font-weight: 600; color: #1a5a32; }\n.sync-banner-sub { font-size: 11px; color: rgba(26, 90, 50, 0.65); }\n\n/* Body */\n.sync-body { padding: 18px 22px 20px; overflow-y: auto; }\n\n/* Section */\n.sync-section {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n  padding: 14px;\n  border-radius: 14px;\n  background: rgba(248, 250, 254, 0.72);\n  border: 1px solid rgba(27, 41, 64, 0.06);\n}\n.sync-section + .sync-section { margin-top: 12px; }\n.sync-section-head {\n  display: flex;\n  align-items: center;\n  gap: 7px;\n}\n.sync-section-icon {\n  width: 22px;\n  height: 22px;\n  border-radius: 7px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.05);\n  color: var(--text-2);\n  flex-shrink: 0;\n}\n.sync-section-label {\n  font-size: 12px;\n  font-weight: 700;\n  color: var(--text-1);\n  letter-spacing: 0.03em;\n}\n\n/* Fields */\n.sync-field { display: flex; flex-direction: column; gap: 5px; }\n.sync-field-label { font-size: 11px; font-weight: 600; color: var(--text-2); }\n.sync-field-hint { font-size: 10.5px; color: var(--text-3); line-height: 1.5; margin-top: 2px; }\n.sync-field-hint code { font-size: 10px; background: rgba(27, 41, 64, 0.06); padding: 1px 4px; border-radius: 3px; }\n.sync-field-row { display: flex; gap: 10px; }\n\n/* Token row */\n.sync-token-row { display: flex; gap: 6px; }\n.sync-token-row .input { flex: 1; }\n.sync-token-toggle {\n  width: 32px;\n  height: 32px;\n  flex-shrink: 0;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 10px;\n  border: 1px solid rgba(27, 41, 64, 0.1);\n  background: rgba(255,255,255,0.86);\n  color: var(--text-2);\n  cursor: pointer;\n  transition: all 0.14s;\n}\n.sync-token-toggle:hover { background: #fff; color: var(--text-0); border-color: rgba(27, 41, 64, 0.15); }\n\n/* Link */\n.sync-link { color: var(--accent); text-decoration: none; font-weight: 600; }\n.sync-link:hover { text-decoration: underline; }\n\n/* Actions */\n.sync-actions {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding-top: 16px;\n  margin-top: 4px;\n  border-top: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-actions-left { flex: 1; }\n</style>\n```",
+        "category": "代码",
+        "description": "编程",
+        "createdAt": "2026-06-09T15:35:28.516Z",
+        "updatedAt": "2026-06-09T15:35:28.516Z",
+        "id": 2
+      },
+      {
+        "title": "Claude.md和Agents.md 最值得增加的内容",
+        "content": "# Agent Instructions\n\nBefore creating a new file:\n\n1. Search for existing implementation.\n2. Search for reusable components.\n3. Search for reusable composables.\n4. Search for reusable API wrappers.\n\nBefore introducing dependencies:\n\n1. Verify existing dependency can solve the problem.\n2. Explain why a new dependency is required.\n\nBefore modifying architecture:\n\n1. Explain impact.\n2. Keep backward compatibility.\n3. Minimize file changes.",
+        "category": "代码",
+        "description": "claude.md和AGENTS.md 只保留 Agent 真正需要知道的长期规则，不要写成技术规范书。",
+        "createdAt": "2026-06-09T23:44:56.234Z",
+        "updatedAt": "2026-06-09T23:47:10.398Z",
+        "id": 3
+      },
+      {
+        "title": "000用好工具的关键claude和codex",
+        "content": "### 控制自动注入的上下文\n### 缩小任务搜索范围\n### 及时压缩会话\n### 把高噪音工作隔离出去\n### 避免不必要的工具链负担",
+        "category": "代码",
+        "description": "编程",
+        "createdAt": "2026-06-10T00:00:35.326Z",
+        "updatedAt": "2026-06-10T00:00:35.326Z",
+        "id": 4
+      },
+      {
+        "title": "mcp和skills和prompt",
+        "content": "- Prompt = 临时指令（说一次算一次）\n- Skills = 能力固化（专业、稳定、可复用）\n- MCP = 连接通道（打通外部世界，让你做的功能更加系统化，连接万物）\n\nAgent、MCP、Skill 一句话理解:Agent = 大脑,MCP = 手脚,Skill = 经验和工作方法",
+        "category": "代码",
+        "description": "理解三个：mcp- 大模型连接外部世界的标准协议 / 接口。 - 核心：负责连接、不负责思考。",
+        "createdAt": "2026-06-11T01:49:18.729Z",
+        "updatedAt": "2026-06-11T02:45:41.117Z",
+        "id": 6
+      },
+      {
+        "title": "如何写好agent或claude的标准化文档",
+        "content": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBdad48cdde31408242039840d9e163a15/?search=Agent%E6%98%AF",
+        "category": "代码",
+        "description": "https://note.youdao.com/web/#/file/E52D313B1CFB452B9C091E5BBD9CB8B7/markdown/WEBdad48cdde31408242039840d9e163a15/?search=Agent%E6%98%AF",
+        "createdAt": "2026-06-11T01:59:29.590Z",
+        "updatedAt": "2026-06-11T01:59:29.590Z",
+        "id": 7
+      },
+      {
+        "title": "AGENTS.md和CLAUDE.md通用模板5 分钟开箱即用参考生成",
+        "content": "给当前的项目，参考上面的结构化docs/project-overview.md内容，同时增加一些never禁止的东西，分别生成AGENTS.md和CLAUDE.md\n\n\n- 本项目为 [React/Vue/Next.js] + TypeScript 前端应用\n- 包管理器：[yarn/pnpm/npm]\n- 样式方案：[Less/Sass/Tailwind CSS] + CSS Modules\n- UI 组件库：[antd/Arco Design/Element Plus] v[版本号]\n\n## Project Structure\n\nsrc/\n├── components/     # 通用组件（PascalCase 命名）\n├── pages/          # 页面组件\n├── hooks/          # 自定义 Hooks\n├── services/       # API 请求封装\n├── models/         # 状态管理\n├── utils/          # 工具函数\n├── typings/        # 类型定义\n└── constants/      # 常量\n\n## Coding Style\n\n**TypeScript**\n- 使用 interface 定义 Props\n- 组件使用 React.FC<Props> 或函数声明\n- Never 使用 any 类型\n\n**样式**\n- import styles from './index.less'\n- Never 使用内联样式\n- Never 硬编码颜色值\n\n**路径别名**\n- @/* → src/*\n\n## Build Commands\n\n[你的开发命令]    # 启动开发服务器\n[你的构建命令]    # 生产构建\n[你的格式化命令]  # 代码格式化\n\n## Never 规则\n\n- Never 修改框架自动生成的目录\n- Never 修改 dist/ 构建产物\n- Never 在组件内使用 any 类型\n- Never 使用内联样式\n- Never 在渲染路径中执行耗时操作\n- Never 在列表渲染中省略 key\n- Never 硬编码敏感信息\n- Never 修改 lock 文件\n\n## Commit 规范\n\n- 格式：type(scope): description\n- 类型：feat / fix / docs / style / refactor / test / chore\n",
+        "category": "模板",
+        "description": "代码开发",
+        "createdAt": "2026-06-11T02:00:37.609Z",
+        "updatedAt": "2026-06-22T08:15:00.668Z",
+        "id": 8
+      },
+      {
+        "title": "IDE学习项目prompt第一个读项目模版",
+        "content": "请先阅读当前项目，不要修改任何代码。\n\n帮我总结：\n1. 项目是做什么的\n2. 技术栈是什么\n3. 目录结构如何组织\n4. 启动、构建、测试命令是什么\n5. 新增一个页面应该从哪里开始\n6. 当前项目有哪些明显维护风险\n7.最后将当前的分析内容写入start.md中\n",
+        "category": "模板",
+        "description": "如果是大型的java，nestjs，nextjs，python项目，建议skills：npx skills add safishamsi/graphify",
+        "createdAt": "2026-06-11T02:56:36.372Z",
+        "updatedAt": "2026-07-07T09:00:09.588Z",
+        "id": 9
+      },
+      {
+        "title": "第二个修改bug模版",
+        "content": "我遇到了一个 bug：XXX。\n\n请先阅读相关代码，不要修改。\n\n输出：\n1. 可能原因\n2. 涉及文件\n3. 你需要进一步确认的信息\n4. 修复计划\n",
+        "category": "Prompt",
+        "description": "修改bug模版",
+        "createdAt": "2026-06-11T02:56:55.305Z",
+        "updatedAt": "2026-06-11T02:57:54.787Z",
+        "id": 10
+      },
+      {
+        "title": "第三个执行修改模板",
+        "content": "请按刚才确认的计划修改代码。\n\n要求：\n1. 修改范围只限于 XXX\n2. 不要引入新依赖\n3. 不要重构无关代码\n4. 完成后运行相关测试\n5. 最后总结修改内容和风险\n",
+        "category": "Prompt",
+        "description": "执行修改模版",
+        "createdAt": "2026-06-11T02:57:15.793Z",
+        "updatedAt": "2026-06-11T02:58:01.355Z",
+        "id": 11
+      },
+      {
+        "title": "第四个review 模板",
+        "content": "请 review 当前 git diff。\n\n重点关注：\n1. 是否破坏现有功能\n2. 是否有边界情况遗漏\n3. 是否有错误处理缺失\n4. 是否有类型问题\n5. 是否有安全风险\n6. 是否需要补测试\n\n只输出问题，不要修改代码。\n",
+        "category": "Prompt",
+        "description": "review代码模版",
+        "createdAt": "2026-06-11T02:57:36.707Z",
+        "updatedAt": "2026-06-11T02:58:06.189Z",
+        "id": 12
+      },
+      {
+        "title": "第五个任务收尾模板",
+        "content": "请总结这个任务。\n\n包括：\n1. 目标是什么\n2. 最终改了什么\n3. 已验证什么\n4. 还有什么风险\n5. 后续继续做应该从哪里开始\n",
+        "category": "Prompt",
+        "description": "任务收尾模版",
+        "createdAt": "2026-06-11T02:58:45.268Z",
+        "updatedAt": "2026-06-11T02:58:45.268Z",
+        "id": 13
+      },
+      {
+        "title": "Claude.md和Agents.md 最值得增加的内容",
+        "content": "增加一个代码实现部分规范：\n# Agent Instructions\n\nBefore creating a new file:\n\n1. Search for existing implementation.\n2. Search for reusable components.\n3. Search for reusable composables.\n4. Search for reusable API wrappers.\n\nBefore introducing dependencies:\n\n1. Verify existing dependency can solve the problem.\n2. Explain why a new dependency is required.\n\nBefore modifying architecture:\n\n1. Explain impact.\n2. Keep backward compatibility.\n3. Minimize file changes.",
+        "category": "代码",
+        "description": "代码规范",
+        "createdAt": "2026-06-16T00:15:10.711Z",
+        "updatedAt": "2026-06-16T00:15:10.711Z",
+        "id": 15
+      },
+      {
+        "title": "项目快速集成github",
+        "content": "数据的存储参考这里远程存储在github某一个文件夹可以进行增删，请参考下面的实现，结合当前的项目技术栈生成相同的功能，\n\n```\n<template>\n  <div v-if=\"open\" class=\"overlay\" @click.self=\"$emit('close')\">\n    <div class=\"sync-modal card\">\n      <!-- Header -->\n      <div class=\"sync-head\">\n        <div class=\"sync-head-icon\">\n          <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"/></svg>\n        </div>\n        <div class=\"sync-head-copy\">\n          <div class=\"sync-title\">GitHub 同步</div>\n          <div class=\"sync-sub\">配置后可将项目数据推送/拉取到 GitHub 仓库</div>\n        </div>\n        <button class=\"btn btn-ghost btn-icon\" @click=\"$emit('close')\" style=\"flex-shrink:0;margin-left:auto\">\n          <svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"/><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"/></svg>\n        </button>\n      </div>\n\n      <!-- Sync Status Banner -->\n      <div v-if=\"lastSyncedAt\" class=\"sync-banner\">\n        <div class=\"sync-banner-dot\"></div>\n        <div class=\"sync-banner-copy\">\n          <span class=\"sync-banner-title\">已配置同步</span>\n          <span class=\"sync-banner-sub\">上次同步: {{ fmtDate(lastSyncedAt) }}</span>\n        </div>\n        <button class=\"btn btn-ghost btn-sm\" style=\"color:var(--error)\" @click=\"handleClear\">解除</button>\n      </div>\n\n      <!-- Form Body -->\n      <div class=\"sync-body\">\n        <form @submit.prevent=\"handleSave\">\n          <!-- Repository Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">仓库信息</span>\n            </div>\n            <div class=\"sync-field-row\">\n              <label class=\"sync-field\" style=\"flex:1.2\">\n                <span class=\"sync-field-label\">用户名</span>\n                <input v-model=\"form.owner\" class=\"input\" placeholder=\"如 nyhxiaoning\" />\n              </label>\n              <label class=\"sync-field\" style=\"flex:1.8\">\n                <span class=\"sync-field-label\">仓库名</span>\n                <input v-model=\"form.repo\" class=\"input\" placeholder=\"如 huobao-drama-backup\" />\n              </label>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">文件路径</span>\n              <input v-model=\"form.path\" class=\"input\" placeholder=\"如 data/drama-1.json\" />\n              <span class=\"sync-field-hint\">数据存储路径，建议按项目命名</span>\n            </label>\n          </div>\n\n          <!-- Token Section -->\n          <div class=\"sync-section\">\n            <div class=\"sync-section-head\">\n              <span class=\"sync-section-icon\">\n                <svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\" ry=\"2\"/><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/></svg>\n              </span>\n              <span class=\"sync-section-label\">认证</span>\n            </div>\n            <label class=\"sync-field\">\n              <span class=\"sync-field-label\">Personal Access Token</span>\n              <div class=\"sync-token-row\">\n                <input :type=\"showToken ? 'text' : 'password'\" v-model=\"form.token\" class=\"input\" placeholder=\"ghp_...\" />\n                <button type=\"button\" class=\"sync-token-toggle\" @click=\"showToken = !showToken\" :title=\"showToken ? '隐藏' : '显示'\">\n                  <svg v-if=\"!showToken\" width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M1 12s4-7 11-7 11 7 11 7-4 7-11 7S1 12 1 12z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>\n                  <svg v-else width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24\"/><line x1=\"1\" y1=\"1\" x2=\"23\" y2=\"23\"/></svg>\n                </button>\n              </div>\n              <span class=\"sync-field-hint\">\n                需要 <code>repo</code> 权限。\n                <a href=\"https://github.com/settings/tokens\" target=\"_blank\" rel=\"noopener\" class=\"sync-link\">创建 Token →</a>\n              </span>\n            </label>\n          </div>\n\n          <!-- Actions -->\n          <div class=\"sync-actions\">\n            <div class=\"sync-actions-left\">\n              <button type=\"button\" class=\"btn btn-ghost\" v-if=\"hasConfig\" @click=\"handleClear\">\n                <svg width=\"11\" height=\"11\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><polyline points=\"3 6 5 6 21 6\"/><path d=\"M19 6l-1 14H6L5 6\"/></svg>\n                解除同步\n              </button>\n            </div>\n            <button type=\"button\" class=\"btn\" @click=\"$emit('close')\">取消</button>\n            <button type=\"submit\" class=\"btn btn-primary\">保存配置</button>\n          </div>\n        </form>\n      </div>\n    </div>\n  </div>\n</template>\n\n<script setup>\nimport { toast } from 'vue-sonner'\nimport { syncAPI } from '~/composables/useApi'\n\nconst props = defineProps({\n  open: Boolean,\n  dramaId: Number,\n})\nconst emit = defineEmits(['close', 'saved'])\n\nconst showToken = ref(false)\nconst form = ref({ owner: '', repo: '', path: '', token: '' })\nconst hasConfig = ref(false)\nconst lastSyncedAt = ref('')\n\nwatch(() => props.open, async (val) => {\n  showToken.value = false\n  if (val && props.dramaId) {\n    try {\n      const res = await syncAPI.config(props.dramaId)\n      if (res) {\n        form.value = {\n          owner: res.github_owner || '',\n          repo: res.github_repo || '',\n          path: res.github_path || '',\n          token: '',\n        }\n        hasConfig.value = true\n        lastSyncedAt.value = res.last_synced_at || ''\n      } else {\n        form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n        hasConfig.value = false\n        lastSyncedAt.value = ''\n      }\n    } catch {}\n  }\n})\n\nasync function handleSave() {\n  if (!form.value.owner || !form.value.repo || !form.value.path || !form.value.token) {\n    toast.warning('请填写所有必填项')\n    return\n  }\n  try {\n    await syncAPI.saveConfig(props.dramaId, {\n      github_owner: form.value.owner,\n      github_repo: form.value.repo,\n      github_path: form.value.path,\n      github_token: form.value.token,\n    })\n    toast.success('GitHub 同步配置已保存')\n    emit('saved')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nasync function handleClear() {\n  try {\n    await syncAPI.deleteConfig(props.dramaId)\n    form.value = { owner: '', repo: '', path: 'data/drama-' + props.dramaId + '.json', token: '' }\n    hasConfig.value = false\n    lastSyncedAt.value = ''\n    toast.success('同步配置已清除')\n    emit('close')\n  } catch (e) {\n    toast.error(e.message)\n  }\n}\n\nfunction fmtDate(s) {\n  if (!s) return ''\n  return new Date(s).toLocaleString('zh-CN')\n}\n</script>\n\n<style scoped>\n.sync-modal {\n  width: min(520px, calc(100vw - 40px));\n  padding: 0;\n  overflow: hidden;\n  border-radius: 22px;\n  background: linear-gradient(180deg, rgba(255,255,255,0.98), rgba(248,251,255,0.94));\n  animation: scaleIn 0.18s var(--ease-out);\n}\n\n/* Header */\n.sync-head {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n  padding: 20px 22px 18px;\n  border-bottom: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-head-icon {\n  width: 40px;\n  height: 40px;\n  border-radius: 14px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.06);\n  color: #24292f;\n  flex-shrink: 0;\n}\n.sync-head-copy { min-width: 0; flex: 1; }\n.sync-title { font-size: 16px; font-weight: 700; font-family: var(--font-display); color: var(--text-0); }\n.sync-sub { font-size: 12px; color: var(--text-3); margin-top: 2px; line-height: 1.45; }\n\n/* Banner */\n.sync-banner {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  padding: 12px 22px;\n  background: rgba(45, 122, 69, 0.07);\n  border-bottom: 1px solid rgba(45, 122, 69, 0.1);\n}\n.sync-banner-dot {\n  width: 8px;\n  height: 8px;\n  border-radius: 50%;\n  background: #2d7a45;\n  flex-shrink: 0;\n  box-shadow: 0 0 0 3px rgba(45, 122, 69, 0.14);\n}\n.sync-banner-copy { display: flex; flex-direction: column; gap: 1px; min-width: 0; flex: 1; }\n.sync-banner-title { font-size: 12px; font-weight: 600; color: #1a5a32; }\n.sync-banner-sub { font-size: 11px; color: rgba(26, 90, 50, 0.65); }\n\n/* Body */\n.sync-body { padding: 18px 22px 20px; overflow-y: auto; }\n\n/* Section */\n.sync-section {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n  padding: 14px;\n  border-radius: 14px;\n  background: rgba(248, 250, 254, 0.72);\n  border: 1px solid rgba(27, 41, 64, 0.06);\n}\n.sync-section + .sync-section { margin-top: 12px; }\n.sync-section-head {\n  display: flex;\n  align-items: center;\n  gap: 7px;\n}\n.sync-section-icon {\n  width: 22px;\n  height: 22px;\n  border-radius: 7px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: rgba(13, 17, 23, 0.05);\n  color: var(--text-2);\n  flex-shrink: 0;\n}\n.sync-section-label {\n  font-size: 12px;\n  font-weight: 700;\n  color: var(--text-1);\n  letter-spacing: 0.03em;\n}\n\n/* Fields */\n.sync-field { display: flex; flex-direction: column; gap: 5px; }\n.sync-field-label { font-size: 11px; font-weight: 600; color: var(--text-2); }\n.sync-field-hint { font-size: 10.5px; color: var(--text-3); line-height: 1.5; margin-top: 2px; }\n.sync-field-hint code { font-size: 10px; background: rgba(27, 41, 64, 0.06); padding: 1px 4px; border-radius: 3px; }\n.sync-field-row { display: flex; gap: 10px; }\n\n/* Token row */\n.sync-token-row { display: flex; gap: 6px; }\n.sync-token-row .input { flex: 1; }\n.sync-token-toggle {\n  width: 32px;\n  height: 32px;\n  flex-shrink: 0;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 10px;\n  border: 1px solid rgba(27, 41, 64, 0.1);\n  background: rgba(255,255,255,0.86);\n  color: var(--text-2);\n  cursor: pointer;\n  transition: all 0.14s;\n}\n.sync-token-toggle:hover { background: #fff; color: var(--text-0); border-color: rgba(27, 41, 64, 0.15); }\n\n/* Link */\n.sync-link { color: var(--accent); text-decoration: none; font-weight: 600; }\n.sync-link:hover { text-decoration: underline; }\n\n/* Actions */\n.sync-actions {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding-top: 16px;\n  margin-top: 4px;\n  border-top: 1px solid rgba(27, 41, 64, 0.07);\n}\n.sync-actions-left { flex: 1; }\n</style>\n```",
+        "category": "代码",
+        "description": "集成参考github",
+        "createdAt": "2026-06-16T00:16:10.328Z",
+        "updatedAt": "2026-06-16T00:16:10.328Z",
+        "id": 16
+      },
+      {
+        "title": "react的h5工程师常用提示词",
+        "content": "你是一个专业的前端React18高级开发工程师，请使用UI组件库：antd-mobile，tailwindcss，参考antd中的InputNumber组件做一个组件，支持上下数字调节",
+        "category": "Prompt",
+        "description": "工作常用",
+        "createdAt": "2026-06-16T00:16:45.994Z",
+        "updatedAt": "2026-06-16T00:16:45.994Z",
+        "id": 17
+      },
+      {
+        "title": "000用好工具的关键claude和codex规范prompt",
+        "content": "### 控制自动注入的上下文\n### 缩小任务搜索范围\n### 及时压缩会话\n### 把高噪音工作隔离出去\n### 避免不必要的工具链负担",
+        "category": "Prompt",
+        "description": "代码工具使用prompt标准化说明",
+        "createdAt": "2026-06-16T00:17:30.399Z",
+        "updatedAt": "2026-06-16T00:17:30.399Z",
+        "id": 18
+      },
+      {
+        "title": "git常见账号问题和网络问题",
+        "content": "1.临时查看和切换账号git\n查看邮箱：git config --local user.email\n切换邮箱： git config --local user.email \"1540097293@qq.com\"\n查看name: git config --local user.name\n切换name:  git config --local user.name \"nyhxiaoning\"\n2.",
+        "category": "代码",
+        "description": "工具常见问题",
+        "createdAt": "2026-06-16T00:18:09.944Z",
+        "updatedAt": "2026-06-16T00:18:09.944Z",
+        "id": 19
+      },
+      {
+        "title": "vue3的h5工程师常用提示词",
+        "content": "你是一名专业的h5小应用开发工程师，熟练掌握技术栈：vue3，pinia，vue-i18n，vantui，组件库",
+        "category": "Prompt",
+        "description": "",
+        "createdAt": "2026-06-18T02:24:25.655Z",
+        "updatedAt": "2026-06-18T02:24:25.655Z",
+        "id": 20
+      },
+      {
+        "title": "react的实战CLAUDE.md和AGENTS.md模版参考1",
+        "content": "# CLAUDE.md\n\n## Project\n\nOh My PPT — 本地优先的 AI 幻灯片生成与编辑工具。Electron + React + TypeScript。\n\n## Commands\n\n```bash\npnpm dev          # 开发\npnpm build        # 不要跑构建\npnpm run typecheck:node # 跑 node 类型检查\npnpm run typecheck:web # 跑 renderer 类型检查\npnpm typecheck    # 跑类型检查  \npnpm lint         # 不要跑ESLint\npnpm format       # 不要跑Prettier\n```\n\n> 不要跑 `npm run lint` / `npm run build`。\n\n## Code Style\n\n- Prettier: `singleQuote`, `no semi`, `printWidth: 100`, `trailingComma: none`\n- 路径别名: `@shared/*` → `src/shared/*`, `@renderer/*` → `src/renderer/src/*`\n\n## Execution Rules\n\n- 先判断问题落在哪条链路：生成、编辑、导入、导出或运行时；不要只修当前可见入口\n- 公共规则变更要确认生成和编辑都覆盖，包括整页编辑、deck 编辑、selector 编辑\n- 改 runtime asset 时，同步检查 session asset 兼容/刷新机制\n- 修 bug 优先补最小定向回归测试，必要时覆盖相邻入口\n- 验证时跑最相关的最小测试集；不要跑 `npm run lint` 或 `npm run build`\n\n## Testing\n\n- 框架：Vitest + happy-dom，测试文件放 `tests/unit/` 下，按功能域分子目录，文件名 `*.test.ts`\n- 跑测试：`pnpm test`，跑单个文件：`pnpm test -- tests/unit/xxx/foo.test.ts`\n- 修 bug 或加功能时，必须补对应测试到 `tests/unit/`；测试不通过就继续修代码直到通过\n\n##  React 组件编写规范\n\n### 核心原则\n\n#### 1. 逻辑内聚，少传 props\n- **能写在组件内的逻辑就写在组件内**，不要通过 props 从父组件传进来\n- 事件处理、数据获取、状态管理，都优先写在组件自己里面\n\n```jsx\n// ✅ 好\nfunction ProductCard({ id }) {\n  const [count, setCount] = useState(0)\n  const handleBuy = () => { /* 逻辑写这里 */ }\n  return <button onClick={handleBuy}>购买</button>\n}\n\n// ❌ 坏\nfunction ProductCard({ count, onBuy }) { /* 逻辑都从外面传 */ }\n```\n\n#### 2. 跨组件状态用 Zustand\n- 多个组件需要共享的数据 → 放 zustand store\n- 不要通过 props 一层层传\n\n```jsx\nconst useStore = create((set) => ({\n  user: null,\n  setUser: (user) => set({ user })\n}))\n\n// 任何组件直接拿来用，不用传 props\nconst user = useStore(state => state.user)\n```\n\n####  3. 复用逻辑抽成自定义 Hook\n- 多个组件都需要**相同的有状态逻辑**时，抽成自定义 Hook\n- Hook 放在 `hooks/` 目录下，以 `use` 开头\n\n```jsx\n// hooks/useProductData.js\nfunction useProductData(productId) {\n  const [product, setProduct] = useState(null)\n  const [loading, setLoading] = useState(false)\n  \n  useEffect(() => {\n    fetchProduct(productId).then(setProduct)\n  }, [productId])\n  \n  return { product, loading }\n}\n\n// 组件中使用\nfunction ProductCard({ id }) {\n  const { product, loading } = useProductData(id)\n  // 不用从 props 传 product 和 loading\n}\n```\n\n#### 4. 什么情况才用 props？\n只传这两类东西：\n- **配置项**：`size`, `disabled`, `variant`\n- **纯展示数据**：`title`, `description`\n\n## 简单检查\n写代码前问一句：*\"这个逻辑/状态能不能直接写在当前组件里？\"*\n- 能 → 就写里面\n- 不能，但多个组件都需要 → 放 zustand 或抽成自定义 Hook\n- 实在不行 → 才传 props\n\n## 记住\n**组件要自己管自己，别当父组件的提线木偶。**\n\n",
+        "category": "模板",
+        "description": "react实战开发者非常好用的通用模版1",
+        "createdAt": "2026-06-22T08:14:13.308Z",
+        "updatedAt": "2026-06-22T08:14:48.716Z",
+        "id": 21
+      },
+      {
+        "title": "文档项目增加代码注释的prompt",
+        "content": "请根据费曼学习法，将当前的所有的核心实现，增加代码注释说明，便于文档和交流使用",
+        "category": "Prompt",
+        "description": "文档项目说明学习",
+        "createdAt": "2026-07-01T02:03:58.409Z",
+        "updatedAt": "2026-07-01T02:03:58.409Z",
+        "id": 22
+      },
+      {
+        "title": "git常用切换分支删除错误建立的内容",
+        "content": "# 撤回已修改文件\ngit reset --hard HEAD\n# 删除所有未跟踪文件\ngit clean -fd",
+        "category": "代码",
+        "description": "git强行切换分支",
+        "createdAt": "2026-07-02T08:16:06.477Z",
+        "updatedAt": "2026-07-02T08:16:06.477Z",
+        "id": 23
+      },
+      {
+        "title": "vue改造html为组件模版",
+        "content": "你是一个高级 vue3 开发者，组件库使用 elementplus，请帮我根据参考下面的页面布局和实现代码已经有 html 的实现，参考后，实现的功能对应说明如下：\na. 系统展示标题 \"发布管理\" (pxm_publish_title) 和说明 \"选择未发布作品提交官方审核，通过后即可上架。\" (pxm_publish_subtitle)。",
+        "category": "代码",
+        "description": "代码vue改造html模版",
+        "createdAt": "2026-07-16T02:19:44.900Z",
+        "updatedAt": "2026-07-16T02:19:44.900Z",
+        "id": 24
+      },
+      {
+        "title": "在线vconsole引入",
+        "content": "<!-- vconsole 最新版 -->\n<script src=\"https://cdn.jsdelivr.net/npm/vconsole@latest/dist/vconsole.min.js\"></script>\n<script>\n// 实例化\nnew VConsole()\n</script>",
+        "category": "代码",
+        "description": "在线vconsole",
+        "createdAt": "2026-08-06T05:41:10.367Z",
+        "updatedAt": "2026-08-06T05:41:10.367Z",
+        "id": 25
+      }
+    ],
+    "videoModels": [],
+    "managedPrompts": [
+      {
+        "title": "宠物猫咪",
+        "content": "第一种猫咪\n",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "description": "宠物的生成",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T04:40:42.688Z",
+        "updatedAt": "2026-06-19T05:06:18.423Z",
+        "id": 1,
+        "isTemplate": false
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物"
+        ],
+        "isTemplate": true,
+        "templateFields": [],
+        "templateSuffix": "",
+        "updatedAt": "2026-06-19T06:17:17.119Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T06:17:17.119Z",
+        "id": 2
+      },
+      {
+        "title": "配置拟人化猫咪狸花猫",
+        "content": "狸花猫生成prompt内容, 猫咪, 纪录片风格, 特写, 黄金分割",
+        "description": "狸花猫的生成",
+        "category": "宠物美食",
+        "tags": [
+          "宠物美食"
+        ],
+        "favorited": false,
+        "isTemplate": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-19T08:29:52.439Z",
+        "updatedAt": "2026-06-19T08:29:52.439Z",
+        "id": 3
+      },
+      {
+        "title": "齐白石工笔画写意花草",
+        "content": "齐白石工笔昆虫搭配写意花草，小虫刻画精细逼真，花草以大写意挥洒，一工一写对比鲜明，墨色层次丰富，留白巧妙，传统国画，毛笔手绘，古朴雅致",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:18:18.163Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:18:18.163Z",
+        "id": 4
+      },
+      {
+        "title": "齐白石蔬果 / 民俗小品主题",
+        "content": "齐白石水墨蔬果小品画，南瓜、白菜、牵牛花，造型质朴憨厚，笔触粗犷写意，色彩清淡素雅，构图简洁，生活化意境，传统中式水墨画，宣纸质感",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:18:52.604Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:18:52.604Z",
+        "id": 5
+      },
+      {
+        "title": "齐白石花鸟 / 草木主题",
+        "content": "齐白石写意花鸟画，花枝简练，禽鸟造型生动传神，工笔刻画细节，淡彩点缀，浓淡干湿墨色层次分明，大幅留白，东方禅意，传统国画，宣纸肌理",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:19:13.430Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:19:13.430Z",
+        "id": 6
+      },
+      {
+        "title": "齐白石鱼虾主题（齐白石最经典题材）",
+        "content": "齐白石风格水墨鱼虾图，写意国画，灵动的游虾、小鱼，线条简练飘逸，淡墨晕染，透明质感，清水留白背景，宣纸作画，笔触古朴自然，童趣盎然，中式古典水墨",
+        "category": "插画",
+        "tags": [
+          "绘画"
+        ],
+        "isTemplate": false,
+        "updatedAt": "2026-06-21T03:19:34.614Z",
+        "favorited": false,
+        "viewCount": 0,
+        "copyCount": 0,
+        "createdAt": "2026-06-21T03:19:34.614Z",
+        "id": 7
+      }
+    ],
+    "urls": [
+      {
+        "name": "test",
+        "url": "https://baidu.com",
+        "snippetContent": "urls/db.json",
+        "category": "其他",
+        "description": "urls/db.json",
+        "createdAt": "2026-06-10T03:12:08.027Z",
+        "updatedAt": "2026-06-10T03:12:08.027Z",
+        "id": 1
+      },
+      {
+        "name": "国内市场化的skills广场1红狐",
+        "url": "https://redfox.hk/skills",
+        "snippetContent": "很多商业化使用的skills",
+        "category": "其他",
+        "description": "",
+        "createdAt": "2026-06-11T01:46:04.821Z",
+        "updatedAt": "2026-06-11T01:46:04.821Z",
+        "id": 2
+      },
+      {
+        "name": "国外skills合集搜索",
+        "url": "https://skills.sh/",
+        "snippetContent": "国外的skills源码网站\n",
+        "category": "开发",
+        "description": "",
+        "createdAt": "2026-06-11T01:46:34.761Z",
+        "updatedAt": "2026-06-11T01:46:34.761Z",
+        "id": 3
+      },
+      {
+        "name": "公开 AI 工具核心配置agent和skills合集国外",
+        "url": "https://codeguilds.dev/packages",
+        "snippetContent": "收录公开 AI 工具核心配置：汇总网站\n很多各种厂商skills和agent",
+        "category": "工具",
+        "description": "",
+        "createdAt": "2026-06-11T01:47:40.966Z",
+        "updatedAt": "2026-06-11T01:47:40.966Z",
+        "id": 4
+      },
+      {
+        "name": "AI智能体开发标准化指南说明",
+        "url": "https://my.feishu.cn/wiki/TPQjwPyufiZ1w0kmToscR7ySnMe?from=from_copylink",
+        "snippetContent": "记录codex和claude智能体内更好工作的标准化的方式和使用",
+        "category": "工具",
+        "description": "",
+        "createdAt": "2026-06-11T02:22:00.758Z",
+        "updatedAt": "2026-06-11T02:22:00.758Z",
+        "id": 5
+      },
+      {
+        "name": "linux常用命令行",
+        "url": "https://git.io/linux",
+        "snippetContent": "快速搜索github命令",
+        "category": "工具",
+        "description": "linux命令",
+        "createdAt": "2026-06-15T02:38:48.572Z",
+        "updatedAt": "2026-06-15T02:38:48.572Z",
+        "id": 6
+      },
+      {
+        "name": "有道云全年规划",
+        "url": "https://note.youdao.com/web/#/file/WEB066751a4269d52b030f06bc562c6ea97/mindmap/F56E1B3ED71E4EFBBC461AF82926E953",
+        "snippetContent": "有道云记录自己的全年规划，可以经常查看和修改记录进度\n为什么不用okr，ork太紧张了，做的自己压力大",
+        "category": "工具",
+        "description": "",
+        "createdAt": "2026-06-15T09:58:07.861Z",
+        "updatedAt": "2026-06-15T09:58:07.861Z",
+        "id": 7
+      },
+      {
+        "name": "Agent月影课程汇总",
+        "url": "https://my.feishu.cn/docx/QBE2dp343omS8hxXgPkcYMhDnfe",
+        "snippetContent": "飞书整理汇总\n",
+        "category": "文档",
+        "description": "",
+        "createdAt": "2026-06-15T09:58:57.314Z",
+        "updatedAt": "2026-06-15T09:58:57.314Z",
+        "id": 8
+      },
+      {
+        "name": "快速redis数据结构学习",
+        "url": "https://my.feishu.cn/docx/XwRhdkwiPojzCvxYq6ncm0iVn8f?from=from_copylink",
+        "snippetContent": "redis数据结构入门",
+        "category": "教程",
+        "description": "数据结构",
+        "createdAt": "2026-06-22T09:52:15.897Z",
+        "updatedAt": "2026-06-22T09:52:15.897Z",
+        "id": 9
+      }
+    ],
+    "promptConnecters": [
+      {
+        "name": "国内红狐市场化推广",
+        "url": "https://redfox.hk/skills",
+        "snippetContent": "市场化",
+        "category": [
+          "推广",
+          "市场化",
+          "广告"
+        ],
+        "description": "营销赚钱",
+        "createdAt": "2026-06-21T03:46:12.905Z",
+        "updatedAt": "2026-06-21T03:46:12.905Z",
+        "id": 1
+      },
+      {
+        "name": "3d的汽车的查看",
+        "url": "https://github.com/nyhxiaoning/3d-car-viewing",
+        "snippetContent": "3d的汽车的查看内容",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-23T12:34:13.500Z",
+        "updatedAt": "2026-06-23T12:34:13.500Z",
+        "id": 2
+      },
+      {
+        "name": "小红书youtube推特blibli热点搜索agent",
+        "url": "https://github.com/nyhxiaoning/Agent-Reach",
+        "snippetContent": "agent中的热点资讯",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-06-26T23:35:37.107Z",
+        "updatedAt": "2026-06-26T23:35:37.107Z",
+        "id": 3
+      },
+      {
+        "name": "稿定ai营销物料设计",
+        "url": "https://m.gaoding.com/",
+        "snippetContent": "ai物料",
+        "category": [
+          "工具"
+        ],
+        "description": "",
+        "createdAt": "2026-07-05T13:01:19.504Z",
+        "updatedAt": "2026-07-05T13:01:19.504Z",
+        "id": 5
+      },
+      {
+        "name": "20s内营销视频解析",
+        "url": "https://vid2prompt.com/",
+        "snippetContent": "营销视频解析",
+        "category": [
+          "工具"
+        ],
+        "description": "营销视频解析",
+        "createdAt": "2026-07-05T13:03:45.504Z",
+        "updatedAt": "2026-07-05T13:03:45.504Z",
+        "id": 6
+      },
+      {
+        "name": "提示词个人版本合集整理",
+        "url": "https://next-promptcreator.vercel.app/",
+        "snippetContent": "找到第三个菜单的图书部分",
+        "category": [
+          "提示词"
+        ],
+        "description": "提示词个人整理版本",
+        "createdAt": "2026-08-11T06:09:54.670Z",
+        "updatedAt": "2026-08-11T06:09:54.670Z",
+        "id": 7
+      },
+      {
+        "name": "提示词合集网站123",
+        "url": "https://prompt123.cn/",
+        "snippetContent": "提示词外部带模仿合集网站",
+        "category": [
+          "提示词"
+        ],
+        "description": "提示词合集",
+        "createdAt": "2026-08-11T06:10:53.639Z",
+        "updatedAt": "2026-08-11T06:10:53.639Z",
+        "id": 8
+      }
+    ],
+    "mindmaps": [
+      {
+        "title": "1.思考前端AI生成实现细节化",
+        "content": "# 思维导图\n\n## AI：AGENT.md和CLAUDE.md配置规范\n\n\n## 脚手架基本配置：基本功能\n\n### 基本功能完善\n\n### 完善化的商业使用\n\n### 特殊功能开发拓展\n\n\n## AI开始模块化开发\n### 前端AI使用准备\n- 1.接口标准化封装请求层：标准化模块接口封装\n- 2.数据模块管理模块化：\n- 3.中英文国际化模块化\n- 4.一般先分拆出 MVP，做完 MVP 以后再往上加功能吧。\n\n### 页面级别结构文字化说吗\n- 1.截图给AI生成后，调整内容：豆包，谷歌，chatgpt\n- 2.对照对应的前端页面和css样式，给出html结构化后，给AI转换\n- 3.找\n\n### 页面UI和接口对应实现\n- 1.提示词模版1:",
+        "category": "工作总结",
+        "createdAt": "2026-08-01T13:33:44.412Z",
+        "updatedAt": "2026-08-03T23:53:33.852Z",
+        "id": 1
+      },
+      {
+        "title": "全栈Nestjs项目实时模版",
+        "content": "# 全栈技术项目：Soybean 平台管理系统 (NestJS 后端)\n\n> **学习目标**：通过对 Soybean 管理系统后端代码的深入剖析，理清 NestJS 核心设计思想，巩固依赖注入、中间件、拦截器、鉴权等全栈开发核心技能，实现查漏补漏。[有道云](https://note.youdao.com/web/#/file/WEB42d0d17eac3ca2b3135b2ddebb7ca576/markdown/WEB935edddce5a26b61ab866fa14026b948/)\n\n---\n\n## 1. 项目基础与源码大纲\n\n* **项目代码与分支**：\n  * **Repository**: `[填入你的仓库地址，如 GitHub / Gitee]`\n  * **Branch**: `main` / `dev`\n* **技术栈概览**：\n  * **Core**: NestJS + TypeScript\n  * **Database & ORM**: TypeORM / Prisma / TypeORM + MySQL / PostgreSQL\n  * **Cache & Session**: Redis\n  * **Auth**: Passport.js / JWT (JSON Web Token)\n  * **Documentation**: Swagger (@nestjs/swagger)\n  * **Packaging/Lint**: pnpm / Turbo Repo / ESLint / Prettier\n\n---\n\n## 2. 项目架构与设计模式\n\n### 2.1 整体架构图景\n* **设计模式**：采用 DDD (领域驱动设计) / MVC 架构 / 模块化分层架构（Controller - Service - Repository）\n* **控制反转与依赖注入 (IoC / DI)**：\n  * 自定义 Provider (`useClass`, `useValue`, `useFactory`, `useExisting`) 的使用场景\n  * 动态模块 (`DynamicModule`) 的封装与加载机制 (如 `ConfigModule.forRoot()`)\n\n### 2.2 核心模块划分 (Modules)\n* **AuthModule**：鉴权与授权（登录、Token 刷新、RBAC 权限）\n* **UserModule / RoleModule / MenuModule**：用户、角色、动态菜单管理\n* **DatabaseModule**：ORM 封装与数据库异步连接配置\n* **RedisModule**：缓存与分布式锁/ Token 黑名单封装\n* **CommonModule / SharedModule**：全局异常过滤器、拦截器、管道、自定义装饰器\n\n---\n\n## 3. 项目全栈解决的问题与核心实现\n\n### 3.1 身份认证与安全 (Auth & Security)\n* **JWT 双 Token 机制**：Access Token (短期) + Refresh Token (长期) 的无感刷新实现\n* **RBAC 权限控制**：\n  * 基于 `@SetMetadata` + 自定义 `RolesGuard` Guard 实现接口级别权限校验\n  * 菜单与按钮粒度的权限控制输出\n* **接口安全防范**：限流 (`@nestjs/throttler`)、CORS 配置、Helmet 安全头防护\n\n### 3.2 请求生命周期与管道/过滤器/拦截器\n* **请求处理全链路流转**：\n  `Request` ➔ `Middleware` ➔ `Guard` ➔ `Interceptor (Pre)` ➔ `Pipe` ➔ `Controller` ➔ `Service` ➔ `Interceptor (Post)` ➔ `Exception Filter` ➔ `Response`\n* **全局数据校验 (Pipes)**：基于 `class-validator` 和 `class-transformer` 的请求 Body/Query 自动 DTO 校验与转换\n* **统一响应格式 (Interceptors)**：拦截返回结果，标准化封装 `{ code: 200, data: ..., message: 'success' }`\n* **全局异常捕获 (Filters)**：捕获 `HttpException` 及未知系统错误，日志记录与友好错误提示格式化\n\n### 3.3 数据库操作与高并发 (Database & Caching)\n* **ORM 最佳实践**：实体定义 (`Entity`)、一对多/多对多关联查询、事务管理 (`QueryRunner` / `Transaction Manager`)\n* **Redis 缓存应用**：缓存热点数据、接口防刷、用户登录 Session / Token 注销黑名单\n\n### 3.4 日志与工程化 (Ops & Dev Tools)\n* **日志系统**：基于 `Winston` 或 `Pino` 实现日志按天切分、按级别（Info/Error）归档与上下文追踪\n* **环境变量管理**：基于 `@nestjs/config` 实现多环境（dev / test / prod）配置自动加载与校验\n* **API 文档自动生成**：基于 Swagger 装饰器（`@ApiProperty`, `@ApiOperation`）构建自动化交互文档\n\n---\n\n## 4. NestJS 关键技术点复盘\n\n### 4.1 IoC (控制反转) 与 DI (依赖注入) 机制\n\n* **Providers 作用域 (Scope)**：\n* `DEFAULT`（单例，性能最高，全应用共享）\n* `TRANSIENT`（每次注入都创建新实例）\n* `REQUEST`（每个 HTTP 请求创建新实例，需注意大并发下的内存与性能消耗）\n\n\n* **自定义 Provider 的 4 种声明方式**：\n* `useClass`：映射类到 Token\n* `useValue`：注入静态常量、Mock 数据或配置对象\n* `useFactory`：异步/动态工厂注入（常用于数据库、Redis 连接初始化）\n* `useExisting`：为已存在的 Provider 创建别名\n\n\n* **循环依赖处理**：\n* 使用 `forwardRef(() => ServiceA)` 延迟解析依赖\n\n\n* **动态模块 (Dynamic Modules)**：\n* 掌握 `register()`、`forRoot()`、`forFeature()` 的设计规约与配置透传机制\n\n\n\n---\n\n### 4.2 模块生命周期钩子 (Lifecycle Hooks)\n\n* **应用启动阶段**：\n* `OnModuleInit`：模块依赖解析完成后触发（常用于初始化外部客户端连接、缓存预热）\n* `OnApplicationBootstrap`：所有模块初始化完成、开始监听端口前触发\n\n\n* **应用销毁阶段**：\n* `OnModuleDestroy`：收到关闭信号后触发\n* `BeforeApplicationShutdown`：停止接收新请求\n* `OnApplicationShutdown`：连接断开与资源清理（如优雅关闭 Redis / 数据库连接池）\n\n\n\n---\n\n### 4.3 框架增强组件 (Enhanced Components)\n\n* **中间件 (Middlewares)**：\n* 基于 Express 原生中间件机制，作用于路由处理之前，用于日志打印、Body 提取、跨域配置等\n\n\n* **守卫 (Guards)**：\n* 实现 `CanActivate` 接口，结合 `@SetMetadata` 与 `Reflector` 提取元数据\n* 用于 Authentication（身份鉴权）与 Authorization（RBAC 权限校验）\n\n\n* **拦截器 (Interceptors)**：\n* 基于 RxJS (`Observable`) 实现 AOP（面向切面编程）\n* 用于统一响应结构重构、接口耗时统计、响应级缓存及异常转化\n\n\n* **管道 (Pipes)**：\n* 实现 `PipeTransform` 接口\n* 用于参数转换（如字符串转数字 `ParseIntPipe`）与 Schema 校验（结合 `class-validator` 进行 DTO 自动校验）\n\n\n* **自定义装饰器 (Custom Decorators)**：\n* 利用 `createParamDecorator` 封装上下文解析逻辑（如 `@CurrentUser()` 提取 Request 中的用户实体，`@Ip()` 提取真实 IP）\n\n\n\n---\n\n### 4.4 高级扩展与企业级特性 (项目中待验证)\n\n* **定时任务与异步队列**：\n* 基于 `@nestjs/schedule` 的 Cron / Interval 任务调度\n* 基于 BullMQ / Redis 的死信队列、重试机制与耗时异步任务解耦\n\n\n* **微服务与实时通信**：\n* WebSocket / Gateway：基于 `@nestjs/websockets` 实现长连接推送与心跳检测\n* 微服务架构：基于 gRPC / Redis / RabbitMQ 传输层实现服务间 RPC 调用\n\n\n* **监控与可观测性**：\n* 集成 Prometheus + Grafana 暴露应用指标（CPU、内存、HTTP 耗时、QPS）\n* 基于 OpenTelemetry / Jaeger 实现分布式链路追踪\n",
+        "category": "学习计划",
+        "createdAt": "2026-08-05T05:19:17.184Z",
+        "updatedAt": "2026-08-05T05:32:28.805Z",
+        "id": 2
+      },
+      {
+        "title": "1.学习Soybean项目查缺补漏",
+        "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n- 查看当前的:开发文档记录.md，可以看到历史问题记录\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n### 通过navicat手写命令行不会：console\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
+        "category": "知识笔记",
+        "createdAt": "2026-08-05T05:34:31.720Z",
+        "updatedAt": "2026-08-05T05:43:48.590Z",
+        "id": 3
+      }
+    ],
+    "markdowns": [
+      {
+        "title": "1.prisma学习工具8月份常看",
+        "content": "# Prisma 学习笔记\n\n\n### 数据库相关通过DBX工具询问和学习\n\n> **适用人群**: Prisma 初学者，尤其是 NestJS + Prisma 项目开发者\n> **学习方法**: 费曼学习法 —— 用你自己的话讲给别人听，如果你讲不清楚，就是还没真正理解\n> **项目基准**: 本文档基于 Nest-Admin-Soybean 项目的实际配置编写\n\n---\n\n## 一、先搞懂：Prisma 到底是什么？\n\n### 1.1 用一句话说\n\n> Prisma 是一个**数据库工具包**，它让你用代码定义数据结构（Schema），然后自动帮你完成数据库建表、读写数据、生成类型等所有脏活累活。\n\n### 1.2 它的三个核心组件\n\n| 组件                     | 做什么                              | 类比理解                                 |\n| ------------------------ | ----------------------------------- | ---------------------------------------- |\n| **Prisma Schema**  | 用声明式语法描述数据模型            | 像一份\"数据字典\"                         |\n| **Prisma Migrate** | 根据 Schema 生成并管理 SQL 迁移脚本 | 像 Git，但管的是数据库结构变更           |\n| **Prisma Client**  | 自动生成的类型安全数据库查询 SDK    | 像 ActiveRecord 或 TypeORM 的 Repository |\n\n### 1.3 为什么不用 raw SQL？\n\n想象你要建一张用户表。传统方式你要写：\n\n```sql\nCREATE TABLE sys_user (\n  user_id SERIAL PRIMARY KEY,\n  user_name VARCHAR(30) NOT NULL,\n  password VARCHAR(100) NOT NULL,\n  status CHAR(1) DEFAULT '0',\n  del_flag CHAR(1) DEFAULT '0',\n  create_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP\n);\n\n然后你在 TypeScript 里又要定义一个 interface 来描述它。两处定义，任意一处改了，另一处忘了同步 → **类型错误、SQL 错误、线上崩了**。\n\nPrisma 的做法：**只定义一个 Schema，其他全自动**。\n\n---\n\n## 二、Prisma Schema：一切数据的源头\n\n### 2.1 Schema 长什么样？\n\n打开 `apps/server/prisma/schema.prisma`，结构分为三段：\n\n```prisma\n// ① 生成器配置：生成什么客户端\ngenerator client {\n  provider = \"prisma-client-js\"\n}\n\n// ② 数据源配置：连哪个数据库\ndatasource db {\n  provider = \"postgresql\"\n  url      = env(\"DATABASE_URL\")\n}\n\n// ③ 模型定义：你的所有表\nmodel SysUser {\n  userId    Int      @id @default(autoincrement())\n  userName  String   @db.VarChar(30)\n  password  String   @db.VarChar(100)\n  status    String   @default(\"0\") @db.Char(1)\n  delFlag   String   @default(\"0\") @map(\"del_flag\") @db.Char(1)\n  createTime DateTime? @default(dbgenerated(\"CURRENT_TIMESTAMP\")) @db.Timestamp(6)\n\n  // 关联关系\n  roles     SysRole[]\n  dept      SysDept?  @relation(fields: [deptId], references: [deptId])\n\n  // 数据库表名映射\n  @@map(\"sys_user\")\n}\n```\n\n### 2.2 常用字段属性速查\n\n```prisma\nmodel SysUser {\n  // ── 主键 ──\n  userId   Int    @id                      // 自增主键\n  userId   String @id @default(uuid())     // UUID 主键\n\n  // ── 默认值 ──\n  status   String @default(\"0\")            // 默认值\n\n  // ── 数据库列映射 ──\n  userName String @map(\"user_name\")        // 驼峰 → 蛇形\n  delFlag  String @map(\"del_flag\") @db.Char(1)  // 自定义数据库类型\n\n  // ── 可选 / 必填 ──\n  nickname String?                          // ? = 可为 null\n  email    String                           // 非空\n\n  // ── 关联 ──\n  roleId   Int\n  role     SysRole @relation(fields: [roleId], references: [roleId])\n\n  // ── 索引 / 唯一约束 ──\n  @@unique([tenantId, userName])\n  @@index([status])\n}\n```\n\n### 2.3 关联关系三兄弟\n\n```prisma\n// ① 一对一：一篇文章对应一个作者\nmodel Post {\n  id        Int      @id\n  author    User     @relation(fields: [authorId], references: [id])\n  authorId  Int      // 外键\n}\n\nmodel User {\n  id    Int    @id\n  post  Post?           // ? = 可为空（用户可能还没写文章）\n}\n\n// ② 一对多：一个角色对应多个用户\nmodel SysRole {\n  roleId    Int      @id\n  users     SysUser[]  // 复数 = 多个\n}\n\nmodel SysUser {\n  userId  Int     @id\n  role    SysRole @relation(fields: [roleId], references: [roleId])\n  roleId  Int\n}\n\n// ③ 多对多：一个用户对应多个角色，一个角色对应多个用户\nmodel SysUser {\n  userId Int     @id\n  roles  SysRole[]  // 自动生成中间表 sys_user__sys_role\n}\n\nmodel SysRole {\n  roleId Int     @id\n  users  SysUser[]\n}\n```\n\n> **费曼检验**：试着给同事解释这三个关联关系的区别，如果他听懂了，你才真正懂了。\n\n---\n\n## 三、CRUD 操作：最核心的四个\n\n### 3.1 项目中的 PrismaService 是怎么工作的？\n\n项目里的 `apps/server/src/infrastructure/prisma/prisma.service.ts` 做了几件事：\n\n1. **读取环境变量配置**：从 `.env` 读 `DATABASE_URL` 拼成连接字符串\n2. **创建扩展客户端**：挂载了软删除、租户隔离、慢查询监控三个插件\n3. **按需代理模型**：对外暴露 `this.sysUser`、`this.sysRole` 等代理属性\n\n```typescript\n// prisma.service.ts 的核心逻辑\n@Injectable()\nexport class PrismaService {\n  private readonly _client: ExtendedPrismaClient;\n\n  constructor(config: AppConfigService) {\n    const connectionString = PrismaService.buildConnectionString(pgConfig);\n    this._client = createExtendedPrismaClient(connectionString, slowQueryLogs);\n  }\n\n  // 代理所有模型访问\n  get sysUser() { return this._client.sysUser; }\n  get sysRole() { return this._client.sysRole; }\n  // ... 共 38 个模型\n\n  // 代理核心方法\n  get client() { return this._client; }\n}\n```\n\n### 3.2 增删查改的实际用法\n\n#### 🔵 查 (Read)\n\n```typescript\n// ── 根据主键查 ──\nconst user = await prisma.sysUser.findUnique({\n  where: { userId: 1 },\n});\n\n// ── 根据条件查第一条 ──\nconst user = await prisma.sysUser.findFirst({\n  where: { userName: 'admin', delFlag: '0' },\n});\n\n// ── 查多条（列表） ──\nconst users = await prisma.sysUser.findMany({\n  where: { status: '0', delFlag: '0' },\n  orderBy: { createTime: 'desc' },\n  skip: 0,\n  take: 10,\n  include: { roles: true, dept: true },  // 关联查询\n});\n\n// ── 计数 ──\nconst total = await prisma.sysUser.count({\n  where: { status: '0' },\n});\n```\n\n> **关键点**：`findUnique` 用主键，`findFirst` 用条件。在 Nest-Admin 项目里几乎所有查询都带 `delFlag: '0'`，因为项目用软删除。\n\n#### 🟢 增 (Create)\n\n```typescript\n// ── 单条创建 ──\nconst user = await prisma.sysUser.create({\n  data: {\n    userName: 'zhangsan',\n    password: 'hashed_password',\n    status: '0',\n    delFlag: '0',\n    // 关联数据一起创建（嵌套写）\n    roles: {\n      create: [{ roleId: 1 }],\n    },\n  },\n});\n\n// ── 批量创建 ──\nawait prisma.sysUser.createMany({\n  data: [\n    { userName: 'zhangsan', password: 'xxx', delFlag: '0' },\n    { userName: 'lisi', password: 'yyy', delFlag: '0' },\n  ],\n  skipDuplicates: true,  // 幂等：重复数据自动跳过\n});\n```\n\n#### 🟡 改 (Update)\n\n```typescript\n// ── 根据主键更新 ──\nconst user = await prisma.sysUser.update({\n  where: { userId: 1 },\n  data: { status: '1', userName: 'zhangsan_new' },\n});\n\n// ── 条件更新（可能不匹配任何记录，不报错） ──\nconst result = await prisma.sysUser.updateMany({\n  where: { status: '0' },\n  data: { status: '1' },\n});\nconsole.log(result.count); // 更新了几条\n```\n\n#### 🔴 删 (Delete)\n\n```typescript\n// ── 硬删除（真实删除，慎用） ──\nawait prisma.sysUser.delete({\n  where: { userId: 1 },\n});\n\n// ── 批量硬删除 ──\nawait prisma.sysUser.deleteMany({\n  where: { status: '1', delFlag: '1' },\n});\n\n// ── 软删除（本项目实际使用的方式） ──\nawait prisma.sysUser.update({\n  where: { userId: 1 },\n  data: { delFlag: '1' },  // 标记删除，数据仍保留\n});\n```\n\n### 3.3 项目的分层模式\n\n本项目没有直接在每个 Service 里写 `prisma.sysUser.xxx()`，而是用了三层：\n\n```\nController\n   ↓\nService (业务逻辑)\n   ↓\nRepository (数据访问)\n   ↓\nPrisma Client (底层执行)\n```\n\n**Repository 层** (`base.repository.ts`) 封装了通用的 CRUD：\n\n```typescript\n@Injectable()\nexport class UserRepository extends SoftDeleteRepository<SysUser, Prisma.SysUserDelegate> {\n  constructor(prisma: PrismaService) {\n    super(prisma, 'sysUser');\n  }\n}\n```\n\n继承 `SoftDeleteRepository` 后，自动获得 `findAll()`、`findById()`、`softDelete()` 等方法，**每个查询自动带上 `delFlag: '0'`**。\n\n**Service 层** (`base.service.ts`) 在 Repository 基础上封装分页、DTO 转换：\n\n```typescript\nexport abstract class BaseService<T, R, D> {\n  async findAll(query) { /* 分页 + 条件构建 + DTO 转换 */ }\n  async findOne(id)   { /* 详情 + DTO 转换 */ }\n  async create(dto)   { /* 创建 */ }\n  async update(id, dto){ /* 更新 */ }\n  async remove(id)    { /* 软删除 */ }\n}\n```\n\n> **为什么要分层？**\n>\n> - Repository 只管查数据，不管业务\n> - Service 处理业务逻辑（权限、缓存、事务），不关心 SQL\n> - Controller 只管 HTTP 参数校验和响应格式\n\n---\n\n## 四、数据库初始化：从零到可用\n\n### 4.1 三种场景，三种姿势\n\n#### 🟢 场景一：全新环境（第一次 clone 项目）\n\n```bash\n# 1. 启动 PostgreSQL（通过 Docker）\ndocker-compose up -d postgres redis\n\n# 2. 等待 PostgreSQL 就绪\ndocker-compose exec postgres pg_isready -U postgres -d nest_admin\n\n# 3. 一键初始化（最重要的一步）\ncd apps/server\nnpm run prisma:init\n\n# 4. 启动服务\nnpm run dev\n```\n\n`npm run prisma:init` 到底做了什么？\n\n```\nnpm run prisma:init\n  │\n  ├── prisma migrate reset --force      ① 删除所有表 → 重建 48 张表 → 记录迁移历史\n  ├── ts-node prisma/seed.ts            ② 导入核心表种子（18 个表）\n  ├── ts-node prisma/migration-seed.ts  ③ 导入迁移表种子（8 个表）\n  └── prisma generate                   ④ 生成 Prisma Client\n```\n\n#### 🟡 场景二：已有数据，只需要添加新表\n\n**千万不要用 `prisma:init`**，那会清空数据！正确姿势：\n\n```bash\n# 1. 修改 schema.prisma 添加新模型\n\n# 2. 创建迁移（Prisma 自动生成 SQL 变更脚本）\nnpm run prisma:migrate -- --name add_new_table\n\n# 3. 只补充种子数据（不影响现有数据）\nnpm run prisma:seed:migration\n\n# 4. 检查哪些表还没数据\nnpm run prisma:check-seed\n```\n\n#### 🔴 场景三：数据库坏了，需要重置\n\n```bash\nnpm run prisma:reset\n# 相当于：migrate reset --force + seed:only\n# 注意：不会执行 migration-seed（迁移表种子）\n```\n\n### 4.2 迁移文件的秘密\n\n在 `apps/server/prisma/migrations/` 下，你会看到一堆带时间戳的文件夹：\n\n```\nmigrations/\n├── 20251217031315_init/\n│   └── migration.sql        ← 第一步创建核心表\n├── 20251218085631_add_tenant/\n│   └── migration.sql        ← 第二步增加租户相关表\n├── 20251220093000_add_sms/\n│   └── migration.sql        ← 第三步增加短信/邮件表\n└── ...\n```\n\n每个文件夹 = 一次数据库版本变更。Prisma 的 `_prisma_migrations` 表记录了哪些迁移已经执行过。\n\n> **类比理解**：就像 Git 的 commit 历史。每次 `migrate reset` 相当于 \"git checkout 到最新并清空工作区再重建\"，`migrate deploy` 相当于 \"git pull\"。\n\n### 4.3 seed.ts vs migration-seed.ts 的区别\n\n|                    | `seed.ts`                | `migration-seed.ts`          |\n| ------------------ | -------------------------- | ------------------------------ |\n| **作用**     | 初始化核心基础数据         | 初始化迁移添加的新表数据       |\n| **数据量**   | ~18 个表                   | ~8 个表                        |\n| **运行时机** | 第一次初始化、数据库重置时 | 新增表后、增量更新时           |\n| **脚本命令** | `prisma:seed:only`       | `prisma:seed:migration`      |\n| **幂等性**   | ✅                         | ✅ (`skipDuplicates: true`)  |\n| **代表数据** | 租户、角色、菜单、用户等   | 系统配置、功能开关、OSS 配置等 |\n\n---\n\n## 五、数据库迁移：Schema 变了怎么办？\n\n### 5.1 核心命令对比\n\n| 命令                             | 用途                                | 删除数据？ | 适用环境       |\n| -------------------------------- | ----------------------------------- | ---------- | -------------- |\n| `prisma migrate dev`           | 开发：生成迁移 + 执行 + 生成 Client | ❌         | 开发           |\n| `prisma migrate reset --force` | 强制重置（删表重建）                | ✅         | 开发/测试      |\n| `prisma migrate deploy`        | 只应用未执行的迁移                  | ❌         | **生产** |\n| `prisma migrate status`        | 查看迁移状态                        | ❌         | 任何           |\n\n### 5.2 日常开发流程\n\n```bash\n# ── 修改 schema.prisma ──\n# 例如：给 SysUser 加一个 nickname 字段\n\n# ── 生成迁移 ──\nnpm run prisma:migrate -- --name add_user_nickname\n\n# ── Prisma 自动 ──\n# 1. 生成迁移 SQL → prisma/migrations/20260101120000_add_user_nickname/migration.sql\n# 2. 执行 SQL 更新本地数据库\n# 3. 更新 _prisma_migrations 记录\n\n# ── 如果需要种子数据 ──\n# 编辑 prisma/migration-seed.ts\nnpm run prisma:seed:migration\n```\n\n### 5.3 迁移 SQL 长什么样？\n\n```sql\n-- prisma/migrations/20251217031315_init/migration.sql\n\n-- CreateTable\nCREATE TABLE \"sys_user\" (\n    \"user_id\" SERIAL NOT NULL,\n    \"user_name\" VARCHAR(30) NOT NULL,\n    \"password\" VARCHAR(100) NOT NULL,\n    \"status\" CHAR(1) NOT NULL DEFAULT '0',\n    \"del_flag\" CHAR(1) NOT NULL DEFAULT '0',\n    \"create_time\" TIMESTAMP(6) NOT NULL DEFAULT CURRENT_TIMESTAMP,\n\n    CONSTRAINT \"sys_user_pkey\" PRIMARY KEY (\"user_id\")\n);\n\n-- CreateTable\nCREATE TABLE \"sys_role\" (\n    \"role_id\" SERIAL NOT NULL,\n    ...\n    CONSTRAINT \"sys_role_pkey\" PRIMARY KEY (\"role_id\")\n);\n\n-- 迁移历史记录（Prisma 自动维护）\nCREATE TABLE \"_prisma_migrations\" (\n    ...\n);\n```\n\n### 5.4 常见问题：迁移冲突了怎么办？\n\n如果 `_prisma_migrations` 表里的记录和实际文件不一致：\n\n```bash\n# 查看当前状态\nnpx prisma migrate status\n\n# 标记某个迁移为已应用（如果确定已经执行了）\nnpx prisma migrate resolve --applied <migration_name>\n\n# 标记某个迁移为已回滚\nnpx prisma migrate resolve --rolled-back <migration_name>\n\n# 极端情况：重置一切\nnpx prisma migrate reset --force\n```\n\n> **⚠️ Prisma 的 migrate reset 是破坏性的！** 它会删除所有数据。绝对不要在生产环境执行。\n\n---\n\n## 六、预置种子数据：让数据库自带数据\n\n### 6.1 seed.ts 的核心逻辑\n\n```typescript\n// apps/server/prisma/seed.ts\nasync function main() {\n  // ── 租户 ──\n  await prisma.sysTenant.createMany({\n    data: [{ tenantId: '000000', companyName: '默认租户', status: '0', delFlag: '0' }],\n    skipDuplicates: true,\n  });\n\n  // ── 套餐 ──\n  await prisma.sysTenantPackage.createMany({\n    data: [{ packageName: '默认套餐', menuCheckStrictly: false, status: '0', delFlag: '0' }],\n    skipDuplicates: true,\n  });\n\n  // ── 角色 ──\n  await prisma.sysRole.createMany({\n    data: [{ roleName: '超级管理员', roleKey: 'admin', roleSort: 0, status: '0', delFlag: '0' }],\n    skipDuplicates: true,\n  });\n\n  // ... 更多表\n}\n```\n\n### 6.2 关键设计：幂等性\n\n```typescript\n// ✅ 正确：可以重复执行\nawait prisma.sysTenant.createMany({\n  data: [...],\n  skipDuplicates: true,  // 已存在的记录自动跳过\n});\n\n// ❌ 错误：重复执行会报唯一键冲突\nawait prisma.sysTenant.create({\n  data: { tenantId: '000000', ... },\n});\n```\n\n### 6.3 如何在 CI/CD 中验证种子数据覆盖率？\n\n```bash\n# 运行检查脚本\nnpm run prisma:check-seed\n\n# 输出示例：\n# Schema 中共有 48 个模型\n#\n# === 数据覆盖情况 ===\n#\n# ✅ 有数据: 26 个表\n# ⚠️  无数据: 0 个表\n# ❌ 出错: 0 个表\n#\n# ✅ 所有必需表都有数据\n```\n\n这个脚本会对比 `schema.prisma` 中的模型数量和数据库中实际有数据的表数量。\n\n---\n\n## 七、生产部署：安全第一\n\n### 7.1 核心原则\n\n| 开发环境                            | 生产环境             |\n| ----------------------------------- | -------------------- |\n| `prisma migrate reset --force` ✅ | ❌**绝对不能** |\n| `prisma migrate dev` ✅           | ❌**绝对不能** |\n| `prisma migrate deploy` ✅        | ✅**只能用它** |\n| 随意修改数据库                      | 所有变更必须走迁移   |\n\n### 7.2 生产部署完整流程\n\n```bash\n# ── Step 1: 应用迁移（不重置！）──\nnpm run prisma:deploy\n# 内部执行：prisma migrate deploy\n# → 对比 _prisma_migrations 表\n# → 只执行还没跑过的迁移\n# → 不会删除任何数据\n\n# ── Step 2: 补充种子数据 ──\nnpm run prisma:seed:migration\n# → 所有 createMany 都有 skipDuplicates: true\n# → 重复执行也不会覆盖已有数据\n\n# ── Step 3: 生成 Client ──\nnpm run prisma:generate\n\n# ── Step 4: 重启服务 ──\nnpm run start:prod\n```\n\n### 7.3 环境变量配置\n\n项目使用多环境配置（通过 `AppConfigService` 动态拼接连接串）：\n\n```\n.env.development  →  开发环境\n.env.test         →  测试环境\n.env.production   →  生产环境\n```\n\n关键环境变量：\n\n```bash\n# .env\nDATABASE_URL=\"postgresql://postgres:postgres@localhost:5432/nest_admin?schema=public\"\n\n# 连接池配置\nDATABASE_POOL_SIZE=10\nDATABASE_CONNECTION_TIMEOUT=5000\nDATABASE_IDLE_TIMEOUT=30000\n```\n\n> **生产环境注意**：PrismaService 内部使用了 `$extends` 挂载了软删除、租户隔离、慢查询监控三个扩展。如果你单独使用 `PrismaClient`（比如在脚本中），不会自动获得这些能力。\n\n---\n\n## 八、项目特有机制\n\n### 8.1 软删除 (Soft Delete)\n\n项目里所有表都有 `delFlag` 字段。Prisma 通过扩展自动注入过滤：\n\n```typescript\n// soft-delete.extension.ts\nreturn prisma.$extends({\n  query: {\n    $allModels: {\n      // 所有 findMany / findFirst / findUnique 自动过滤 delFlag = '0'\n      findMany({ model, args }) {\n        args.where = { ...args.where, delFlag: '0' };\n        return query.findMany(model, args);\n      },\n    },\n  },\n});\n```\n\n效果：你写 `prisma.sysUser.findMany()` 自动变成 `SELECT * FROM sys_user WHERE del_flag = '0'`。\n\n### 8.2 租户隔离 (Tenant Isolation)\n\n多租户场景下，通过扩展自动给每个查询加上 `tenantId` 过滤：\n\n```typescript\n// tenant.extension.ts\nreturn prisma.$extends({\n  query: {\n    $allModels: {\n      findMany({ model, args }, context) {\n        const tenantId = context.runner?.tenant?.tenantId;\n        if (tenantId) {\n          args.where = { ...args.where, tenantId };\n        }\n        return query.findMany(model, args);\n      },\n    },\n  },\n});\n```\n\n### 8.3 慢查询监控\n\n```typescript\n// slow-query.extension.ts\nreturn prisma.$extends({\n  query: {\n    $allModels: {\n      async $allOperations({ operation, args, query }, context) {\n        const start = Date.now();\n        const result = await query(operation, args);\n        const duration = Date.now() - start;\n\n        if (duration > 1000) {  // 超过 1 秒\n          context.addToSlowQueries({ operation, duration, model });\n        }\n        return result;\n      },\n    },\n  },\n});\n```\n\n---\n\n## 九、常见问题排查\n\n### Q1: `npm run prisma:init` 报连接超时\n\n**原因**：PostgreSQL 还没完全启动就执行了。\n\n**解决**：\n\n```bash\n# 确认 PostgreSQL 正在运行\ndocker-compose ps postgres\n\n# 等它就绪\ndocker-compose exec postgres pg_isready -U postgres -d nest_admin\n# 输出：pg_isready: accepting connections\n\n# 再执行\nnpm run prisma:init\n```\n\n### Q2: 迁移历史对不上\n\n```bash\n# 查看状态\nnpx prisma migrate status\n\n# 如果提示有未执行的迁移\nnpx prisma migrate deploy\n\n# 极端情况：重置\nnpx prisma migrate reset --force  # ⚠️ 开发环境可用\n```\n\n### Q3: Schema 改了，Client 没更新\n\n```bash\nnpx prisma generate\n```\n\n### Q4: 关联查询返回空\n\n检查：\n\n1. 是否用了 `include` / `select`\n2. 关联字段是否写了 `@relation`\n3. 软删除是否把关联记录过滤掉了\n\n```typescript\n// ❌ 不会返回关联的 roles\nconst user = await prisma.sysUser.findUnique({ where: { userId: 1 } });\n\n// ✅ 使用 include 加载关联\nconst user = await prisma.sysUser.findUnique({\n  where: { userId: 1 },\n  include: { roles: true, dept: true },\n});\n```\n\n### Q5: 批量插入报唯一键冲突\n\n```typescript\n// ❌ 有一条重复就全部失败\nawait prisma.sysUser.createMany({ data: [...] });\n\n// ✅ 使用 skipDuplicates\nawait prisma.sysUser.createMany({\n  data: [...],\n  skipDuplicates: true,\n});\n```\n\n---\n\n## 十、命令速查卡\n\n```bash\n# ─── 初始化 ───\nnpm run prisma:init              # 完整初始化（重置 + 种子）\nnpm run prisma:reset             # 仅重置（不执行 migration-seed）\nnpm run prisma:seed:only         # 只执行 core seed.ts\nnpm run prisma:seed:migration     # 只执行 migration-seed.ts\n\n# ─── 迁移 ───\nnpm run prisma:migrate           # 开发迁移（+ 执行 + generate）\nnpm run prisma:deploy            # 生产迁移（仅执行未跑的迁移）\nnpx prisma migrate status        # 查看迁移状态\nnpx prisma migrate resolve --applied <name>  # 手动标记已执行\nnpx prisma migrate resolve --rolled-back <name>  # 手动标记已回滚\n\n# ─── 代码生成 ───\nnpm run prisma:generate          # 生成 Prisma Client\nnpx prisma studio                # 打开可视化数据浏览工具\n\n# ─── 检查 ───\nnpm run prisma:check-seed         # 检查种子数据覆盖率\n```\n\n---\n\n## 十一、费曼检验：用自己的话讲一遍\n\n如果你能把下面这些问题讲清楚，说明你真的理解了：\n\n1. **为什么项目里有两套种子脚本？** `seed.ts` 负责核心基础表（第一次初始化用），`migration-seed.ts` 负责迁移新增的表（增量更新用）。\n2. **`findMany` 和 `findFirst` 有什么区别？** `findMany` 返回数组，`findFirst` 返回单条或 null。项目用 `findMany` 做列表，`findFirst` 做存在性检查。\n3. **生产环境为什么不能用 `migrate reset`？** 它会删除所有数据并重建。生产环境只能用 `migrate deploy`。\n4. **`skipDuplicates: true` 为什么重要？** 让种子数据脚本变成幂等的，重复执行不会报错，CI/CD 和手动补充种子都可以安全运行。\n5. **软删除和硬删除的本质区别是什么？** 硬删除是 `DELETE FROM`（数据真没了），软删除是 `UPDATE SET del_flag = '1'`（数据保留，通过扩展自动过滤）。\n\n---\n\n*最后更新：2026-08-07*\n*参考代码库：Nest-Admin-Soybean `apps/server/prisma/`*\n\n```\n\n```\n",
+        "category": "知识笔记",
+        "description": "prisma学习笔记",
+        "createdAt": "2026-08-07T08:25:23.032Z",
+        "updatedAt": "2026-08-08T03:29:56.738Z",
+        "id": 1
+      },
+      {
+        "title": "2.java简单项目newbee项目整理",
+        "content": "# ## 文档项目源码地址说明\n\n### 数据库相关通过DBX工具询问和学习\n\n\n### newbee对应：后台vue3-admin\n\n代码：https://gitee.com/nyhxiaoning/vue3-admin.git\n\n### newbee对应：app\n\n代码：git clone https://gitee.com/classic-case-project/newbee-mall-vue3-app.git\n\n### newbee对应：api服务端\n\n代码： https://github.com/nyhxiaoning/newbee-mall-api.git\n\n## 学习目的\n\n### 完成java项目快速开发环境部署\n\n* [ ] java的接口配置\n* [ ] mysql的接口配置\n\nredis接口配置\n\n### mysql数据库的接口配置\n\n* [ ] 任意增加接口：增删差改的方法\n* [ ] 任意增加接口报错的调试方案\n\n### 线上部署java项目的方法\n\n* [ ] dev环境开发完成后，如何打包\n* [ ] 如何线上部署，如何发现问题\n* [ ] 数据库sql写法\n",
+        "category": "知识笔记",
+        "description": "java入门学习",
+        "createdAt": "2026-08-08T03:16:18.497Z",
+        "updatedAt": "2026-08-08T03:29:41.587Z",
+        "id": 2
+      },
+      {
+        "title": "3.soybean项目的nestjs的ruoyi开发框架",
+        "content": "# 新文档\n\n开始写作...",
+        "category": "知识笔记",
+        "description": "ruoyi框架开发",
+        "createdAt": "2026-08-08T03:21:14.071Z",
+        "updatedAt": "2026-08-08T03:21:14.071Z",
+        "id": 3
+      },
+      {
+        "title": "4.java项目部署文档说明",
+        "content": "> 开发环境启动方式见 [README.md](./README.md) 与 [开发需求文档.md](./开发需求文档.md)，本文重点说明与本地开发**不同的生产配置与运维手段**。\n\n- [一、部署架构总览](#一部署架构总览)\n- [二、环境要求](#二环境要求)\n- [三、打包 JAR](#三打包-jar)\n- [四、生产配置文件](#四生产配置文件)\n- [五、systemd 服务托管（开机自启/崩溃重启）](#五systemd-服务托管开机自启崩溃重启)\n- [六、Nginx 反向代理 + HTTPS](#六nginx-反向代理--https)\n- [七、数据库与 Redis 生产加固](#七数据库与-redis-生产加固)\n- [八、部署步骤（一键脚本）](#八部署步骤一键脚本)\n- [九、日志与监控](#九日志与监控)\n- [十、安全加固清单](#十安全加固清单)\n- [十一、回滚与版本管理](#十一回滚与版本管理)\n- [十二、与本地开发环境差异对照](#十二与本地开发环境差异对照)\n\n---\n\n## 一、部署架构总览\n\n---\n\n```\n公网\n                     │ 80 / 443\n                ┌────▼─────┐\n                │  Nginx   │  反向代理 + HTTPS 终结\n                └────┬─────┘\n                     │ proxy_pass http://127.0.0.1:28099\n                ┌────▼───────────────┐\n                │  Spring Boot JAR   │  端口 28099\n                │  newbee-mall-api   │  systemd 托管\n                └────┬───────────┬───┘\n                     │           │\n          ┌──────────▼──┐   ┌────▼──────┐\n          │   MySQL 8   │   │  Redis 7  │\n          │  3306 内网  │   │  6379 内网 │\n          └─────────────┘   └───────────┘\n```\n\n\n- **入口**：Nginx 只暴露 80/443 到公网；28099 / 3306 / 6379 全部绑定内网或回环地址，不对外暴露。\n- **应用**：单一 JAR 包由 systemd 托管，开机自启、崩溃自动重启。\n- **数据**：MySQL 存业务数据与登录 token，Redis 存验证码（5 分钟过期，key 前缀 `captcha:`）。\n\n### 1.2 应用内模块\n\n| 模块 | API 前缀 | 服务对象 | 端口 |\n|---|---|---|---|\n| 商城前端 | `/api/v1` | H5 商城（用户/商品/购物车/订单/地址） | 28099 |\n| 管理后台 | `/manage-api/v1` | Vue3 管理后台（管理员/商品/分类/轮播图/首页配置/上传） | 28099 |\n| 验证码 | `/api/v1/captcha`、`/manage-api/v1/captcha` | 登录验证码（Redis 存储，绑定账号） | 28099 |\n| Swagger | `/swagger-ui/index.html` | 接口文档（**生产环境建议关闭**） | 28099 |\n\n### 1.3 请求链路\n\n前端 → Nginx(443 TLS) → Spring Boot(28099)\n→ Controller 层（api/）→ Service 层 → DAO 层（MyBatis → MySQL）\n→ 验证码/Redis → 登录 token（MySQL，48 小时过期）\n\n```\n### 1.4 关键设计点（影响部署）\n\n- **上传目录**：文件上传路径硬编码在 `Constants.FILE_UPLOAD_DIC`，当前默认 `/tmp/tempupload`（重启即丢）。**生产环境必须改为持久化目录**（如 `/opt/newbee/upload`）并重新打包，否则重启后图片丢失。\n- **静态资源**：项目内 `classpath:/file-test/`、`classpath:/static/` 走 `/resources/**` 路径。\n- **端口与地址**：`server.port=28099`、`server.address=0.0.0.0`（生产建议由 Nginx 反代后改绑 `127.0.0.1`）。\n\n\n## 二、环境要求\n\n### 2.1 服务器\n\n| 项 | 要求 |\n|---|---|\n| 操作系统 | Linux x86_64（CentOS 7+/Ubuntu 20.04+ 均可，本文示例以 Ubuntu 系命令为主） |\n| 内存 | ≥ 2 GB（建议 4 GB，Hikari 连接池 + JVM 堆） |\n| 磁盘 | ≥ 20 GB（应用 500 MB + 数据库 + 上传文件 + 日志） |\n| 架构 | 单体应用，单节点即可支撑中小流量 |\n\n### 2.2 运行依赖\n\n| 软件 | 版本 | 用途 | 部署机是否必需 |\n|---|---|---|---|\n| JDK | 1.8（Java 8） | 运行 JAR | 是 |\n| MySQL | 8.0 | 业务数据库 | 是 |\n| Redis | 7.x（本项目用 redis:7-alpine） | 验证码存储 | 是 |\n| Nginx | 1.20+ | 反向代理 + HTTPS | 是 |\n| Maven | 3.6+ | 仅打包阶段使用 | 否（构建机用） |\n\n> 项目 `pom.xml` 声明 `java.version=1.8`，请勿在服务器安装更高版本 JDK 直接运行（存在兼容风险），或确认 JDK 版本与构建时一致。\n\n### 2.3 端口规划\n\n| 端口 | 服务 | 对外暴露 |\n|---|---|---|\n| 80 / 443 | Nginx | 是（公网） |\n| 28099 | Spring Boot | 否（仅本机/内网） |\n| 3306 | MySQL | 否（仅内网） |\n| 6379 | Redis | 否（仅本机） |\n\n---\n\n## 三、打包 JAR\n\n### 3.1 打包命令（构建机执行）\n\n```bash\n# 项目根目录\nmvn clean package -DskipTests\n```\n\n产物：`target/newbee-mall-api-3.0.0-SNAPSHOT.jar`\n\n- 通过 `spring-boot-maven-plugin` 打成可执行 fat jar（内嵌 Tomcat）。\n- `-DskipTests` 跳过测试；如需先跑测试去掉该参数。\n- 当前版本号在 `pom.xml` 的 `<version>3.0.0-SNAPSHOT</version>`，发布时建议去掉 `-SNAPSHOT` 并打 Git tag（见[十一、回滚与版本管理](#十一回滚与版本管理)）。\n\n### 3.2 本地快速验证产物\n\n```bash\n# 先用 dev profile 冒烟验证，确认能正常启动再上生产\njava -jar target/newbee-mall-api-3.0.0-SNAPSHOT.jar --spring.profiles.active=dev\n\n# 另开终端验证接口\ncurl http://localhost:28099/api/v1/captcha?userName=admin\n```\n\n启动日志出现 `Started NewBeeMallAPIApplication` 即成功。\n\n### 3.3 上传目录修改提示（重要）\n\n`src/main/java/ltd/newbee/mall/common/Constants.java:11`：\n\n```java\npublic final static String FILE_UPLOAD_DIC = \"/tmp/tempupload\"; // 默认，重启丢失\n```\n\n生产环境改为持久化目录后**需重新编译打包**：\n\n```java\npublic final static String FILE_UPLOAD_DIC = \"/opt/newbee/upload\";\n```\n\n```bash\nmkdir -p /opt/newbee/upload && chown -R newbee:newbee /opt/newbee/upload\n```\n\n---\n\n## 四、生产配置文件\n\n### 4.1 Profile 机制\n\n项目通过 `application.properties`（公共配置）+ `application-{profile}.properties`（环境差异）分层：\n\n| 文件                                               | 作用                                           |\n| -------------------------------------------------- | ---------------------------------------------- |\n| `src/main/resources/application.properties`      | 公共配置（端口、连接池、MyBatis 等）           |\n| `src/main/resources/application-dev.properties`  | 开发环境（Docker MySQL 33060、Redis 63790）    |\n| `src/main/resources/application-prod.properties` | **生产环境（已存在，需按真实环境修改）** |\n| `src/main/resources/application.yml`             | 占位/备用，数据源支持环境变量覆盖              |\n\n生产启动必须显式指定：\n\n```bash\njava -jar newbee-mall-api-3.0.0-SNAPSHOT.jar --spring.profiles.active=prod\n```\n\n### 4.2 生产必须修改的配置项\n\n对照现有 `application-prod.properties`，正式上线前按下表调整（**敏感信息不要明文提交 Git**，用环境变量或部署时注入）：\n\n| 配置项                                  | 开发默认值                                             | 生产建议                                                               |\n| --------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |\n| `spring.datasource.url`               | `localhost:3306/newbee_mall_db_v2`，`useSSL=false` | 内网地址 +`useSSL=true`                                              |\n| `spring.datasource.username/password` | `root / nyh123`                                      | 专用低权限账号 + 强密码（见[七、数据库加固](#七数据库与-redis-生产加固)） |\n| `spring.redis.host/port/password`     | `localhost:63790 / redis123`                         | 内网地址 + 强密码                                                      |\n| `server.address`                      | `0.0.0.0`                                            | `127.0.0.1`（仅经 Nginx 反代）                                       |\n| 上传目录                                | `/tmp/tempupload`                                    | `/opt/newbee/upload`（改 Constants 后重新打包）                      |\n| Swagger                                 | 开启                                                   | 生产关闭（见[十、安全加固](#十安全加固清单)）                             |\n\n### 4.3 生产配置模板（application-prod.properties 参考）\n\n```properties\n# ===== 服务 =====\nserver.address=127.0.0.1\nserver.port=28099\n\n# ===== 数据源 =====\nspring.datasource.driverClassName=com.mysql.cj.jdbc.Driver\nspring.datasource.url=jdbc:mysql://127.0.0.1:3306/newbee_mall_db_v2?useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=utf8&autoReconnect=true&useSSL=true&allowMultiQueries=true\nspring.datasource.username=${DB_USER}\nspring.datasource.password=${DB_PASSWORD}\n\n# Hikari 连接池\nspring.datasource.hikari.minimum-idle=5\nspring.datasource.hikari.maximum-pool-size=15\nspring.datasource.hikari.auto-commit=true\nspring.datasource.hikari.idle-timeout=30000\nspring.datasource.hikari.pool-name=hikariCP\nspring.datasource.hikari.max-lifetime=600000\nspring.datasource.hikari.connection-timeout=30000\nspring.datasource.hikari.connection-test-query=SELECT 1\n\n# ===== MyBatis =====\nmybatis.mapper-locations=classpath:mapper/*Mapper.xml\n\n# ===== Redis（验证码） =====\nspring.redis.host=127.0.0.1\nspring.redis.port=6379\nspring.redis.password=${REDIS_PASSWORD}\nspring.redis.database=0\nspring.redis.timeout=3000ms\n\n# ===== 文件上传 =====\nspring.servlet.multipart.max-file-size=10MB\nspring.servlet.multipart.max-request-size=10MB\n\n# ===== 日志 =====\nlogging.file.name=/opt/newbee/logs/application.log\n```\n\n> 说明：也可以不改 `application-prod.properties`，而是通过启动时 JVM 参数覆盖（如 `--spring.datasource.password=xxx` 或 `-DDB_PASSWORD=xxx`），避免配置带密码进 Git。\n\n---\n\n## 五、systemd 服务托管（开机自启/崩溃重启）\n\n### 5.1 创建服务文件\n\n```bash\nsudo vim /etc/systemd/system/newbee-mall.service\n```\n\n```ini\n[Unit]\nDescription=NEWBEE Mall API (Spring Boot)\nAfter=network.target mysql.service redis.service\nWants=mysql.service redis.service\n\n[Service]\nType=simple\n# 使用专用运行用户（需提前创建：useradd -m -s /sbin/nologin newbee）\nUser=newbee\nGroup=newbee\nWorkingDirectory=/opt/newbee/app\nEnvironment=SPRING_PROFILES_ACTIVE=prod\nEnvironment=DB_USER=newbee\nEnvironment=DB_PASSWORD=<你的强密码>\nEnvironment=REDIS_PASSWORD=<你的强密码>\nExecStart=/usr/bin/java -Xms256m -Xmx1024m -jar /opt/newbee/app/newbee-mall-api-3.0.0-SNAPSHOT.jar\n# 崩溃自动重启\nRestart=always\nRestartSec=5\n# 平滑停止：等待进程退出再 kill\nTimeoutStopSec=30\nKillSignal=SIGTERM\n# 日志统一走 journald（也可配合文件日志，见第九章）\nStandardOutput=journal\nStandardError=journal\n\n[Install]\nWantedBy=multi-user.target\n```\n\n> `-Xms/-Xmx` 按服务器内存调整；Hikari 最大 15 连接 + Tomcat 默认线程，1~2 GB 堆通常够用。\n\n### 5.2 启用与常用命令\n\n```bash\nsudo systemctl daemon-reload\nsudo systemctl enable --now newbee-mall     # 开机自启 + 立即启动\n\nsudo systemctl status newbee-mall           # 查看状态\nsudo systemctl restart newbee-mall          # 重启（部署时用）\nsudo systemctl stop newbee-mall             # 停止\nsudo journalctl -u newbee-mall -f           # 实时查看日志\nsudo journalctl -u newbee-mall -n 200       # 最近 200 行\n```\n\n### 5.3 自检\n\n```bash\n# 进程与端口\nsudo ss -lntp | grep 28099\n\n# 接口冒烟（Nginx 未就绪时先走本机）\ncurl -s http://127.0.0.1:28099/api/v1/captcha?userName=admin\n```\n\n---\n\n## 六、Nginx 反向代理 + HTTPS\n\n### 6.1 站点配置\n\n```bash\nsudo vim /etc/nginx/conf.d/newbee-mall.conf\n```\n\n```nginx\n# HTTP → HTTPS 跳转\nserver {\n    listen 80;\n    server_name api.example.com;            # 改成真实域名\n    return 301 https://$host$request_uri;\n}\n\nserver {\n    listen 443 ssl;\n    http2 on;\n    server_name api.example.com;\n\n    ssl_certificate     /etc/nginx/ssl/api.example.com.pem;\n    ssl_certificate_key /etc/nginx/ssl/api.example.com.key;\n    ssl_protocols       TLSv1.2 TLSv1.3;\n    ssl_ciphers         HIGH:!aNULL:!MD5;\n\n    # 上传文件目录（对应用户可访问），图片访问路径如 /upload/xxx.png\n    location /upload/ {\n        alias /opt/newbee/upload/;\n        expires 7d;\n    }\n\n    # 反向代理到 Spring Boot\n    location / {\n        proxy_pass http://127.0.0.1:28099;\n        proxy_set_header Host $host;\n        proxy_set_header X-Real-IP $remote_addr;\n        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;\n        proxy_set_header X-Forwarded-Proto $scheme;\n        proxy_connect_timeout 10s;\n        proxy_read_timeout 60s;\n    }\n}\n```\n\n```bash\nsudo nginx -t && sudo systemctl reload nginx\n```\n\n> 上传图片返回的 URL 前缀与上传目录路径相关，若后端返回的是 `/upload/xxx`，需保证与上述 `location /upload/` 一致（后端 UploadController 中拼接的前缀需与部署路径匹配）。\n\n### 6.2 HTTPS 证书（Let's Encrypt / certbot）\n\n```bash\nsudo apt install -y certbot python3-certbot-nginx   # Ubuntu\nsudo certbot --nginx -d api.example.com             # 自动申请并改写 Nginx 配置\nsudo certbot renew --dry-run                        # 验证自动续期\n```\n\n### 6.3 验证\n\n```bash\ncurl -I https://api.example.com/api/v1/captcha?userName=admin\n```\n\n应返回 `200 OK`（或验证码接口正常响应）。\n\n---\n\n## 七、数据库与 Redis 生产加固\n\n### 7.1 MySQL 初始化与导入\n\n项目 schema 文件：`src/main/resources/newbee_mall_db_v2_schema.sql`（含建库建表 + 初始数据）。\n\n```bash\n# 导入（含库结构），库名 newbee_mall_db_v2\nmysql -h127.0.0.1 -uroot -p < /path/to/newbee_mall_db_v2_schema.sql\n\n# 或仅建表语句：先建库再导入\nmysql -h127.0.0.1 -uroot -p -e \"CREATE DATABASE IF NOT EXISTS newbee_mall_db_v2 DEFAULT CHARACTER SET utf8mb4;\"\nmysql -h127.0.0.1 -uroot -p newbee_mall_db_v2 < /path/to/newbee_mall_db_v2_schema.sql\n```\n\n### 7.2 MySQL 加固清单\n\n```sql\n-- 1. 修改 root 密码\nALTER USER 'root'@'localhost' IDENTIFIED BY '<强密码>';\n\n-- 2. 创建应用专用低权限账号（只授权业务库）\nCREATE USER 'newbee_app'@'127.0.0.1' IDENTIFIED BY '<强密码>';\nGRANT SELECT, INSERT, UPDATE, DELETE ON newbee_mall_db_v2.* TO 'newbee_app'@'127.0.0.1';\nFLUSH PRIVILEGES;\n```\n\n`my.cnf` 关键项：\n\n```ini\n[mysqld]\nbind-address = 127.0.0.1        # 仅本机访问，禁止远程直连\ncharacter-set-server = utf8mb4\ncollation-server = utf8mb4_unicode_ci\nskip-name-resolve\n```\n\n> 若必须允许内网其他机器直连 MySQL，bind 内网 IP 并限制防火墙，**切勿用 root + 默认密码对外**。\n\n### 7.3 MySQL 定时备份\n\n```bash\nsudo crontab -e\n# 每天凌晨 2 点全量备份，保留 7 天\n0 2 * * * mysqldump -h127.0.0.1 -unewbee_app -p'<密码>' --single-transaction --routines newbee_mall_db_v2 | gzip > /opt/newbee/backup/db_$(date +\\%F).sql.gz && find /opt/newbee/backup -name 'db_*.sql.gz' -mtime +7 -delete\n```\n\n### 7.4 Redis 加固\n\n```bash\n# Redis 仅本机使用，绑定 127.0.0.1 并启用密码认证\n# 修改 redis.conf（或 docker-compose 中的启动命令）\nbind 127.0.0.1\nprotected-mode yes\nrequirepass <强密码>\nappendonly yes\n```\n\n若用 Docker（本项目 `docker-mysql/.env`），修改 `REDIS_PASSWORD` 后重启：\n\n```bash\ncd docker-mysql\ndocker-compose -f docker-compose-redis.yml up -d\n```\n\n> 项目验证码 Redis key 设计：`captcha:{uuid} → \"code|userName\"`，TTL 300 秒，一次性使用（校验后删除），无需额外清理。\n\n---\n\n## 八、部署步骤（一键脚本）\n\n### 8.1 目录规范\n\n```\n/opt/newbee/\n├── app/                      # 当前 JAR（运行目录）\n├── upload/                   # 上传文件（持久化，需改 Constants 后打包）\n├── logs/                     # 应用日志\n├── releases/                 # 历史版本归档（用于回滚）\n└── backup/                   # 数据库备份\n```\n\n```bash\nsudo mkdir -p /opt/newbee/{app,upload,logs,releases,backup}\nsudo useradd -m -s /sbin/nologin newbee\nsudo chown -R newbee:newbee /opt/newbee\n```\n\n### 8.2 一键部署脚本（构建机/服务器执行）\n\n```bash\nsudo vim /opt/newbee/deploy.sh && sudo chmod +x /opt/newbee/deploy.sh\n```\n\n```bash\n#!/usr/bin/env bash\n# 用法: ./deploy.sh <jar文件>\nset -euo pipefail\n\nJAR=\"$1\"\nAPP_DIR=\"/opt/newbee/app\"\nRELEASES_DIR=\"/opt/newbee/releases\"\nSERVICE=\"newbee-mall\"\nTIMESTAMP=\"$(date +%Y%m%d%H%M%S)\"\nVERSION=\"${JAR##*/}\"            # 如 newbee-mall-api-3.0.0-SNAPSHOT.jar\n\n# 1. 归档旧版本（回滚用）\nif [ -f \"$APP_DIR/$VERSION\" ]; then\n    cp \"$APP_DIR/$VERSION\" \"$RELEASES_DIR/${VERSION%.jar}-${TIMESTAMP}.jar\"\n    echo \"[1/5] 旧版本已归档到 $RELEASES_DIR\"\nfi\n\n# 2. 停止服务\nsudo systemctl stop \"$SERVICE\"\necho \"[2/5] 服务已停止\"\n\n# 3. 替换 JAR\ncp \"$JAR\" \"$APP_DIR/$VERSION\"\nsudo chown newbee:newbee \"$APP_DIR/$VERSION\"\necho \"[3/5] JAR 已更新: $APP_DIR/$VERSION\"\n\n# 4. 启动服务\nsudo systemctl start \"$SERVICE\"\necho \"[4/5] 服务已启动\"\n\n# 5. 健康检查（最多等 60 秒）\nfor i in $(seq 1 60); do\n    if curl -sf http://127.0.0.1:28099/api/v1/captcha?userName=admin >/dev/null; then\n        echo \"[5/5] 部署成功，服务健康\"\n        exit 0\n    fi\n    sleep 1\ndone\n\necho \"[FAIL] 健康检查超时，正在回滚...\"\nsudo systemctl stop \"$SERVICE\"\n# 回滚到最近归档\nLATEST=\"$(ls -t \"$RELEASES_DIR\"/*.jar 2>/dev/null | head -1)\"\nif [ -n \"$LATEST\" ]; then\n    cp \"$LATEST\" \"$APP_DIR/$VERSION\"\n    sudo systemctl start \"$SERVICE\"\nfi\nexit 1\n```\n\n执行：\n\n```bash\nsudo /opt/newbee/deploy.sh target/newbee-mall-api-3.0.0-SNAPSHOT.jar\n```\n\n> 脚本依赖 systemd 服务名 `newbee-mall`（见[五、systemd 服务托管](#五systemd-服务托管开机自启崩溃重启)）。\n\n---\n\n## 九、日志与监控\n\n### 9.1 日志配置\n\n生产配置中加入文件日志（见[四、生产配置](#四生产配置文件)）：\n\n```properties\nlogging.file.name=/opt/newbee/logs/application.log\n```\n\n查看方式：\n\n```bash\n# systemd journal（实时）\nsudo journalctl -u newbee-mall -f\n\n# 应用日志文件\ntail -f /opt/newbee/logs/application.log\n```\n\n> 开启 DAO 层 SQL 日志排查用（生产建议关闭，避免刷屏）：`logging.level.ltd.newbee.mall.dao=debug`。\n\n### 9.2 日志切割（logrotate）\n\n```bash\nsudo vim /etc/logrotate.d/newbee-mall\n```\n\n```text\n/opt/newbee/logs/*.log {\n    daily\n    rotate 14\n    compress\n    missingok\n    notifempty\n    copytruncate\n}\n```\n\n### 9.3 监控项与手段\n\n项目**未引入 Spring Boot Actuator**，生产用 OS 级监控即可：\n\n| 监控项           | 手段                                                               |\n| ---------------- | ------------------------------------------------------------------ |\n| 进程/端口存活    | systemd（Restart=always）+ 定时 `curl` 健康检查（见部署脚本）    |\n| JVM / 内存 / CPU | `jcmd`、`jstat`、`top`；可挂 Node Exporter + Prometheus 采集 |\n| 磁盘             | 上传目录 + 日志 + 数据库备份目录容量                               |\n| 数据库           | MySQL 慢查询日志、连接数                                           |\n| 外部告警         | 结合健康检查脚本 + 邮件/企业微信/钉钉 webhook                      |\n\n示例（cron 每 5 分钟健康检查 + 告警占位）：\n\n```bash\n*/5 * * * * curl -sf http://127.0.0.1:28099/api/v1/captcha?userName=admin || echo \"[$(date)] app down\" >> /opt/newbee/logs/health.log\n```\n\n---\n\n## 十、安全加固清单\n\n上线前逐项核对：\n\n- [ ] **修改所有默认密码**：MySQL root/`nyh123`、应用账号 `newbee`/`newbee123`、Redis `redis123`（仓库内 `.env.example`、`application-dev.properties`、`application-prod.properties` 中均有默认值，生产全部替换）\n- [ ] **敏感信息不入 Git**：数据库/Redis 密码用环境变量或启动参数注入（`${DB_PASSWORD}` 等），密码文件加入 `.gitignore`\n- [ ] **防火墙只开 80/443**：`28099 / 3306 / 6379` 不对外暴露；Nginx 反代后 `server.address=127.0.0.1`\n- [ ] **MySQL**：专用低权限账号、`useSSL=true`、`bind-address` 内网/本机、开启定时备份\n- [ ] **Redis**：`requirepass` 强密码、`bind 127.0.0.1`、`protected-mode yes`、开启 AOF 持久化\n- [ ] **HTTPS**：Nginx 配置 TLS 1.2+，HTTP 301 跳转 HTTPS，证书自动续期\n- [ ] **上传目录**：`/tmp/tempupload` → `/opt/newbee/upload`（改 `Constants.java` 重新打包），目录属主为运行用户，限制可写\n- [ ] **生产关闭 Swagger**：`springfox` 未显式开关时默认开启，生产建议通过配置/注解关闭接口文档暴露\n- [ ] **应用运行用户**：使用专用低权限用户 `newbee`（`/sbin/nologin`），勿用 root 运行 JAR\n- [ ] **更新 JVM/依赖漏洞**：关注 Spring Boot 2.7.x 安全补丁版本\n\n---\n\n## 十一、回滚与版本管理\n\n### 11.1 版本管理\n\n- 发布前更新 `pom.xml` 版本号（去掉 `-SNAPSHOT`），如 `3.0.0` → `3.0.1`。\n- 每次发布打 Git tag 并记录变更：`git tag -a v3.0.1 -m \"release v3.0.1\"`。\n- 构建产物命名带版本，便于区分与追溯：`newbee-mall-api-3.0.1.jar`。\n\n### 11.2 回滚策略\n\n部署脚本（见[八、一键脚本](#八部署步骤一键脚本)）已内置\"旧版本归档 + 健康检查失败自动回滚\"。\n\n手动回滚：\n\n```bash\n# 1. 查看可回滚版本\nls -lt /opt/newbee/releases/\n\n# 2. 停服 → 还原 → 重启\nsudo systemctl stop newbee-mall\nsudo cp /opt/newbee/releases/newbee-mall-api-3.0.1-20260101120000.jar /opt/newbee/app/newbee-mall-api-3.0.1.jar\nsudo systemctl start newbee-mall\n\n# 3. 健康检查\ncurl -sf http://127.0.0.1:28099/api/v1/captcha?userName=admin\n```\n\n### 11.3 数据库回滚注意事项\n\n- 升级前**必须**先做数据库备份（见[七、MySQL 备份](#七数据库与-redis-生产加固)）。\n- 若本次发布涉及表结构变更，建议：\n  - 变更脚本与代码**同版本、向后兼容**（先加列、后删列）；\n  - 需要回滚时，用备份恢复或执行对应的逆向迁移脚本，再回退 JAR。\n- 回滚顺序：先回退 JAR → 再处理数据库，避免新代码配旧库、旧代码配新库。\n\n---\n\n## 十二、与本地开发环境差异对照\n\n| 维度       | 本地开发（dev）                                        | 正式生产（prod）                                                   |\n| ---------- | ------------------------------------------------------ | ------------------------------------------------------------------ |\n| Profile    | `application-dev.properties`                         | `application-prod.properties`                                    |\n| 启动命令   | `mvn spring-boot:run -Dspring-boot.run.profiles=dev` | `systemctl start newbee-mall`（`SPRING_PROFILES_ACTIVE=prod`） |\n| 监听地址   | `0.0.0.0`（局域网可访问）                            | `127.0.0.1`（仅经 Nginx）                                        |\n| 对外端口   | 28099 直连                                             | 仅 80/443（Nginx 反代）                                            |\n| MySQL      | Docker（`localhost:33060`，root/nyh123）             | 服务器本机/内网 `3306`，专用账号 + 强密码，`useSSL=true`       |\n| Redis      | Docker（`localhost:63790`，redis123）                | 服务器本机 `6379`，强密码，`bind 127.0.0.1`                    |\n| 上传目录   | `/tmp/tempupload`（重启丢失）                        | `/opt/newbee/upload`（持久化，需改 Constants 重新打包）          |\n| Swagger    | 开启，方便联调                                         | 建议关闭                                                           |\n| SQL 日志   | 可按需开启 `dao=debug`                               | 关闭，避免刷屏                                                     |\n| 进程托管   | 前台/IDE 内运行                                        | systemd 托管（开机自启、崩溃重启）                                 |\n| 日志       | 终端/IDE 控制台                                        | `/opt/newbee/logs/application.log` + journald + logrotate        |\n| 反向代理   | 无                                                     | Nginx + HTTPS                                                      |\n| 数据库备份 | 无（可随时重置）                                       | 每日定时备份，保留 7 天                                            |\n| 回滚       | 无（本地代码可随时改）                                 | 归档版本 + 一键回滚脚本                                            |\n| 数据安全   | 默认弱密码，仅本机                                     | 全部强密码、防火墙收敛、TLS 加密                                   |\n\n### 差异背后的原因\n\n- **端口/地址**：生产由 Nginx 统一入口，应用收敛到回环地址可减少攻击面。\n- **数据库**：开发用 Docker 便捷重置；生产需持久化、备份、最低权限与加密连接。\n- **上传目录**：`/tmp` 重启即清，生产必须落到持久化磁盘。\n- **进程与日志**：生产要求\"挂了能自动拉起、日志能长期排查\"，所以用 systemd + 文件日志 + logrotate。\n\n```\n\n```\n\n开始写作...\n\n",
+        "category": "知识笔记",
+        "description": "java部署",
+        "createdAt": "2026-08-08T05:52:03.265Z",
+        "updatedAt": "2026-08-08T06:24:42.363Z",
+        "id": 4
+      },
+      {
+        "title": "5.nestjs项目部署文档说明",
+        "content": "## Nestjs部署\n\n### 项目部署文档\n\n- 文档整理：[nestjs-vue-production-deployment.md](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/feature/dev/docs/deploy-online/nestjs-vue-production-deployment.md)\n",
+        "category": "知识笔记",
+        "description": "nestjs部署学习",
+        "createdAt": "2026-08-08T05:53:28.747Z",
+        "updatedAt": "2026-08-08T09:36:21.549Z",
+        "id": 5
+      },
+      {
+        "title": "6.前端脚手架模版最新梳理2026",
+        "content": "## 模版资源\n\n### ai脚手架模版1:\n\nhttps://gitee.com/front-end-engineering-project/fantastic-admin-ai.git\n\n\n\n### ruoyi脚手架模版：vue版本\n\n\n\n### ruoyi脚手架模版：react版本\n\n\n\n\n开始写作...\n",
+        "category": "知识笔记",
+        "description": "脚手架模版整理和聚合最新",
+        "createdAt": "2026-08-10T01:42:30.465Z",
+        "updatedAt": "2026-08-10T01:57:26.332Z",
+        "id": 6
+      }
+    ]
+  }
+}
