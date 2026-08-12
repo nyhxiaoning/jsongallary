@@ -1,128 +1,124 @@
 {
-  "version": 1,
-  "updatedAt": "2026-08-12T02:29:48.768Z",
-  "collections": {
+  "version": 2,
+  "track": "java",
+  "updatedAt": "2026-08-12T03:08:50.773Z",
+  "data": {
     "goals": [
       {
-        "id": "mspgkbt9s7jbo",
+        "id": "msphnj02uyhmr",
         "track": "java",
         "title": "Java 后端",
         "phases": [
           {
-            "id": "mspgkbt9mgq0x",
+            "id": "msphnj02yvydb",
             "name": "Phase 1 · 核心基础",
             "desc": "Java 底层与 Spring Boot 框架根基",
             "milestones": [
               {
-                "id": "mspgkbt96sjhz",
+                "id": "msphnj02j7tht",
                 "title": "Java 核心复习：集合框架源码、并发编程（线程池/锁/CAS）、IO/NIO、JVM 内存模型",
-                "done": true
+                "done": false
               },
               {
-                "id": "mspgkbt9m2v5y",
+                "id": "msphnj02bi1l9",
                 "title": "Spring Boot 入门：Starter 机制、配置文件（YAML/Properties）、自动配置原理剖析",
-                "done": true
-              },
-              {
-                "id": "msph1aop8bcup",
-                "title": "xinzeng",
                 "done": false
               }
             ]
           },
           {
-            "id": "mspgkbt928yux",
+            "id": "msphnj027imiy",
             "name": "Phase 2 · Web 层",
             "desc": "RESTful API 开发与接口文档",
             "milestones": [
               {
-                "id": "mspgkbt9w4yyy",
+                "id": "msphnj022j8fa",
                 "title": "Spring MVC：控制器注解、路由映射、参数绑定与校验、统一响应格式",
                 "done": false
               },
               {
-                "id": "mspgkbt9mkt5s",
+                "id": "msphnj02phq22",
                 "title": "参数校验与异常处理：@Valid + Hibernate Validator、全局异常处理器 @ControllerAdvice",
                 "done": false
               },
               {
-                "id": "mspgkbt9s6zf2",
+                "id": "msphnj02jiick",
                 "title": "Swagger 文档：SpringDoc OpenAPI 集成、接口文档自动生成与在线调试",
                 "done": false
               }
             ]
           },
           {
-            "id": "mspgkbt9meuj0",
+            "id": "msphnj02n3gbp",
             "name": "Phase 3 · 数据层",
             "desc": "ORM 框架与数据库事务管理",
             "milestones": [
               {
-                "id": "mspgkbt9mc2ev",
+                "id": "msphnj02mq2rt",
                 "title": "Spring Data JPA：实体映射注解、Repository 接口、JPQL/原生 SQL 查询",
                 "done": false
               },
               {
-                "id": "mspgkbt95r18s",
+                "id": "msphnj029u4k9",
                 "title": "MyBatis-Plus：Mapper 接口、条件构造器、分页插件、代码生成器",
                 "done": false
               },
               {
-                "id": "mspgkbt9s9t1r",
+                "id": "msphnj021i7o3",
                 "title": "事务与连接池：声明式事务 @Transactional、事务传播行为、HikariCP 调优",
                 "done": false
               }
             ]
           },
           {
-            "id": "mspgkbt9u9cc3",
+            "id": "msphnj02mxwkn",
             "name": "Phase 4 · 安全认证",
             "desc": "Spring Security 与 JWT 整合",
             "milestones": [
               {
-                "id": "mspgkbt9di61u",
+                "id": "msphnj02dwthd",
                 "title": "Spring Security：过滤器链原理、UserDetailsService、密码编码器 BCrypt",
                 "done": false
               },
               {
-                "id": "mspgkbt9ev8kv",
+                "id": "msphnj02si54r",
                 "title": "JWT 整合：Token 签发验证、无状态认证、@PreAuthorize 权限注解",
                 "done": false
               },
               {
-                "id": "mspgkbt98mz29",
+                "id": "msphnj02tmgq6",
                 "title": "OAuth2 登录：授权码模式、Spring Security OAuth2、GitHub/微信登录",
                 "done": false
               }
             ]
           },
           {
-            "id": "mspgkbt9eghrf",
+            "id": "msphnj026lauy",
             "name": "Phase 5 · 进阶与微服务",
             "desc": "缓存、消息队列与微服务架构",
             "milestones": [
               {
-                "id": "mspgkbt9lxqa0",
+                "id": "msphnj02v5s20",
                 "title": "Redis 缓存：Spring Data Redis、@Cacheable 缓存注解、缓存穿透/雪崩处理",
                 "done": false
               },
               {
-                "id": "mspgkbt99zbky",
+                "id": "msphnj02zjqq3",
                 "title": "消息队列：RabbitMQ/Kafka 集成、消息可靠性保障、死信队列",
                 "done": false
               },
               {
-                "id": "mspgkbt930bn8",
+                "id": "msphnj02tjrdo",
                 "title": "Spring Cloud：Nacos 注册中心、Gateway 网关、OpenFeign 调用、Sentinel 熔断",
                 "done": false
               },
               {
-                "id": "mspgkbt9zyxzx",
+                "id": "msphnj02p6imf",
                 "title": "Docker 与 CI/CD：Dockerfile、docker-compose、GitHub Actions/Jenkins 自动化",
                 "done": false
               },
               {
-                "id": "mspgkbt9fx9q1",
+                "id": "msphnj02mfg3n",
                 "title": "实战项目：企业级后台管理系统（RBAC 权限、代码生成、日志监控）",
                 "done": false
               }
@@ -133,14 +129,14 @@
     ],
     "tasks": [
       {
-        "id": "mspgkbt95ovfh",
+        "id": "msphnj026cat4",
         "title": "精读 Spring Boot 自动配置源码（@EnableAutoConfiguration）",
         "track": "java",
         "dueDate": "2026-08-12",
         "done": false
       },
       {
-        "id": "mspgkbt92x95k",
+        "id": "msphnj02ilkd4",
         "title": "Spring MVC RESTful API + @Valid 参数校验练习",
         "track": "java",
         "dueDate": "",
