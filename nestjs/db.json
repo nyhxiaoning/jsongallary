@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T02:24:48.496Z",
+  "updatedAt": "2026-08-12T02:24:59.548Z",
   "collections": {
     "goals": [
       {
@@ -16,7 +16,7 @@
               {
                 "id": "msoixuyxlo8na",
                 "title": "NestJS 核心概念：CLI 工具、项目架构、依赖注入（DI/IoC）原理",
-                "done": false
+                "done": true
               },
               {
                 "id": "msoixuyxpwf77",
