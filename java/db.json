@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T02:26:15.942Z",
+  "updatedAt": "2026-08-12T02:26:32.391Z",
   "collections": {
     "goals": [
       {
@@ -16,7 +16,7 @@
               {
                 "id": "mspgkbt96sjhz",
                 "title": "Java 核心复习：集合框架源码、并发编程（线程池/锁/CAS）、IO/NIO、JVM 内存模型",
-                "done": false
+                "done": true
               },
               {
                 "id": "mspgkbt9m2v5y",
