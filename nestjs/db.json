@@ -1,7 +1,7 @@
 {
   "version": 2,
   "track": "nestjs",
-  "updatedAt": "2026-08-12T02:43:05.584Z",
+  "updatedAt": "2026-08-12T02:44:32.783Z",
   "data": {
     "goals": [
       {
@@ -148,6 +148,15 @@
         "done": false
       }
     ],
-    "logs": []
+    "logs": [
+      {
+        "id": "msphk3ydeoja8",
+        "date": "2026-08-12",
+        "track": "nestjs",
+        "content": "dakdak",
+        "duration": 0,
+        "notes": "121"
+      }
+    ]
   }
 }
