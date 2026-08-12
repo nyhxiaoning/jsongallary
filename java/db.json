@@ -1,129 +1,119 @@
 {
   "version": 2,
   "track": "java",
-  "updatedAt": "2026-08-12T05:27:35.330Z",
+  "updatedAt": "2026-08-12T05:47:45.977Z",
   "data": {
     "goals": [
       {
-        "id": "msph2a2oaymtb",
+        "id": "mspo1vw2evazh",
         "track": "nestjs",
         "title": "NestJS 后端",
         "phases": [
           {
-            "id": "msph2a2ob4z1v",
+            "id": "mspo1vw2v125t",
             "name": "Phase 1 · 基础入门",
             "desc": "框架核心理念与基础开发能力",
             "milestones": [
               {
-                "id": "msph2a2o9ji7t",
+                "id": "mspo1vw2eis09",
                 "title": "NestJS 核心概念：CLI 工具、项目架构、依赖注入（DI/IoC）原理",
-                "done": true
+                "done": false
               },
               {
-                "id": "msph2a2oflsh1",
+                "id": "mspo1vw2ig4y0",
                 "title": "控制器与路由：路由装饰器、请求方法、参数提取、DTO 数据传输对象",
-                "done": false
-              },
-              {
-                "id": "msphhc1itbnis",
-                "title": "1223",
-                "done": false
-              },
-              {
-                "id": "msphhdb0vyevl",
-                "title": "122322",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2onov9y",
+            "id": "mspo1vw2mrb9e",
             "name": "Phase 2 · 数据层",
             "desc": "数据库集成与 ORM 实践",
             "milestones": [
               {
-                "id": "msph2a2omusko",
+                "id": "mspo1vw2oxwhg",
                 "title": "TypeORM 集成：实体定义、关系映射（1:1 / 1:N / N:N）、Repository 模式",
                 "done": false
               },
               {
-                "id": "msph2a2ojclv5",
+                "id": "mspo1vw21u1zi",
                 "title": "数据库进阶：事务处理、QueryBuilder 复杂查询、分页排序、索引优化",
                 "done": false
               },
               {
-                "id": "msph2a2o0okk5",
+                "id": "mspo1vw298ath",
                 "title": "Prisma ORM：Schema 定义、迁移机制、查询 API、与 TypeORM 对比选型",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2o68q6v",
+            "id": "mspo1vw2wivcz",
             "name": "Phase 3 · 安全认证",
             "desc": "JWT 认证与权限控制体系",
             "milestones": [
               {
-                "id": "msph2a2oe9qv8",
+                "id": "mspo1vw2ellly",
                 "title": "JWT 认证体系：Passport 策略、Token 签发与刷新、bcrypt 密码加密",
                 "done": false
               },
               {
-                "id": "msph2a2o6krha",
+                "id": "mspo1vw21p79a",
                 "title": "Guards 权限控制：AuthGuard 守卫、Roles 装饰器、RBAC 角色权限模型",
                 "done": false
               },
               {
-                "id": "msph2a2o0dk1x",
+                "id": "mspo1vw289r58",
                 "title": "OAuth2 社交登录：Passport 策略扩展、GitHub/Google 第三方登录集成",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2ouoxfw",
+            "id": "mspo1vw2nk4m5",
             "name": "Phase 4 · 进阶架构",
             "desc": "AOP 组件、实时通信与任务队列",
             "milestones": [
               {
-                "id": "msph2a2onnntq",
+                "id": "mspo1vw23qebd",
                 "title": "AOP 组件全解：中间件链、拦截器（日志/响应转换）、管道（验证/转换）、异常过滤器",
                 "done": false
               },
               {
-                "id": "msph2a2oik5fz",
+                "id": "mspo1vw28oa5i",
                 "title": "WebSocket 实时通信：Gateway 网关、Socket.IO 适配器、房间管理与广播机制",
                 "done": false
               },
               {
-                "id": "msph2a2onqybp",
+                "id": "mspo1vw20g1t6",
                 "title": "定时任务与队列：@nestjs/schedule 定时器、Bull 队列、Redis 任务分发",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2otngny",
+            "id": "mspo1vw2k4bnh",
             "name": "Phase 5 · 微服务与工程化",
             "desc": "微服务架构、测试与部署",
             "milestones": [
               {
-                "id": "msph2a2o6ifec",
+                "id": "mspo1vw25c36f",
                 "title": "微服务架构：Transport 传输层、TCP/Redis/RabbitMQ 通信、事件驱动模式",
                 "done": false
               },
               {
-                "id": "msph2a2o7wz1j",
+                "id": "mspo1vw2zjffm",
                 "title": "测试与文档：Jest 单元测试、E2E 测试、Swagger/OpenAPI 自动文档生成",
                 "done": false
               },
               {
-                "id": "msph2a2og6q0e",
+                "id": "mspo1vw2omlmn",
                 "title": "Docker 部署：Dockerfile 编写、docker-compose 多服务编排、CI/CD 流水线",
                 "done": false
               },
               {
-                "id": "msph2a2odw748",
+                "id": "mspo1vw208q4r",
                 "title": "实战项目：完整 RESTful API + WebSocket + 权限系统",
                 "done": false
               }
@@ -134,52 +124,20 @@
     ],
     "tasks": [
       {
-        "id": "msph2a2oveihj",
+        "id": "mspo1vw2v7ghk",
         "title": "TypeORM 实体关系映射（一对多/多对多）练习",
         "track": "nestjs",
         "dueDate": "2026-08-12",
         "done": false
       },
       {
-        "id": "msph2a2ousd6m",
+        "id": "mspo1vw20673d",
         "title": "NestJS Guards + JWT 认证完整实现",
         "track": "nestjs",
         "dueDate": "",
         "done": false
-      },
-      {
-        "id": "mspicf9u77vzj",
-        "title": "677",
-        "track": "nestjs",
-        "dueDate": "2026-08-12",
-        "done": false
       }
     ],
-    "logs": [
-      {
-        "id": "msphk3ydeoja8",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "dakdak",
-        "duration": 0,
-        "notes": "121"
-      },
-      {
-        "id": "mspi0t2yt47qw",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "打卡三",
-        "duration": 0,
-        "notes": "33"
-      },
-      {
-        "id": "mspie0esgww6j",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "288",
-        "duration": 0,
-        "notes": "222"
-      }
-    ]
+    "logs": []
   }
 }
