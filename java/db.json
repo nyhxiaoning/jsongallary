@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T02:26:05.514Z",
+  "updatedAt": "2026-08-12T02:26:15.942Z",
   "collections": {
     "goals": [
       {
@@ -21,7 +21,7 @@
               {
                 "id": "mspgkbt9m2v5y",
                 "title": "Spring Boot 入门：Starter 机制、配置文件（YAML/Properties）、自动配置原理剖析",
-                "done": false
+                "done": true
               }
             ]
           },
