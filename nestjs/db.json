@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T02:24:59.548Z",
+  "updatedAt": "2026-08-12T02:28:26.540Z",
   "collections": {
     "goals": [
       {
@@ -134,6 +134,13 @@
         "title": "NestJS Guards + JWT 认证完整实现",
         "track": "nestjs",
         "dueDate": "",
+        "done": false
+      },
+      {
+        "id": "mspgzbgkmc5nw",
+        "title": "美丽",
+        "track": "nestjs",
+        "dueDate": "2026-08-12",
         "done": false
       }
     ],
