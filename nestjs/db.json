@@ -1,130 +1,125 @@
 {
   "version": 2,
   "track": "nestjs",
-  "updatedAt": "2026-08-12T03:26:12.435Z",
+  "updatedAt": "2026-08-13T02:04:34.203Z",
   "data": {
     "goals": [
       {
-        "id": "msph2a2oaymtb",
-        "track": "nestjs",
-        "title": "NestJS 后端",
+        "id": "mspq59svkd76i",
+        "track": "java",
+        "title": "Java 后端",
         "phases": [
           {
-            "id": "msph2a2ob4z1v",
-            "name": "Phase 1 · 基础入门",
-            "desc": "框架核心理念与基础开发能力",
+            "id": "mspq59svvol32",
+            "name": "Phase 1 · 核心基础",
+            "desc": "Java 底层与 Spring Boot 框架根基",
             "milestones": [
               {
-                "id": "msph2a2o9ji7t",
-                "title": "NestJS 核心概念：CLI 工具、项目架构、依赖注入（DI/IoC）原理",
-                "done": true
-              },
-              {
-                "id": "msph2a2oflsh1",
-                "title": "控制器与路由：路由装饰器、请求方法、参数提取、DTO 数据传输对象",
+                "id": "mspq59sv3x20q",
+                "title": "Java 核心复习：集合框架源码、并发编程（线程池/锁/CAS）、IO/NIO、JVM 内存模型",
                 "done": false
               },
               {
-                "id": "msphhc1itbnis",
-                "title": "1223",
-                "done": false
-              },
-              {
-                "id": "msphhdb0vyevl",
-                "title": "122322",
+                "id": "mspq59svy4khi",
+                "title": "Spring Boot 入门：Starter 机制、配置文件（YAML/Properties）、自动配置原理剖析",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2onov9y",
-            "name": "Phase 2 · 数据层",
-            "desc": "数据库集成与 ORM 实践",
+            "id": "mspq59sv2vogd",
+            "name": "Phase 2 · Web 层",
+            "desc": "RESTful API 开发与接口文档",
             "milestones": [
               {
-                "id": "msph2a2omusko",
-                "title": "TypeORM 集成：实体定义、关系映射（1:1 / 1:N / N:N）、Repository 模式",
+                "id": "mspq59svehd0b",
+                "title": "Spring MVC：控制器注解、路由映射、参数绑定与校验、统一响应格式",
                 "done": false
               },
               {
-                "id": "msph2a2ojclv5",
-                "title": "数据库进阶：事务处理、QueryBuilder 复杂查询、分页排序、索引优化",
+                "id": "mspq59sv813rb",
+                "title": "参数校验与异常处理：@Valid + Hibernate Validator、全局异常处理器 @ControllerAdvice",
                 "done": false
               },
               {
-                "id": "msph2a2o0okk5",
-                "title": "Prisma ORM：Schema 定义、迁移机制、查询 API、与 TypeORM 对比选型",
+                "id": "mspq59svo3kc5",
+                "title": "Swagger 文档：SpringDoc OpenAPI 集成、接口文档自动生成与在线调试",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2o68q6v",
-            "name": "Phase 3 · 安全认证",
-            "desc": "JWT 认证与权限控制体系",
+            "id": "mspq59sv508yh",
+            "name": "Phase 3 · 数据层",
+            "desc": "ORM 框架与数据库事务管理",
             "milestones": [
               {
-                "id": "msph2a2oe9qv8",
-                "title": "JWT 认证体系：Passport 策略、Token 签发与刷新、bcrypt 密码加密",
+                "id": "mspq59svg1dy7",
+                "title": "Spring Data JPA：实体映射注解、Repository 接口、JPQL/原生 SQL 查询",
                 "done": false
               },
               {
-                "id": "msph2a2o6krha",
-                "title": "Guards 权限控制：AuthGuard 守卫、Roles 装饰器、RBAC 角色权限模型",
+                "id": "mspq59sw6sbio",
+                "title": "MyBatis-Plus：Mapper 接口、条件构造器、分页插件、代码生成器",
                 "done": false
               },
               {
-                "id": "msph2a2o0dk1x",
-                "title": "OAuth2 社交登录：Passport 策略扩展、GitHub/Google 第三方登录集成",
+                "id": "mspq59swyfzaf",
+                "title": "事务与连接池：声明式事务 @Transactional、事务传播行为、HikariCP 调优",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2ouoxfw",
-            "name": "Phase 4 · 进阶架构",
-            "desc": "AOP 组件、实时通信与任务队列",
+            "id": "mspq59swtwc60",
+            "name": "Phase 4 · 安全认证",
+            "desc": "Spring Security 与 JWT 整合",
             "milestones": [
               {
-                "id": "msph2a2onnntq",
-                "title": "AOP 组件全解：中间件链、拦截器（日志/响应转换）、管道（验证/转换）、异常过滤器",
+                "id": "mspq59swgpgbn",
+                "title": "Spring Security：过滤器链原理、UserDetailsService、密码编码器 BCrypt",
                 "done": false
               },
               {
-                "id": "msph2a2oik5fz",
-                "title": "WebSocket 实时通信：Gateway 网关、Socket.IO 适配器、房间管理与广播机制",
+                "id": "mspq59sw4ehgk",
+                "title": "JWT 整合：Token 签发验证、无状态认证、@PreAuthorize 权限注解",
                 "done": false
               },
               {
-                "id": "msph2a2onqybp",
-                "title": "定时任务与队列：@nestjs/schedule 定时器、Bull 队列、Redis 任务分发",
+                "id": "mspq59sw6dl7s",
+                "title": "OAuth2 登录：授权码模式、Spring Security OAuth2、GitHub/微信登录",
                 "done": false
               }
             ]
           },
           {
-            "id": "msph2a2otngny",
-            "name": "Phase 5 · 微服务与工程化",
-            "desc": "微服务架构、测试与部署",
+            "id": "mspq59swnsovg",
+            "name": "Phase 5 · 进阶与微服务",
+            "desc": "缓存、消息队列与微服务架构",
             "milestones": [
               {
-                "id": "msph2a2o6ifec",
-                "title": "微服务架构：Transport 传输层、TCP/Redis/RabbitMQ 通信、事件驱动模式",
+                "id": "mspq59swf3w5q",
+                "title": "Redis 缓存：Spring Data Redis、@Cacheable 缓存注解、缓存穿透/雪崩处理",
                 "done": false
               },
               {
-                "id": "msph2a2o7wz1j",
-                "title": "测试与文档：Jest 单元测试、E2E 测试、Swagger/OpenAPI 自动文档生成",
+                "id": "mspq59swug9fe",
+                "title": "消息队列：RabbitMQ/Kafka 集成、消息可靠性保障、死信队列",
                 "done": false
               },
               {
-                "id": "msph2a2og6q0e",
-                "title": "Docker 部署：Dockerfile 编写、docker-compose 多服务编排、CI/CD 流水线",
+                "id": "mspq59swyo4xg",
+                "title": "Spring Cloud：Nacos 注册中心、Gateway 网关、OpenFeign 调用、Sentinel 熔断",
                 "done": false
               },
               {
-                "id": "msph2a2odw748",
-                "title": "实战项目：完整 RESTful API + WebSocket + 权限系统",
+                "id": "mspq59sw2q89m",
+                "title": "Docker 与 CI/CD：Dockerfile、docker-compose、GitHub Actions/Jenkins 自动化",
+                "done": false
+              },
+              {
+                "id": "mspq59sw0qihk",
+                "title": "实战项目：企业级后台管理系统（RBAC 权限、代码生成、日志监控）",
                 "done": false
               }
             ]
@@ -134,52 +129,20 @@
     ],
     "tasks": [
       {
-        "id": "msph2a2oveihj",
-        "title": "TypeORM 实体关系映射（一对多/多对多）练习",
-        "track": "nestjs",
+        "id": "mspq59swrozb0",
+        "title": "精读 Spring Boot 自动配置源码（@EnableAutoConfiguration）",
+        "track": "java",
         "dueDate": "2026-08-12",
         "done": false
       },
       {
-        "id": "msph2a2ousd6m",
-        "title": "NestJS Guards + JWT 认证完整实现",
-        "track": "nestjs",
+        "id": "mspq59swq6999",
+        "title": "Spring MVC RESTful API + @Valid 参数校验练习",
+        "track": "java",
         "dueDate": "",
-        "done": false
-      },
-      {
-        "id": "mspicf9u77vzj",
-        "title": "677",
-        "track": "nestjs",
-        "dueDate": "2026-08-12",
         "done": false
       }
     ],
-    "logs": [
-      {
-        "id": "msphk3ydeoja8",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "dakdak",
-        "duration": 0,
-        "notes": "121"
-      },
-      {
-        "id": "mspi0t2yt47qw",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "打卡三",
-        "duration": 0,
-        "notes": "33"
-      },
-      {
-        "id": "mspie0esgww6j",
-        "date": "2026-08-12",
-        "track": "nestjs",
-        "content": "288",
-        "duration": 0,
-        "notes": "222"
-      }
-    ]
+    "logs": []
   }
 }
