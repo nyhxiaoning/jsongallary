@@ -1,7 +1,7 @@
 {
   "version": 2,
   "track": "nestjs",
-  "updatedAt": "2026-08-14T02:48:50.873Z",
+  "updatedAt": "2026-08-14T02:49:20.456Z",
   "data": {
     "goals": [
       {
@@ -128,7 +128,24 @@
         ]
       }
     ],
-    "tasks": [],
-    "logs": []
+    "tasks": [
+      {
+        "id": "msscm0622slvk",
+        "title": "新任务",
+        "track": "nestjs",
+        "dueDate": "2026-08-14",
+        "done": false
+      }
+    ],
+    "logs": [
+      {
+        "id": "mssclw21i6ige",
+        "date": "2026-08-14",
+        "track": "nestjs",
+        "content": "nestjs大哥卡",
+        "duration": 0,
+        "notes": "打卡"
+      }
+    ]
   }
 }
