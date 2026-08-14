@@ -1,119 +1,125 @@
 {
   "version": 2,
   "track": "nestjs",
-  "updatedAt": "2026-08-14T02:16:48.376Z",
+  "updatedAt": "2026-08-14T02:48:50.873Z",
   "data": {
     "goals": [
       {
-        "id": "msodq1418h58p",
+        "id": "msscked2s8xo5",
+        "templateId": "builtin-nestjs",
         "track": "nestjs",
-        "title": "NestJS 后端",
+        "title": "NestJS 后端开发",
         "phases": [
           {
-            "id": "msodq141p84lu",
+            "id": "msscked29cbgy",
             "name": "Phase 1 · 基础入门",
             "desc": "框架核心理念与基础开发能力",
             "milestones": [
               {
-                "id": "msodq141t1zc9",
+                "id": "msscked234ddy",
                 "title": "NestJS 核心概念：CLI 工具、项目架构、依赖注入（DI/IoC）原理",
                 "done": false
               },
               {
-                "id": "msodq1414f32e",
+                "id": "msscked20s43n",
                 "title": "控制器与路由：路由装饰器、请求方法、参数提取、DTO 数据传输对象",
+                "done": false
+              },
+              {
+                "id": "mssckybfvm7zp",
+                "title": "新增：一个项目架构和对应文件夹学习",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq1410j3mn",
+            "id": "msscked2vntuk",
             "name": "Phase 2 · 数据层",
             "desc": "数据库集成与 ORM 实践",
             "milestones": [
               {
-                "id": "msodq141ni3n0",
+                "id": "msscked2ka6gz",
                 "title": "TypeORM 集成：实体定义、关系映射（1:1 / 1:N / N:N）、Repository 模式",
                 "done": false
               },
               {
-                "id": "msodq141se4e5",
+                "id": "msscked2bmeft",
                 "title": "数据库进阶：事务处理、QueryBuilder 复杂查询、分页排序、索引优化",
-                "done": true
+                "done": false
               },
               {
-                "id": "msodq141gb4w2",
+                "id": "msscked2irl4n",
                 "title": "Prisma ORM：Schema 定义、迁移机制、查询 API、与 TypeORM 对比选型",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141jzm3q",
+            "id": "msscked2bg8l7",
             "name": "Phase 3 · 安全认证",
             "desc": "JWT 认证与权限控制体系",
             "milestones": [
               {
-                "id": "msodq141266qe",
+                "id": "msscked2tjzkj",
                 "title": "JWT 认证体系：Passport 策略、Token 签发与刷新、bcrypt 密码加密",
                 "done": false
               },
               {
-                "id": "msodq141as8hg",
+                "id": "msscked21u67v",
                 "title": "Guards 权限控制：AuthGuard 守卫、Roles 装饰器、RBAC 角色权限模型",
                 "done": false
               },
               {
-                "id": "msodq141s3osq",
+                "id": "msscked2m02nf",
                 "title": "OAuth2 社交登录：Passport 策略扩展、GitHub/Google 第三方登录集成",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141awje4",
+            "id": "msscked24xqak",
             "name": "Phase 4 · 进阶架构",
             "desc": "AOP 组件、实时通信与任务队列",
             "milestones": [
               {
-                "id": "msodq1411iztm",
+                "id": "msscked2l3qn7",
                 "title": "AOP 组件全解：中间件链、拦截器（日志/响应转换）、管道（验证/转换）、异常过滤器",
                 "done": false
               },
               {
-                "id": "msodq1414h0o7",
+                "id": "msscked2bv103",
                 "title": "WebSocket 实时通信：Gateway 网关、Socket.IO 适配器、房间管理与广播机制",
                 "done": false
               },
               {
-                "id": "msodq1417gbnu",
+                "id": "msscked28gq5l",
                 "title": "定时任务与队列：@nestjs/schedule 定时器、Bull 队列、Redis 任务分发",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141a54m2",
+            "id": "msscked28dk55",
             "name": "Phase 5 · 微服务与工程化",
             "desc": "微服务架构、测试与部署",
             "milestones": [
               {
-                "id": "msodq141akr96",
+                "id": "msscked2lwt89",
                 "title": "微服务架构：Transport 传输层、TCP/Redis/RabbitMQ 通信、事件驱动模式",
                 "done": false
               },
               {
-                "id": "msodq141u056l",
+                "id": "msscked28muyv",
                 "title": "测试与文档：Jest 单元测试、E2E 测试、Swagger/OpenAPI 自动文档生成",
                 "done": false
               },
               {
-                "id": "msodq141ku770",
+                "id": "msscked2ukh09",
                 "title": "Docker 部署：Dockerfile 编写、docker-compose 多服务编排、CI/CD 流水线",
                 "done": false
               },
               {
-                "id": "msodq141c2mf0",
+                "id": "msscked218fo1",
                 "title": "实战项目：完整 RESTful API + WebSocket + 权限系统",
                 "done": false
               }
@@ -122,22 +128,7 @@
         ]
       }
     ],
-    "tasks": [
-      {
-        "id": "msodq141wwht0",
-        "title": "TypeORM 实体关系映射（一对多/多对多）练习",
-        "track": "nestjs",
-        "dueDate": "2026-08-11",
-        "done": false
-      },
-      {
-        "id": "msodq1413d8fd",
-        "title": "NestJS Guards + JWT 认证完整实现",
-        "track": "nestjs",
-        "dueDate": "",
-        "done": false
-      }
-    ],
+    "tasks": [],
     "logs": []
   }
 }
