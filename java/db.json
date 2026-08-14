@@ -1,120 +1,136 @@
 {
   "version": 2,
   "track": "java",
-  "updatedAt": "2026-08-14T02:20:45.219Z",
+  "updatedAt": "2026-08-14T02:50:11.131Z",
   "data": {
     "goals": [
       {
-        "id": "msodq1418h58p",
-        "track": "nestjs",
-        "title": "NestJS 后端",
+        "id": "mssck22n81kbg",
+        "templateId": "builtin-java",
+        "track": "java",
+        "title": "Java 后端开发",
         "phases": [
           {
-            "id": "msodq141p84lu",
-            "name": "Phase 1 · 基础入门",
-            "desc": "框架核心理念与基础开发能力",
+            "id": "mssck22nj05lw",
+            "name": "Phase 1 · 核心基础",
+            "desc": "Java 底层与 Spring Boot 框架根基",
             "milestones": [
               {
-                "id": "msodq141t1zc9",
-                "title": "NestJS 核心概念：CLI 工具、项目架构、依赖注入（DI/IoC）原理",
+                "id": "mssck22nd6h9k",
+                "title": "Java 核心复习：集合框架源码、并发编程（线程池/锁/CAS）、IO/NIO、JVM 内存模型",
                 "done": false
               },
               {
-                "id": "msodq1414f32e",
-                "title": "控制器与路由：路由装饰器、请求方法、参数提取、DTO 数据传输对象",
+                "id": "mssck22nl303p",
+                "title": "Spring Boot 入门：Starter 机制、配置文件（YAML/Properties）、自动配置原理剖析",
+                "done": false
+              },
+              {
+                "id": "msscmfcysp4hr",
+                "title": "Java",
+                "done": false
+              },
+              {
+                "id": "msscmkcvsjj19",
+                "title": "Java基本模块模块学习",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq1410j3mn",
-            "name": "Phase 2 · 数据层",
-            "desc": "数据库集成与 ORM 实践",
+            "id": "mssck22nc6rze",
+            "name": "Phase 2 · Web 层",
+            "desc": "RESTful API 开发与接口文档",
             "milestones": [
               {
-                "id": "msodq141ni3n0",
-                "title": "TypeORM 集成：实体定义、关系映射（1:1 / 1:N / N:N）、Repository 模式",
+                "id": "mssck22nirwld",
+                "title": "Spring MVC：控制器注解、路由映射、参数绑定与校验、统一响应格式",
                 "done": false
               },
               {
-                "id": "msodq141se4e5",
-                "title": "数据库进阶：事务处理、QueryBuilder 复杂查询、分页排序、索引优化",
-                "done": true
+                "id": "mssck22n35nru",
+                "title": "参数校验与异常处理：@Valid + Hibernate Validator、全局异常处理器 @ControllerAdvice",
+                "done": false
               },
               {
-                "id": "msodq141gb4w2",
-                "title": "Prisma ORM：Schema 定义、迁移机制、查询 API、与 TypeORM 对比选型",
+                "id": "mssck22nqixy9",
+                "title": "Swagger 文档：SpringDoc OpenAPI 集成、接口文档自动生成与在线调试",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141jzm3q",
-            "name": "Phase 3 · 安全认证",
-            "desc": "JWT 认证与权限控制体系",
+            "id": "mssck22n6wwfs",
+            "name": "Phase 3 · 数据层",
+            "desc": "ORM 框架与数据库事务管理",
             "milestones": [
               {
-                "id": "msodq141266qe",
-                "title": "JWT 认证体系：Passport 策略、Token 签发与刷新、bcrypt 密码加密",
+                "id": "mssck22ne3ssj",
+                "title": "Spring Data JPA：实体映射注解、Repository 接口、JPQL/原生 SQL 查询",
                 "done": false
               },
               {
-                "id": "msodq141as8hg",
-                "title": "Guards 权限控制：AuthGuard 守卫、Roles 装饰器、RBAC 角色权限模型",
+                "id": "mssck22n2gyzs",
+                "title": "MyBatis-Plus：Mapper 接口、条件构造器、分页插件、代码生成器",
                 "done": false
               },
               {
-                "id": "msodq141s3osq",
-                "title": "OAuth2 社交登录：Passport 策略扩展、GitHub/Google 第三方登录集成",
+                "id": "mssck22n0psx8",
+                "title": "事务与连接池：声明式事务 @Transactional、事务传播行为、HikariCP 调优",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141awje4",
-            "name": "Phase 4 · 进阶架构",
-            "desc": "AOP 组件、实时通信与任务队列",
+            "id": "mssck22notudz",
+            "name": "Phase 4 · 安全认证",
+            "desc": "Spring Security 与 JWT 整合",
             "milestones": [
               {
-                "id": "msodq1411iztm",
-                "title": "AOP 组件全解：中间件链、拦截器（日志/响应转换）、管道（验证/转换）、异常过滤器",
+                "id": "mssck22nyy8d7",
+                "title": "Spring Security：过滤器链原理、UserDetailsService、密码编码器 BCrypt",
                 "done": false
               },
               {
-                "id": "msodq1414h0o7",
-                "title": "WebSocket 实时通信：Gateway 网关、Socket.IO 适配器、房间管理与广播机制",
+                "id": "mssck22nywe4m",
+                "title": "JWT 整合：Token 签发验证、无状态认证、@PreAuthorize 权限注解",
                 "done": false
               },
               {
-                "id": "msodq1417gbnu",
-                "title": "定时任务与队列：@nestjs/schedule 定时器、Bull 队列、Redis 任务分发",
+                "id": "mssck22nvtn89",
+                "title": "OAuth2 登录：授权码模式、Spring Security OAuth2、GitHub/微信登录",
                 "done": false
               }
             ]
           },
           {
-            "id": "msodq141a54m2",
-            "name": "Phase 5 · 微服务与工程化",
-            "desc": "微服务架构、测试与部署",
+            "id": "mssck22nk5z13",
+            "name": "Phase 5 · 进阶与微服务",
+            "desc": "缓存、消息队列与微服务架构",
             "milestones": [
               {
-                "id": "msodq141akr96",
-                "title": "微服务架构：Transport 传输层、TCP/Redis/RabbitMQ 通信、事件驱动模式",
+                "id": "mssck22n97dzn",
+                "title": "Redis 缓存：Spring Data Redis、@Cacheable 缓存注解、缓存穿透/雪崩处理",
                 "done": false
               },
               {
-                "id": "msodq141u056l",
-                "title": "测试与文档：Jest 单元测试、E2E 测试、Swagger/OpenAPI 自动文档生成",
+                "id": "mssck22njj54w",
+                "title": "消息队列：RabbitMQ/Kafka 集成、消息可靠性保障、死信队列",
                 "done": false
               },
               {
-                "id": "msodq141ku770",
-                "title": "Docker 部署：Dockerfile 编写、docker-compose 多服务编排、CI/CD 流水线",
+                "id": "mssck22n36myg",
+                "title": "Spring Cloud：Nacos 注册中心、Gateway 网关、OpenFeign 调用、Sentinel 熔断",
                 "done": false
               },
               {
-                "id": "msodq141c2mf0",
-                "title": "实战项目：完整 RESTful API + WebSocket + 权限系统",
+                "id": "mssck22nym7x7",
+                "title": "Docker 与 CI/CD：Dockerfile、docker-compose、GitHub Actions/Jenkins 自动化",
+                "done": false
+              },
+              {
+                "id": "mssck22ndtkc0",
+                "title": "实战项目：企业级后台管理系统（RBAC 权限、代码生成、日志监控）",
                 "done": false
               }
             ]
@@ -124,20 +140,29 @@
     ],
     "tasks": [
       {
-        "id": "msodq141wwht0",
-        "title": "TypeORM 实体关系映射（一对多/多对多）练习",
-        "track": "nestjs",
-        "dueDate": "2026-08-11",
+        "id": "msscjx3p3zvxu",
+        "title": "任务完成",
+        "track": "java",
+        "dueDate": "2026-08-14",
         "done": false
       },
       {
-        "id": "msodq1413d8fd",
-        "title": "NestJS Guards + JWT 认证完整实现",
-        "track": "nestjs",
-        "dueDate": "",
+        "id": "msscmqgccy296",
+        "title": "大哥卡",
+        "track": "java",
+        "dueDate": "2026-08-14",
         "done": false
       }
     ],
-    "logs": []
+    "logs": [
+      {
+        "id": "msscmz4v427dq",
+        "date": "2026-08-14",
+        "track": "java",
+        "content": "每天都要学习java",
+        "duration": 0,
+        "notes": "java学习每天"
+      }
+    ]
   }
 }
