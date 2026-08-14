@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-10T01:57:28.241Z",
+  "updatedAt": "2026-08-14T06:43:23.578Z",
   "collections": {
     "markdowns": [
       {
@@ -56,6 +56,15 @@
         "createdAt": "2026-08-10T01:42:30.465Z",
         "updatedAt": "2026-08-10T01:57:26.332Z",
         "id": 6
+      },
+      {
+        "title": "000常用Nestjs核心知识复习常用",
+        "content": "## 1.模块1: AOP和DTO相关术语学习\n\n[nestjs学习常见技术术语](https://my.feishu.cn/docx/WeN5dIBOuoDKCoxaO8JcehpZnpI#WwtndLgyxopxHJxxElHcLcPunbr \"飞书资料\")\n",
+        "category": "知识笔记",
+        "description": "Nestjs常见AOP，编程模式，术语，架构说明，DTO，数据库设计相关",
+        "createdAt": "2026-08-14T06:41:55.844Z",
+        "updatedAt": "2026-08-14T06:43:11.024Z",
+        "id": 7
       }
     ],
     "prompts": [],
