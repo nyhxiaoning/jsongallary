@@ -1,7 +1,7 @@
 {
   "version": 2,
   "track": "nestjs",
-  "updatedAt": "2026-08-14T02:49:20.456Z",
+  "updatedAt": "2026-08-20T23:03:05.705Z",
   "data": {
     "goals": [
       {
@@ -28,7 +28,7 @@
               {
                 "id": "mssckybfvm7zp",
                 "title": "新增：一个项目架构和对应文件夹学习",
-                "done": false
+                "done": true
               }
             ]
           },
