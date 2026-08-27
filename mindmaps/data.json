@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-27T10:22:51.458Z",
+  "updatedAt": "2026-08-27T10:25:18.223Z",
   "collections": {
     "mindmaps": [
       {
@@ -24,7 +24,7 @@
         "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n- 下一个项目vue-bag-admin\n[vue-bag-admin](https://github.com/nyhxiaoning/vue-bag-admin.git)\n\n- 下一个项目ruoyi项目完成nestjs对接\n难度比较大，因为涉及多张表（可以改为简单的）\n\n## 文档1: 01开发文档记录\n- [实时记录开发的历史问题](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/01%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%E8%AE%B0%E5%BD%95.md)\n\n## 文档2: 02项目开发完成后复盘使用\n\n- [02项目开发完成后复盘使用](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/02%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%8C%E6%88%90%E5%90%8E%E5%A4%8D%E7%9B%98%E6%9F%A5%E7%BC%BA%E8%A1%A5%E6%BC%8F%E8%AE%B0%E5%BD%95.md)\n\n\n\n\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n### 通过navicat手写命令行不会：console\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
         "category": "知识笔记",
         "createdAt": "2026-08-05T05:34:31.720Z",
-        "updatedAt": "2026-08-27T10:22:49.956Z",
+        "updatedAt": "2026-08-27T10:25:15.728Z",
         "id": 3
       }
     ],
