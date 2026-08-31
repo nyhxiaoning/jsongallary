@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-31T05:40:38.101Z",
+  "updatedAt": "2026-08-31T06:58:02.992Z",
   "collections": {
     "mindmaps": [
       {
@@ -21,10 +21,10 @@
       },
       {
         "title": "1.学习Soybean项目查缺补漏",
-        "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n## 下一个项目vue-bag-admin\n[vue-bag-admin](https://github.com/nyhxiaoning/vue-bag-admin.git)\n### 因为这个项目相对简单，项目很整齐\n### 复盘文档\n\n### 参考功能说明，这样开发后端相对简单\n- [地址链接](https://hangjob.github.io/vue-bag-admin/docs/guide/introduction.html)\n\n### 开发记录分支\n\n## 下一个项目ruoyi项目完成nestjs对接\n难度比较大，因为涉及多张表（可以改为简单的）\n\n## 文档1: 01开发文档记录\n- [实时记录开发的历史问题](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/01%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%E8%AE%B0%E5%BD%95.md)\n\n## 文档2: 02项目开发完成后复盘使用\n\n- [02项目开发完成后复盘使用](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/02%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%8C%E6%88%90%E5%90%8E%E5%A4%8D%E7%9B%98%E6%9F%A5%E7%BC%BA%E8%A1%A5%E6%BC%8F%E8%AE%B0%E5%BD%95.md)\n\n\n\n\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n### 通过navicat手写命令行不会：console\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
+        "content": "# 通过问题模块化补充整体技术[项目代码地址](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n## 第二个项目vue-bag-admin\n[vue-bag-admin](https://github.com/nyhxiaoning/vue-bag-admin.git)\n### 因为这个项目相对简单，项目很整齐：模块开发，prisma，部署熟练化\n### 复盘文档和数据库对齐，基于：[nest-admin-soybean新的分支地址：分支：vue-bag-admin,数据库和模块重新0-1，避免覆盖](https://github.com/nyhxiaoning/Nest-Admin-Soybean.git)\n\n### 参考功能说明，这样开发后端相对简单\n- [地址链接](https://hangjob.github.io/vue-bag-admin/docs/guide/introduction.html)\n\n### 开发记录分支\n\n## 第三个项目ruoyi项目完成nestjs对接\n难度比较大，因为涉及多张表（可以改为简单的）\n\n## 整理复盘nestjs问题后：文档1: 01开发文档记录\n- [实时记录开发的历史问题](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/01%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%E8%AE%B0%E5%BD%95.md)\n\n## 重新Java项目规划：文档2: 02项目开发完成后复盘使用后，nestjs尝试将creator-center对应两个模块转成java\n\n- [02项目开发完成后复盘使用](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/1ac490a20e13724ba231bc9bf5761abbccea96cb/02%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%8C%E6%88%90%E5%90%8E%E5%A4%8D%E7%9B%98%E6%9F%A5%E7%BC%BA%E8%A1%A5%E6%BC%8F%E8%AE%B0%E5%BD%95.md)\n\n\n\n\n\n## postgres\n\n### 出现启动ssl问题\n\n### 出现prisma初始化的问题\n\n### 出现数据库迁移问题\n\n### 通过navicat手写命令行不会：console\n\n\n\n\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
         "category": "知识笔记",
         "createdAt": "2026-08-05T05:34:31.720Z",
-        "updatedAt": "2026-08-28T00:13:42.697Z",
+        "updatedAt": "2026-08-31T06:58:01.409Z",
         "id": 3
       },
       {
@@ -36,11 +36,11 @@
         "id": 4
       },
       {
-        "title": "检查nestjs和java学习进度工具",
+        "title": "000检查nestjs和java学习进度工具",
         "content": "# 通过skills复习整理\n\n## grillme\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点\n\n\n## wayfinder\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点\n\n## eli5\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点",
         "category": "项目规划",
         "createdAt": "2026-08-31T05:40:34.816Z",
-        "updatedAt": "2026-08-31T05:40:34.816Z",
+        "updatedAt": "2026-08-31T05:41:10.882Z",
         "id": 5
       }
     ],
