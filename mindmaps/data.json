@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-31T06:58:02.992Z",
+  "updatedAt": "2026-08-31T07:44:03.621Z",
   "collections": {
     "mindmaps": [
       {
@@ -42,6 +42,14 @@
         "createdAt": "2026-08-31T05:40:34.816Z",
         "updatedAt": "2026-08-31T05:41:10.882Z",
         "id": 5
+      },
+      {
+        "title": "3.个人ai开发agent项目",
+        "content": "# AI的agent开发项目\n\n- codexharness，[项目地址分支：feature/ai-dev](https://github.com/nyhxiaoning/my-codex-harness.git)\n  - 未来增加：项目不只是套一层聊天 UI ，而是希望完整实现 Agent Loop 、Tool Calling 、上下文管理、SQLite 持久化、浏览器操作、定时任务、MCP 、Knowledge/RAG ，以及 Electron + Python 的桌面端架构。\n\n\n  - 分支2\n",
+        "category": "项目规划",
+        "createdAt": "2026-08-31T07:42:51.968Z",
+        "updatedAt": "2026-08-31T07:42:51.968Z",
+        "id": 6
       }
     ],
     "prompts": [],
