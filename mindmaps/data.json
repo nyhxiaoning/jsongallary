@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-28T00:13:43.852Z",
+  "updatedAt": "2026-08-31T05:40:38.101Z",
   "collections": {
     "mindmaps": [
       {
@@ -26,6 +26,22 @@
         "createdAt": "2026-08-05T05:34:31.720Z",
         "updatedAt": "2026-08-28T00:13:42.697Z",
         "id": 3
+      },
+      {
+        "title": "2.通过next-forge熟悉",
+        "content": "# nextjs模版项目[（prisma和模版nextjs）](https://github.com/nyhxiaoning/next-forge)\n\n- 中心主题\n  - 分支1\n  - 分支2\n",
+        "category": "学习计划",
+        "createdAt": "2026-08-31T05:38:12.850Z",
+        "updatedAt": "2026-08-31T05:38:52.049Z",
+        "id": 4
+      },
+      {
+        "title": "检查nestjs和java学习进度工具",
+        "content": "# 通过skills复习整理\n\n## grillme\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点\n\n\n## wayfinder\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点\n\n## eli5\n- 让自己不理解的问题梳理\n- 整理自己不会的技术点\n- 复盘自己的技术点",
+        "category": "项目规划",
+        "createdAt": "2026-08-31T05:40:34.816Z",
+        "updatedAt": "2026-08-31T05:40:34.816Z",
+        "id": 5
       }
     ],
     "prompts": [],
