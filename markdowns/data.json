@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-22T02:45:07.012Z",
+  "updatedAt": "2026-09-02T06:35:05.175Z",
   "collections": {
     "markdowns": [
       {
@@ -22,12 +22,12 @@
         "id": 2
       },
       {
-        "title": "3.soybean项目的nestjs的ruoyi开发框架",
-        "content": "## 当前的项目架构说明\n\n[nestjs的soybean的项目架构](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/feature/dev/Nestjs%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0%E8%AF%B4%E6%98%8E.md \"项目架构\")\n\n## 1.给项目增加一个: 文稿模块的学习记录\n\n### 需求整理\n\n\n\n\n\n### 数据结构设计分析\n\n### 数据库的模块\n\n### 业务模块\n",
+        "title": "3.soybean项目模版的nestjs的ruoyi开发框架",
+        "content": "## 当前的项目架构说明\n\n[nestjs的soybean的项目架构](https://github.com/nyhxiaoning/Nest-Admin-Soybean/blob/feature/dev/Nestjs%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0%E8%AF%B4%E6%98%8E.md \"项目架构\")\n\n## 结合Soybean出一个案例template模版nestjs-template\n\n\n\n## 结合Management_nest出两个案例template模版nestjs-template和nestjs- template2\n\n\n\n## 结合ruoyi分支出一个完整的模版ruoyi系统管理\n\n\n\n\n\n## 1.给项目增加一个: 文稿模块的学习记录\n\n### 需求整理\n\n### 数据结构设计分析\n\n### 数据库的模块\n\n### 业务模块\n",
         "category": "知识笔记",
         "description": "ruoyi框架开发",
         "createdAt": "2026-08-08T03:21:14.071Z",
-        "updatedAt": "2026-08-15T09:34:14.185Z",
+        "updatedAt": "2026-09-02T06:35:02.105Z",
         "id": 3
       },
       {
