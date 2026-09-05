@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-22T07:39:58.629Z",
+  "updatedAt": "2026-09-05T23:47:49.585Z",
   "collections": {
     "promptConnecters": [
       {
@@ -124,6 +124,18 @@
         "createdAt": "2026-08-22T07:39:42.710Z",
         "updatedAt": "2026-08-22T07:39:42.710Z",
         "id": 11
+      },
+      {
+        "name": "万能开发翻译工具",
+        "snippetContent": "\n============================================================\n简洁的国际化的prompt内容如下，请按照下面的翻译原则，翻译\n\n### ** 核心翻译原则 (Core Translation Principles)**\n\n#### **原则一：内容准确性与文化适应性 (Accuracy & Cultural Adaptation)**\n\n1. **拒绝字面直译 (No Literal Translation):** 请优先考虑**本地化 (Localization)** 而非简单翻译。寻找目标语言中最自然、最符合当地用户习惯的表达方式。\n2. **专业术语统一 (Consistent Terminology):** 对于 AI、技术和行业特定术语（如：Agent, Workflow, API, LLM, Prompt），我们将提供一份核心术语表 (Glossary)。请严格遵守术语表。如遇新术语，请使用业界公认的标准译法，或与我们沟通确认。\n3. **理解意图 (Translate the Intent):** 特别是对于行动号召（CTA）按钮和营销标语，关键在于传达其**背后的意图和情感**，而不是字面意思。\n   - *示例：* \"Discover Your Superpower!\" 不应直译，而应翻译成能激发用户探索和赋能感的短语。\n\n#### **原则二：保持 UI/UX 布局一致性 (Maintaining UI Layout Consistency)**\n\n这是本次翻译任务的**关键限制条件**。不同语言的平均词长差异很大（如德语通常比英语长 30%），必须严格控制译文长度以避免破坏界面。\n\n1. **简洁至上 (Brevity is Key):** 在不牺牲清晰度的前提下，请尽量使用**最简洁**的表达。\n2. **遵守字符限制 (Adhere to Character Limits):** 对于空间有限的 UI 元素，建议的字符/单词数与原始语言长度相差不超过 10%。请务必在此限制内完成翻译。\n   - **重点关注元素：**\n     - **导航栏链接** (e.g., \"Agents\", \"Rankings\")\n     - **按钮文本** (e.g., \"Load More\", \"Visit Website\", \"Read more\")\n     - **卡片标题** (e.g., Agent/Blog card titles)\n     - **表单占位符** (e.g., \"Search agents...\")\n     - **标签/徽章** (e.g., \"New\", \"Sponsored\")\n3. **长文处理策略 (Strategy for Long Translations):** 如果一个准确自然的翻译超出了长度限制，请按以下优先级处理：\n   - **第一选择：** 寻找一个更短的同义词或表达方式。\n   - **第二选择：** 在保持核心意思不变的情况下，重新组织短语。\n   - **最终选择：** 将该条目标记出来，并提供一个（过长的）建议翻译和一个简要说明，由我们的团队来做最终决定或调整 UI。\n\n---\n\n#### **3. 其它要求**\n\n- **占位符与变量 (Placeholders & Variables):**\n  - 源文本中可能包含 {{variable}}、%s、<b> 等代码占位符或 HTML 标签。\n  - **要求：** **请务必保持这些占位符和标签原样不动，不要翻译或修改它们**，并确保它们在译文中的位置和数量与原文一致。\n  - 示例 (含变量): \"Welcome, {{username}}!\" -> \"欢迎，{{username}}！\" (正确)\n  - 示例 (含标签): \"Click <b>here</b> to continue\" -> \"点击<b>此处</b>继续\" (正确)\n\n\n\n",
+        "category": [
+          "工具",
+          "翻译"
+        ],
+        "description": "翻译工具",
+        "createdAt": "2026-09-05T23:47:46.697Z",
+        "updatedAt": "2026-09-05T23:47:46.697Z",
+        "id": 12
       }
     ],
     "prompts": [],
