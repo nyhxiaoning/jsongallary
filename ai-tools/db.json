@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-19T03:07:23.421Z",
+  "updatedAt": "2026-09-10T05:50:02.066Z",
   "collections": {
     "aiTools": [
       {
@@ -508,6 +508,18 @@
         "createdAt": "2026-08-19T03:07:16.032Z",
         "updatedAt": "2026-08-19T03:07:16.032Z",
         "id": 45
+      },
+      {
+        "name": "在线流程图mermaid制作导入工具",
+        "url": "https://cathrynlavery.github.io/diagram-design/",
+        "category": "编程",
+        "subcategory": [
+          "设计"
+        ],
+        "description": "设计编程工具，mermaid核心\n原生使用：skills需要安装地址：https://github.com/cathrynlavery/diagram-design",
+        "createdAt": "2026-09-10T02:59:15.894Z",
+        "updatedAt": "2026-09-10T05:25:00.381Z",
+        "id": 46
       }
     ],
     "prompts": [],
