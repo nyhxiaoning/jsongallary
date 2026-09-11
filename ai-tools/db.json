@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-10T05:50:02.066Z",
+  "updatedAt": "2026-09-11T13:55:02.106Z",
   "collections": {
     "aiTools": [
       {
@@ -520,6 +520,18 @@
         "createdAt": "2026-09-10T02:59:15.894Z",
         "updatedAt": "2026-09-10T05:25:00.381Z",
         "id": 46
+      },
+      {
+        "name": "在线图片转图书集",
+        "url": "https://life-albums.vercel.app/",
+        "category": "图片",
+        "subcategory": [
+          "艺术"
+        ],
+        "description": "图片转图书",
+        "createdAt": "2026-09-11T13:54:59.801Z",
+        "updatedAt": "2026-09-11T13:54:59.801Z",
+        "id": 47
       }
     ],
     "prompts": [],
