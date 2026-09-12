@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-12T01:23:35.488Z",
+  "updatedAt": "2026-09-12T01:35:15.646Z",
   "collections": {
     "aiTools": [
       {
@@ -497,6 +497,19 @@
         "createdAt": "2026-09-12T01:23:33.673Z",
         "updatedAt": "2026-09-12T01:23:33.673Z",
         "id": 44
+      },
+      {
+        "name": "lifealbum相册图书",
+        "url": "https://life-albums.vercel.app",
+        "category": "图片",
+        "subcategory": [
+          "图书",
+          "图片"
+        ],
+        "description": "图书制作旅行",
+        "createdAt": "2026-09-12T01:35:13.964Z",
+        "updatedAt": "2026-09-12T01:35:13.964Z",
+        "id": 45
       }
     ],
     "prompts": [],
