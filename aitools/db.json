@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-08-06T08:17:12.222Z",
+  "updatedAt": "2026-09-12T01:23:35.488Z",
   "collections": {
     "aiTools": [
       {
@@ -484,6 +484,19 @@
         "createdAt": "2026-08-06T08:16:59.909Z",
         "updatedAt": "2026-08-06T08:16:59.909Z",
         "id": 43
+      },
+      {
+        "name": "拼豆游戏",
+        "url": "https://pindou-nu.vercel.app/",
+        "category": "图片",
+        "subcategory": [
+          "拼豆",
+          "游戏"
+        ],
+        "description": "",
+        "createdAt": "2026-09-12T01:23:33.673Z",
+        "updatedAt": "2026-09-12T01:23:33.673Z",
+        "id": 44
       }
     ],
     "prompts": [],
@@ -493,6 +506,10 @@
     "ambientSounds": [],
     "textSnippets": [],
     "videoModels": [],
-    "managedPrompts": []
+    "managedPrompts": [],
+    "urls": [],
+    "promptConnecters": [],
+    "mindmaps": [],
+    "markdowns": []
   }
 }
