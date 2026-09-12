@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-12T01:43:28.294Z",
+  "updatedAt": "2026-09-12T02:28:57.301Z",
   "collections": {
     "textSnippets": [
       {
@@ -209,6 +209,15 @@
         "createdAt": "2026-09-12T01:43:24.245Z",
         "updatedAt": "2026-09-12T01:43:24.245Z",
         "id": 25
+      },
+      {
+        "title": "codex网络优化重连",
+        "content": "我现在使用了clashVerge工具代理访问网络，请让它稳定连接当前代理，长期稳定可以让它做一个开启自启静默启动的守护脚本 检测当前代理，确保 codex 连接当前代理，如果不一样就连新的代理。",
+        "category": "Prompt",
+        "description": "工具网络学习clashVerge",
+        "createdAt": "2026-09-12T02:28:55.759Z",
+        "updatedAt": "2026-09-12T02:28:55.759Z",
+        "id": 26
       }
     ],
     "prompts": [],
