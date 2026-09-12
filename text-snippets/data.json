@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-10T06:07:45.217Z",
+  "updatedAt": "2026-09-12T02:36:22.560Z",
   "collections": {
     "textSnippets": [
       {
@@ -149,11 +149,11 @@
       },
       {
         "title": "git常见账号问题和网络问题",
-        "content": "1.临时查看和切换账号git\n查看邮箱：git config --local user.email\n切换邮箱： git config --local user.email \"1540097293@qq.com\"\n查看name: git config --local user.name\n切换name:  git config --local user.name \"nyhxiaoning\"\n2.临时切换为公司的gitlab账号\ngit config --local user.email \"ningyongheng@jeejio.com\"\ngit config --local user.name \"yongheng ning\"\ngit config --global user.name \"yongheng ning\"\ngit config --global user.email \"ningyongheng@jeejio.com\"",
+        "content": "1.临时查看和切换账号git\n查看邮箱：git config --local user.email\n切换邮箱： git config --local user.email \"1540097293@qq.com\"\n查看name: git config --local user.name\n切换name:  git config --local user.name \"nyhxiaoning\"\n2.",
         "category": "代码",
         "description": "工具常见问题",
         "createdAt": "2026-06-16T00:18:09.944Z",
-        "updatedAt": "2026-09-10T06:07:34.652Z",
+        "updatedAt": "2026-06-16T00:18:09.944Z",
         "id": 19
       },
       {
@@ -202,13 +202,22 @@
         "id": 24
       },
       {
-        "title": "在线vconsole引入",
-        "content": "<!-- vconsole 最新版 -->\n<script src=\"https://cdn.jsdelivr.net/npm/vconsole@latest/dist/vconsole.min.js\"></script>\n<script>\n// 实例化\nnew VConsole()\n</script>",
-        "category": "代码",
-        "description": "在线vconsole",
-        "createdAt": "2026-08-06T05:41:10.367Z",
-        "updatedAt": "2026-08-06T05:41:10.367Z",
+        "title": "codex的对话增加时间和说明",
+        "content": "请将历史对话标题统一为「MMDD|类型|主题」。 日期使用上海时区的实际创建日期；类型从功能、设计、修复、优化、发布、探索、文档、研究中选择；主题根据实际内容简洁概括，不重复项目名。无法确定时保留原名。 只修改对话标题，保持项目名称、内容、归属、排序、置顶和归档状态不变。将此规则保存到实际生效的全局指令中，覆盖未来新建项目： 发给自己的Agent截图保存 新对话首轮回复结束前，主动调用标题工具按此格式命名。 请直接执行并核验结果；没有改名能力时如实说明，不要把建议标题当作已修改。",
+        "category": "Prompt",
+        "description": "对话和标记备注",
+        "createdAt": "2026-09-12T01:43:24.245Z",
+        "updatedAt": "2026-09-12T01:43:24.245Z",
         "id": 25
+      },
+      {
+        "title": "codex网络优化重连",
+        "content": "我现在使用了clashVerge工具代理访问网络，请让它稳定连接当前代理，长期稳定可以让它做一个开启自启静默启动的守护脚本 检测当前代理，确保 codex 连接当前代理，如果不一样就连新的代理。",
+        "category": "Prompt",
+        "description": "工具网络学习clashVerge",
+        "createdAt": "2026-09-12T02:28:55.759Z",
+        "updatedAt": "2026-09-12T02:28:55.759Z",
+        "id": 26
       }
     ],
     "prompts": [],
