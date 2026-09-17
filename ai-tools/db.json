@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-11T13:55:02.106Z",
+  "updatedAt": "2026-09-17T02:15:09.338Z",
   "collections": {
     "aiTools": [
       {
@@ -532,6 +532,19 @@
         "createdAt": "2026-09-11T13:54:59.801Z",
         "updatedAt": "2026-09-11T13:54:59.801Z",
         "id": 47
+      },
+      {
+        "name": "markdown转PDF文档导出",
+        "url": "https://dompdfjs.lisky.com.cn/",
+        "category": "下载",
+        "subcategory": [
+          "pdf",
+          "markdown"
+        ],
+        "description": "源码地址：https://github.com/nyhxiaoning/dompdf.js",
+        "createdAt": "2026-09-17T02:15:07.294Z",
+        "updatedAt": "2026-09-17T02:15:07.294Z",
+        "id": 48
       }
     ],
     "prompts": [],
