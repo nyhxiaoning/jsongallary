@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-13T07:46:30.497Z",
+  "updatedAt": "2026-09-19T00:15:20.936Z",
   "collections": {
     "aiTools": [
       {
@@ -510,6 +510,18 @@
         "createdAt": "2026-09-12T01:35:13.964Z",
         "updatedAt": "2026-09-12T01:35:13.964Z",
         "id": 45
+      },
+      {
+        "name": "一行命令，关闭端口",
+        "url": "https://wangchujiang.com/linux-command/",
+        "category": "编程",
+        "subcategory": [
+          "端口"
+        ],
+        "description": "关闭",
+        "createdAt": "2026-09-19T00:15:17.480Z",
+        "updatedAt": "2026-09-19T00:15:17.480Z",
+        "id": 47
       }
     ],
     "prompts": [],
