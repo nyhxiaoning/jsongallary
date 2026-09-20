@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-17T02:15:09.338Z",
+  "updatedAt": "2026-09-20T03:04:53.000Z",
   "collections": {
     "aiTools": [
       {
@@ -545,6 +545,19 @@
         "createdAt": "2026-09-17T02:15:07.294Z",
         "updatedAt": "2026-09-17T02:15:07.294Z",
         "id": 48
+      },
+      {
+        "name": "查看当前的电脑公网ip地址",
+        "url": "https://myip.ipip.net/",
+        "category": "编程",
+        "subcategory": [
+          "公网",
+          "ip"
+        ],
+        "description": "- [真实宽带公网网站1不仅显示 IP，还会显示归属地和运营商](https://myip.ipip.net/)\n\n- [真实宽带公网网站2不仅显示 IP，还会显示归属地和运营商](https://cip.cc/)",
+        "createdAt": "2026-09-20T03:04:51.696Z",
+        "updatedAt": "2026-09-20T03:04:51.696Z",
+        "id": 49
       }
     ],
     "prompts": [],
