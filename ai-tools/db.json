@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-24T07:37:46.084Z",
+  "updatedAt": "2026-09-24T09:47:46.061Z",
   "collections": {
     "aiTools": [
       {
@@ -582,6 +582,18 @@
         "createdAt": "2026-09-24T07:36:48.233Z",
         "updatedAt": "2026-09-24T07:37:44.532Z",
         "id": 51
+      },
+      {
+        "name": "快速将本地html工程变成一个文件",
+        "url": "https://html-to-link-inky.vercel.app/",
+        "category": "编程",
+        "subcategory": [
+          "压缩"
+        ],
+        "description": "将一个html多文件工程转成一个html文件，发送给其他用户\n",
+        "createdAt": "2026-09-24T09:47:37.565Z",
+        "updatedAt": "2026-09-24T09:47:37.565Z",
+        "id": 52
       }
     ],
     "prompts": [],
