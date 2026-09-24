@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-24T07:35:30.907Z",
+  "updatedAt": "2026-09-24T07:36:49.326Z",
   "collections": {
     "aiTools": [
       {
@@ -570,6 +570,18 @@
         "createdAt": "2026-09-24T06:02:22.818Z",
         "updatedAt": "2026-09-24T06:02:22.818Z",
         "id": 50
+      },
+      {
+        "name": "视频压缩工具1",
+        "url": "https://freevideocompressor.online/",
+        "category": "视频",
+        "subcategory": [
+          "压缩"
+        ],
+        "description": "压缩能力一般降低50%",
+        "createdAt": "2026-09-24T07:36:48.233Z",
+        "updatedAt": "2026-09-24T07:36:48.233Z",
+        "id": 51
       }
     ],
     "prompts": [],
