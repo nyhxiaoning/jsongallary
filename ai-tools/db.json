@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-24T07:36:49.326Z",
+  "updatedAt": "2026-09-24T07:37:46.084Z",
   "collections": {
     "aiTools": [
       {
@@ -578,9 +578,9 @@
         "subcategory": [
           "压缩"
         ],
-        "description": "压缩能力一般降低50%",
+        "description": "压缩能力一般降低极致到5%",
         "createdAt": "2026-09-24T07:36:48.233Z",
-        "updatedAt": "2026-09-24T07:36:48.233Z",
+        "updatedAt": "2026-09-24T07:37:44.532Z",
         "id": 51
       }
     ],
