@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-24T09:48:38.055Z",
+  "updatedAt": "2026-09-28T02:19:23.814Z",
   "collections": {
     "aiTools": [
       {
@@ -452,9 +452,9 @@
           "文字笔记",
           "笔记"
         ],
-        "description": "个人的文字图书馆笔记\n",
+        "description": "个人的文字图书馆笔记\n另一个管理工具：加上音频生成工具：Cairn\nhttps://github.com/nyhxiaoning/books-Cairn-alls.git\n\n",
         "createdAt": "2026-07-27T01:56:12.153Z",
-        "updatedAt": "2026-07-27T01:56:28.631Z",
+        "updatedAt": "2026-09-28T02:19:19.974Z",
         "id": 41
       },
       {
