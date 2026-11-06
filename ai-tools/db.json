@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-09-28T02:19:23.814Z",
+  "updatedAt": "2026-11-06T14:10:48.307Z",
   "collections": {
     "aiTools": [
       {
@@ -452,9 +452,9 @@
           "文字笔记",
           "笔记"
         ],
-        "description": "个人的文字图书馆笔记\n另一个管理工具：加上音频生成工具：Cairn\nhttps://github.com/nyhxiaoning/books-Cairn-alls.git\n\n",
+        "description": "个人的文字图书馆笔记\n",
         "createdAt": "2026-07-27T01:56:12.153Z",
-        "updatedAt": "2026-09-28T02:19:19.974Z",
+        "updatedAt": "2026-07-27T01:56:28.631Z",
         "id": 41
       },
       {
@@ -594,6 +594,20 @@
         "createdAt": "2026-09-24T09:47:37.565Z",
         "updatedAt": "2026-09-24T09:47:37.565Z",
         "id": 52
+      },
+      {
+        "name": "抖音视频下载",
+        "url": "https://www.mtotech.com/#share-guide",
+        "category": "视频",
+        "subcategory": [
+          "抖音",
+          "小红书",
+          "B站"
+        ],
+        "description": "",
+        "createdAt": "2026-11-06T14:10:45.374Z",
+        "updatedAt": "2026-11-06T14:10:45.374Z",
+        "id": 53
       }
     ],
     "prompts": [],
