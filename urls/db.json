@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-07-25T00:24:55.636Z",
+  "version": 7,
+  "updatedAt": "2026-11-11T11:51:26.927Z",
   "collections": {
     "urls": [
       {
@@ -112,6 +112,56 @@
         "createdAt": "2026-07-25T00:24:14.006Z",
         "updatedAt": "2026-07-25T00:24:14.006Z",
         "id": 11
+      },
+      {
+        "name": "我的作品汇总-图书网站1",
+        "url": "https://litmap.henryheng1119.workers.dev/",
+        "snippetContent": "查看世界各地的图书管理",
+        "category": "工具",
+        "description": "图书网站全球汇",
+        "createdAt": "2026-11-10T10:55:21.661Z",
+        "updatedAt": "2026-11-10T10:55:21.661Z",
+        "id": 12
+      },
+      {
+        "name": "我的作品汇总-图书网站2",
+        "url": "https://book-map-ten.vercel.app/",
+        "snippetContent": "展示当前的所有的诗人地图展示",
+        "category": "工具",
+        "description": "诗人地图整理",
+        "createdAt": "2026-11-10T10:55:59.172Z",
+        "updatedAt": "2026-11-10T10:55:59.172Z",
+        "id": 13
+      },
+      {
+        "name": "我的作品汇总-图书网站3",
+        "url": "https://books-manager-seven.vercel.app/",
+        "snippetContent": "阅读笔记整理网站",
+        "category": "工具",
+        "description": "阅读网站笔记整理",
+        "createdAt": "2026-11-10T10:56:41.780Z",
+        "updatedAt": "2026-11-10T10:56:41.780Z",
+        "id": 14
+      },
+      {
+        "name": "我的作品汇总-在线流程图存储版本",
+        "url": "https://next-ai-draw-io-eta-khaki.vercel.app/",
+        "snippetContent": "在线流程图-支持存储",
+        "category": "工具",
+        "description": "在线流程图",
+        "createdAt": "2026-11-10T10:57:45.461Z",
+        "updatedAt": "2026-11-10T10:57:45.461Z",
+        "id": 15
+      },
+      {
+        "name": "我的作品汇总-ui资源汇总整理",
+        "url": "https://ui-trae-next-net.vercel.app/zh",
+        "snippetContent": "1.整理ui整理汇总资料\n2.支持实时修改,D1的存储整理,这里的内容修改可以访问输入密码",
+        "category": "工具",
+        "description": "ui资源未来整理: 增加更加方便的展示和编辑实现",
+        "createdAt": "2026-11-10T11:00:25.363Z",
+        "updatedAt": "2026-11-10T11:00:25.363Z",
+        "id": 16
       }
     ],
     "prompts": [],
@@ -122,6 +172,9 @@
     "aiTools": [],
     "textSnippets": [],
     "videoModels": [],
-    "managedPrompts": []
+    "managedPrompts": [],
+    "promptConnecters": [],
+    "mindmaps": [],
+    "markdowns": []
   }
 }
