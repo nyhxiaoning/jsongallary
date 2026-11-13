@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-11-11T11:51:26.927Z",
+  "updatedAt": "2026-11-13T04:19:44.081Z",
   "collections": {
     "urls": [
       {
@@ -162,6 +162,16 @@
         "createdAt": "2026-11-10T11:00:25.363Z",
         "updatedAt": "2026-11-10T11:00:25.363Z",
         "id": 16
+      },
+      {
+        "name": "我的作品汇总-3D花园地球",
+        "url": "https://ocean-garden-blush.vercel.app/",
+        "snippetContent": "花园地球,地球上的花花草草整理",
+        "category": "工具",
+        "description": "地球上展示花花草草",
+        "createdAt": "2026-11-13T04:19:42.548Z",
+        "updatedAt": "2026-11-13T04:19:42.548Z",
+        "id": 17
       }
     ],
     "prompts": [],
