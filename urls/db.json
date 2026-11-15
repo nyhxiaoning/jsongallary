@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-11-13T04:19:44.081Z",
+  "updatedAt": "2026-11-15T10:07:28.957Z",
   "collections": {
     "urls": [
       {
@@ -172,6 +172,36 @@
         "createdAt": "2026-11-13T04:19:42.548Z",
         "updatedAt": "2026-11-13T04:19:42.548Z",
         "id": 17
+      },
+      {
+        "name": "我的作品汇总-自定义浏览器书签",
+        "url": "https://github.com/nyhxiaoning/mulai-chrome.git",
+        "snippetContent": "浏览器的tab的页面标签系统整理",
+        "category": "工具",
+        "description": "自定义chrome浏览器tab页面",
+        "createdAt": "2026-11-13T04:28:54.484Z",
+        "updatedAt": "2026-11-13T04:28:54.484Z",
+        "id": 18
+      },
+      {
+        "name": "我的作品汇总-图片资源汇总管理器",
+        "url": "https://picture-github-gallary.vercel.app/",
+        "snippetContent": "图片资源上传管理",
+        "category": "工具",
+        "description": "图片资料汇总整理",
+        "createdAt": "2026-11-13T05:25:44.298Z",
+        "updatedAt": "2026-11-13T05:25:44.298Z",
+        "id": 19
+      },
+      {
+        "name": "我的作品汇总-家庭厨房app",
+        "url": "https://raspy-haze-0b1d.henryheng1119.workers.dev/",
+        "snippetContent": "家庭餐厅厨房app",
+        "category": "工具",
+        "description": "厨房",
+        "createdAt": "2026-11-15T10:07:27.675Z",
+        "updatedAt": "2026-11-15T10:07:27.675Z",
+        "id": 20
       }
     ],
     "prompts": [],
