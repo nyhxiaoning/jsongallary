@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updatedAt": "2026-11-11T11:50:30.580Z",
+  "updatedAt": "2026-11-15T07:35:05.171Z",
   "collections": {
     "aiTools": [
       {
@@ -620,6 +620,19 @@
         "createdAt": "2026-11-11T11:50:27.688Z",
         "updatedAt": "2026-11-11T11:50:27.688Z",
         "id": 54
+      },
+      {
+        "name": "待模仿:国外的有趣图书馆",
+        "url": "https://spine.liv2code.in/",
+        "category": "文字",
+        "subcategory": [
+          "图书",
+          "阅读"
+        ],
+        "description": "",
+        "createdAt": "2026-11-15T07:35:03.703Z",
+        "updatedAt": "2026-11-15T07:35:03.703Z",
+        "id": 55
       }
     ],
     "prompts": [],
